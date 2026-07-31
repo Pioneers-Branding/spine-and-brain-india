@@ -114,6 +114,102 @@
                                 <div class="col-md-6 col-sm-6 col-lg-4">
                                     <div class="news-box3 position-relative w-100">
                                         <div class="news-img3 brd-rd5 position-relative overflow-hidden w-100">
+                                            <a href="/blog/when-does-back-pain-require-surgery/" title="When Does Back Pain Require Surgery?">
+                                                <img class="img-fluid w-100" src="assets/img/services/Surgery Types.webp" alt="When Does Back Pain Require Surgery?">
+                                            </a>
+                                        </div>
+                                        <div class="news-info3 w-100">
+                                            <h3 class="mb-0"><a href="/blog/when-does-back-pain-require-surgery/" title="When Does Back Pain Require Surgery?">When Does Back Pain Require Surgery?</a></h3>
+                                            <ul class="meta2 mb-0 list-unstyled d-flex flex-wrap align-items-center w-100">
+                                                <li class="thm-clr"><a href="/blog/when-does-back-pain-require-surgery/" title="">Dr. Arun Saroha</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-6 col-sm-6 col-lg-4">
+                                    <div class="news-box3 position-relative w-100">
+                                        <div class="news-img3 brd-rd5 position-relative overflow-hidden w-100">
+                                            <a href="/blog/how-do-i-know-if-my-slip-disc-is-serious/" title="How Do I Know If My Slipped Disc Is Serious?">
+                                                <img class="img-fluid w-100" src="assets/img/services/back pain 1.webp" alt="How Do I Know If My Slipped Disc Is Serious?">
+                                            </a>
+                                        </div>
+                                        <div class="news-info3 w-100">
+                                            <h3 class="mb-0"><a href="/blog/how-do-i-know-if-my-slip-disc-is-serious/" title="How Do I Know If My Slipped Disc Is Serious?">How Do I Know If My Slipped Disc Is Serious?</a></h3>
+                                            <ul class="meta2 mb-0 list-unstyled d-flex flex-wrap align-items-center w-100">
+                                                <li class="thm-clr"><a href="/blog/how-do-i-know-if-my-slip-disc-is-serious/" title="">Dr. Arun Saroha</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-6 col-sm-6 col-lg-4">
+                                    <div class="news-box3 position-relative w-100">
+                                        <div class="news-img3 brd-rd5 position-relative overflow-hidden w-100">
+                                            <a href="/blog/can-a-herniated-disc-heal-without-surgery/" title="Can a Herniated Disc Heal Without Surgery?">
+                                                <img class="img-fluid w-100" src="assets/img/services/Degenerative disc disease_11zon.webp" alt="Can a Herniated Disc Heal Without Surgery?">
+                                            </a>
+                                        </div>
+                                        <div class="news-info3 w-100">
+                                            <h3 class="mb-0"><a href="/blog/can-a-herniated-disc-heal-without-surgery/" title="Can a Herniated Disc Heal Without Surgery?">Can a Herniated Disc Heal Without Surgery?</a></h3>
+                                            <ul class="meta2 mb-0 list-unstyled d-flex flex-wrap align-items-center w-100">
+                                                <li class="thm-clr"><a href="/blog/can-a-herniated-disc-heal-without-surgery/" title="">Dr. Arun Saroha</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-6 col-sm-6 col-lg-4">
+                                    <div class="news-box3 position-relative w-100">
+                                        <div class="news-img3 brd-rd5 position-relative overflow-hidden w-100">
+                                            <a href="/blog/what-is-the-best-treatment-for-sciatica/" title="What Is the Best Treatment for Sciatica?">
+                                                <img class="img-fluid w-100" src="assets/img/services/backoain_281724122_11zon.webp" alt="What Is the Best Treatment for Sciatica?">
+                                            </a>
+                                        </div>
+                                        <div class="news-info3 w-100">
+                                            <h3 class="mb-0"><a href="/blog/what-is-the-best-treatment-for-sciatica/" title="What Is the Best Treatment for Sciatica?">What Is the Best Treatment for Sciatica?</a></h3>
+                                            <ul class="meta2 mb-0 list-unstyled d-flex flex-wrap align-items-center w-100">
+                                                <li class="thm-clr"><a href="/blog/what-is-the-best-treatment-for-sciatica/" title="">Dr. Arun Saroha</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-6 col-sm-6 col-lg-4">
+                                    <div class="news-box3 position-relative w-100">
+                                        <div class="news-img3 brd-rd5 position-relative overflow-hidden w-100">
+                                            <a href="/blog/is-endoscopic-spine-surgery-better-than-traditional-spine-surgery/" title="Is Endoscopic Spine Surgery Better Than Traditional Spine Surgery?">
+                                                <img class="img-fluid w-100" src="assets/img/services/endoscopic surgery.webp" alt="Is Endoscopic Spine Surgery Better Than Traditional Spine Surgery?">
+                                            </a>
+                                        </div>
+                                        <div class="news-info3 w-100">
+                                            <h3 class="mb-0"><a href="/blog/is-endoscopic-spine-surgery-better-than-traditional-spine-surgery/" title="Is Endoscopic Spine Surgery Better Than Traditional Spine Surgery?">Is Endoscopic Spine Surgery Better Than Traditional Spine Surgery?</a></h3>
+                                            <ul class="meta2 mb-0 list-unstyled d-flex flex-wrap align-items-center w-100">
+                                                <li class="thm-clr"><a href="/blog/is-endoscopic-spine-surgery-better-than-traditional-spine-surgery/" title="">Dr. Arun Saroha</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-6 col-sm-6 col-lg-4">
+                                    <div class="news-box3 position-relative w-100">
+                                        <div class="news-img3 brd-rd5 position-relative overflow-hidden w-100">
+                                            <a href="/blog/why-does-my-back-pain-keep-coming-back/" title="Why Does My Back Pain Keep Coming Back?">
+                                                <img class="img-fluid w-100" src="assets/img/services/Back pain.webp" alt="Why Does My Back Pain Keep Coming Back?">
+                                            </a>
+                                        </div>
+                                        <div class="news-info3 w-100">
+                                            <h3 class="mb-0"><a href="/blog/why-does-my-back-pain-keep-coming-back/" title="Why Does My Back Pain Keep Coming Back?">Why Does My Back Pain Keep Coming Back?</a></h3>
+                                            <ul class="meta2 mb-0 list-unstyled d-flex flex-wrap align-items-center w-100">
+                                                <li class="thm-clr"><a href="/blog/why-does-my-back-pain-keep-coming-back/" title="">Dr. Arun Saroha</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-6 col-sm-6 col-lg-4">
+                                    <div class="news-box3 position-relative w-100">
+                                        <div class="news-img3 brd-rd5 position-relative overflow-hidden w-100">
                                             <a href="/blog/who-is-the-best-neurosurgeon-in-gurgaon/" title="Who Is the Best Neurosurgeon in Gurgaon? How to Choose the Right One">
                                                 <img class="img-fluid w-100" src="assets/images/resources/best-neurosurgeon-in-india.webp" alt="Who Is the Best Neurosurgeon in Gurgaon? How to Choose the Right One">
                                             </a>

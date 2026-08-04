@@ -434,5 +434,37 @@
  
       <!--Fouita Popup-->
       
-      <?php include 'footer.php';?>
+      <!-- SBI YouTube Videos Section -->
+<section class="sbi-vid" aria-label="Videos by Dr. Arun Saroha">
+  <div class="sbi-vid-wrap">
+    <div class="sbi-vid-head">
+      <span class="sbi-vid-eyebrow"><svg width="18" height="18" viewBox="0 0 24 24" fill="#dc2626" aria-hidden="true"><path d="M23 12s0-3.9-.5-5.8a3 3 0 0 0-2.1-2.1C18.5 3.6 12 3.6 12 3.6s-6.5 0-8.4.5A3 3 0 0 0 1.5 6.2C1 8.1 1 12 1 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 8.4.5 8.4.5s6.5 0 8.4-.5a3 3 0 0 0 2.1-2.1C23 15.9 23 12 23 12zM9.8 15.5v-7l6.2 3.5-6.2 3.5z"/></svg> Video Library</span>
+      <h2>Neurologist in Sonipat: Watch Expert Videos</h2>
+      <p>Dr. Arun Saroha shares patient testimonials and expert guidance on neurological conditions and brain care for patients in Sonipat and across India.</p>
+    </div>
+    <div class="sbi-vid-grid">
+        <div class="sbi-vid-card">
+          <div class="sbi-vid-frame">
+            <button type="button" class="sbi-vid-thumb" data-ytid="YaqEacpw-kE" data-title="Understanding a Complex Neurological Condition" style="background-image:url('https://i.ytimg.com/vi/YaqEacpw-kE/hqdefault.jpg')" aria-label="Play video: Understanding a Complex Neurological Condition"><span class="sbi-vid-play"></span></button>
+          </div>
+          <p class="sbi-vid-title">Understanding a Complex Neurological Condition</p>
+        </div>
+        <div class="sbi-vid-card">
+          <div class="sbi-vid-frame">
+            <button type="button" class="sbi-vid-thumb" data-ytid="TCogn2SY3ys" data-title="When Should You See a Neurologist?" style="background-image:url('https://i.ytimg.com/vi/TCogn2SY3ys/hqdefault.jpg')" aria-label="Play video: When Should You See a Neurologist?"><span class="sbi-vid-play"></span></button>
+          </div>
+          <p class="sbi-vid-title">When Should You See a Neurologist?</p>
+        </div>
+        <div class="sbi-vid-card">
+          <div class="sbi-vid-frame">
+            <button type="button" class="sbi-vid-thumb" data-ytid="ki888H99xzM" data-title="Is Coffee Good for Your Brain?" style="background-image:url('https://i.ytimg.com/vi/ki888H99xzM/hqdefault.jpg')" aria-label="Play video: Is Coffee Good for Your Brain?"><span class="sbi-vid-play"></span></button>
+          </div>
+          <p class="sbi-vid-title">Is Coffee Good for Your Brain?</p>
+        </div>
+    </div>
+  </div>
+</section>
+<!-- End SBI YouTube Videos Section -->
+
+<?php include 'footer.php';?>
     </section>

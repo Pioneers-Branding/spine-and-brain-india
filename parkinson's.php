@@ -348,4 +348,37 @@
             <?php include 'single-line-form.php';?>
 
 
+<!-- SBI YouTube Videos Section -->
+<section class="sbi-vid" aria-label="Videos by Dr. Arun Saroha">
+  <div class="sbi-vid-wrap">
+    <div class="sbi-vid-head">
+      <span class="sbi-vid-eyebrow"><svg width="18" height="18" viewBox="0 0 24 24" fill="#dc2626" aria-hidden="true"><path d="M23 12s0-3.9-.5-5.8a3 3 0 0 0-2.1-2.1C18.5 3.6 12 3.6 12 3.6s-6.5 0-8.4.5A3 3 0 0 0 1.5 6.2C1 8.1 1 12 1 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 8.4.5 8.4.5s6.5 0 8.4-.5a3 3 0 0 0 2.1-2.1C23 15.9 23 12 23 12zM9.8 15.5v-7l6.2 3.5-6.2 3.5z"/></svg> Video Library</span>
+      <h2>Watch: Parkinson&#039;s Videos by Dr. Arun Saroha</h2>
+      <p>Dr. Arun Saroha, one of India&rsquo;s leading brain &amp; spine surgeons, shares patient testimonials and expert insights on brain health, memory and nutrition.</p>
+    </div>
+    <div class="sbi-vid-grid">
+        <div class="sbi-vid-card">
+          <div class="sbi-vid-frame">
+            <button type="button" class="sbi-vid-thumb" data-ytid="N-CP6NHzaNQ" data-title="How to Boost Your Memory" style="background-image:url('https://i.ytimg.com/vi/N-CP6NHzaNQ/hqdefault.jpg')" aria-label="Play video: How to Boost Your Memory"><span class="sbi-vid-play"></span></button>
+          </div>
+          <p class="sbi-vid-title">How to Boost Your Memory</p>
+        </div>
+        <div class="sbi-vid-card">
+          <div class="sbi-vid-frame">
+            <button type="button" class="sbi-vid-thumb" data-ytid="--B0mtbHavg" data-title="Top Nutrition Tips for a Sharp Mind" style="background-image:url('https://i.ytimg.com/vi/--B0mtbHavg/hqdefault.jpg')" aria-label="Play video: Top Nutrition Tips for a Sharp Mind"><span class="sbi-vid-play"></span></button>
+          </div>
+          <p class="sbi-vid-title">Top Nutrition Tips for a Sharp Mind</p>
+        </div>
+        <div class="sbi-vid-card">
+          <div class="sbi-vid-frame">
+            <button type="button" class="sbi-vid-thumb" data-ytid="ki888H99xzM" data-title="Is Coffee Good for Your Brain?" style="background-image:url('https://i.ytimg.com/vi/ki888H99xzM/hqdefault.jpg')" aria-label="Play video: Is Coffee Good for Your Brain?"><span class="sbi-vid-play"></span></button>
+          </div>
+          <p class="sbi-vid-title">Is Coffee Good for Your Brain?</p>
+        </div>
+    </div>
+  </div>
+</section>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"VideoObject","name":"How to Boost Your Memory","description":"Dr. Arun Saroha shares practical tips to improve memory and brain health.","thumbnailUrl":"https://i.ytimg.com/vi/N-CP6NHzaNQ/hqdefault.jpg","uploadDate":"2025-07-16","contentUrl":"https://www.youtube.com/watch?v=N-CP6NHzaNQ","embedUrl":"https://www.youtube-nocookie.com/embed/N-CP6NHzaNQ","publisher":{"@type":"Organization","name":"Spine and Brain India","logo":{"@type":"ImageObject","url":"https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp"}}},{"@type":"VideoObject","name":"Top Nutrition Tips for a Sharp Mind","description":"Dr. Arun Saroha's nutrition tips to keep your brain sharp and healthy.","thumbnailUrl":"https://i.ytimg.com/vi/--B0mtbHavg/hqdefault.jpg","uploadDate":"2024-08-21","contentUrl":"https://www.youtube.com/watch?v=--B0mtbHavg","embedUrl":"https://www.youtube-nocookie.com/embed/--B0mtbHavg","publisher":{"@type":"Organization","name":"Spine and Brain India","logo":{"@type":"ImageObject","url":"https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp"}}},{"@type":"VideoObject","name":"Is Coffee Good for Your Brain?","description":"Dr. Arun Saroha discusses caffeine and its effects on brain health.","thumbnailUrl":"https://i.ytimg.com/vi/ki888H99xzM/hqdefault.jpg","uploadDate":"2025-08-13","contentUrl":"https://www.youtube.com/watch?v=ki888H99xzM","embedUrl":"https://www.youtube-nocookie.com/embed/ki888H99xzM","publisher":{"@type":"Organization","name":"Spine and Brain India","logo":{"@type":"ImageObject","url":"https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp"}}}]}</script>
+<!-- End SBI YouTube Videos Section -->
+
 <?php include 'footer.php';?>

@@ -789,4 +789,36 @@
         </div>
     </div>
 </section>
+<!-- SBI YouTube Videos Section -->
+<section class="sbi-vid" aria-label="Videos by Dr. Arun Saroha">
+  <div class="sbi-vid-wrap">
+    <div class="sbi-vid-head">
+      <span class="sbi-vid-eyebrow"><svg width="18" height="18" viewBox="0 0 24 24" fill="#dc2626" aria-hidden="true"><path d="M23 12s0-3.9-.5-5.8a3 3 0 0 0-2.1-2.1C18.5 3.6 12 3.6 12 3.6s-6.5 0-8.4.5A3 3 0 0 0 1.5 6.2C1 8.1 1 12 1 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 8.4.5 8.4.5s6.5 0 8.4-.5a3 3 0 0 0 2.1-2.1C23 15.9 23 12 23 12zM9.8 15.5v-7l6.2 3.5-6.2 3.5z"/></svg> Video Library</span>
+      <h2>Headache Treatment in Meerut: Watch Expert Videos</h2>
+      <p>Dr. Arun Saroha shares patient testimonials and expert guidance on headaches and migraine for patients in Meerut and across India.</p>
+    </div>
+    <div class="sbi-vid-grid">
+        <div class="sbi-vid-card">
+          <div class="sbi-vid-frame">
+            <button type="button" class="sbi-vid-thumb" data-ytid="OTEn7-NDqsw" data-title="Frequent Headache: Reasons You Should Not Ignore" style="background-image:url('https://i.ytimg.com/vi/OTEn7-NDqsw/hqdefault.jpg')" aria-label="Play video: Frequent Headache: Reasons You Should Not Ignore"><span class="sbi-vid-play"></span></button>
+          </div>
+          <p class="sbi-vid-title">Frequent Headache: Reasons You Should Not Ignore</p>
+        </div>
+        <div class="sbi-vid-card">
+          <div class="sbi-vid-frame">
+            <button type="button" class="sbi-vid-thumb" data-ytid="TCogn2SY3ys" data-title="When Should You See a Neurologist?" style="background-image:url('https://i.ytimg.com/vi/TCogn2SY3ys/hqdefault.jpg')" aria-label="Play video: When Should You See a Neurologist?"><span class="sbi-vid-play"></span></button>
+          </div>
+          <p class="sbi-vid-title">When Should You See a Neurologist?</p>
+        </div>
+        <div class="sbi-vid-card">
+          <div class="sbi-vid-frame">
+            <button type="button" class="sbi-vid-thumb" data-ytid="YaqEacpw-kE" data-title="Understanding a Complex Neurological Condition" style="background-image:url('https://i.ytimg.com/vi/YaqEacpw-kE/hqdefault.jpg')" aria-label="Play video: Understanding a Complex Neurological Condition"><span class="sbi-vid-play"></span></button>
+          </div>
+          <p class="sbi-vid-title">Understanding a Complex Neurological Condition</p>
+        </div>
+    </div>
+  </div>
+</section>
+<!-- End SBI YouTube Videos Section -->
+
 <?php include 'footer.php';?>

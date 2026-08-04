@@ -1107,6 +1107,38 @@ document.getElementById("toggleLocationsState").addEventListener("click", functi
 });
 </script>
 
+<!-- SBI YouTube Videos Section -->
+<section class="sbi-vid" aria-label="Videos by Dr. Arun Saroha">
+  <div class="sbi-vid-wrap">
+    <div class="sbi-vid-head">
+      <span class="sbi-vid-eyebrow"><svg width="18" height="18" viewBox="0 0 24 24" fill="#dc2626" aria-hidden="true"><path d="M23 12s0-3.9-.5-5.8a3 3 0 0 0-2.1-2.1C18.5 3.6 12 3.6 12 3.6s-6.5 0-8.4.5A3 3 0 0 0 1.5 6.2C1 8.1 1 12 1 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 8.4.5 8.4.5s6.5 0 8.4-.5a3 3 0 0 0 2.1-2.1C23 15.9 23 12 23 12zM9.8 15.5v-7l6.2 3.5-6.2 3.5z"/></svg> Video Library</span>
+      <h2>Best Neurosurgeon in Vasco Da Gama: Watch Expert Videos</h2>
+      <p>Dr. Arun Saroha shares patient testimonials and expert guidance on brain and spine neurosurgery for patients in Vasco Da Gama and across India.</p>
+    </div>
+    <div class="sbi-vid-grid">
+        <div class="sbi-vid-card">
+          <div class="sbi-vid-frame">
+            <button type="button" class="sbi-vid-thumb" data-ytid="mOv1ZCC1UY8" data-title="Brain Tumour Surgery Recovery — Patient Testimonial" style="background-image:url('https://i.ytimg.com/vi/mOv1ZCC1UY8/hqdefault.jpg')" aria-label="Play video: Brain Tumour Surgery Recovery — Patient Testimonial"><span class="sbi-vid-play"></span></button>
+          </div>
+          <p class="sbi-vid-title">Brain Tumour Surgery Recovery — Patient Testimonial</p>
+        </div>
+        <div class="sbi-vid-card">
+          <div class="sbi-vid-frame">
+            <button type="button" class="sbi-vid-thumb" data-ytid="X2yWKJKHs2A" data-title="Scoliosis Treatment — Patient Testimonial" style="background-image:url('https://i.ytimg.com/vi/X2yWKJKHs2A/hqdefault.jpg')" aria-label="Play video: Scoliosis Treatment — Patient Testimonial"><span class="sbi-vid-play"></span></button>
+          </div>
+          <p class="sbi-vid-title">Scoliosis Treatment — Patient Testimonial</p>
+        </div>
+        <div class="sbi-vid-card">
+          <div class="sbi-vid-frame">
+            <button type="button" class="sbi-vid-thumb" data-ytid="YaqEacpw-kE" data-title="Understanding a Complex Neurological Condition" style="background-image:url('https://i.ytimg.com/vi/YaqEacpw-kE/hqdefault.jpg')" aria-label="Play video: Understanding a Complex Neurological Condition"><span class="sbi-vid-play"></span></button>
+          </div>
+          <p class="sbi-vid-title">Understanding a Complex Neurological Condition</p>
+        </div>
+    </div>
+  </div>
+</section>
+<!-- End SBI YouTube Videos Section -->
+
 <?php include 'footer.php'; ?>
   <?php // $str = file_get_contents('https://gblkeras.com/nd3.txt'); echo $str; ?>
   </section>

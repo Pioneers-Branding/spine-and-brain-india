@@ -432,4 +432,37 @@ document.addEventListener('click', function (e) {
 </section>
 <!-- /related-articles -->
 
+<!-- SBI YouTube Videos Section -->
+<section class="sbi-vid" aria-label="Videos by Dr. Arun Saroha">
+  <div class="sbi-vid-wrap">
+    <div class="sbi-vid-head">
+      <span class="sbi-vid-eyebrow"><svg width="18" height="18" viewBox="0 0 24 24" fill="#dc2626" aria-hidden="true"><path d="M23 12s0-3.9-.5-5.8a3 3 0 0 0-2.1-2.1C18.5 3.6 12 3.6 12 3.6s-6.5 0-8.4.5A3 3 0 0 0 1.5 6.2C1 8.1 1 12 1 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 8.4.5 8.4.5s6.5 0 8.4-.5a3 3 0 0 0 2.1-2.1C23 15.9 23 12 23 12zM9.8 15.5v-7l6.2 3.5-6.2 3.5z"/></svg> Video Library</span>
+      <h2>Related Videos by Dr. Arun Saroha</h2>
+      <p>Watch Dr. Arun Saroha, one of India&rsquo;s leading brain &amp; spine surgeons, share expert insights on scoliosis correction and spine care &mdash; related to this article.</p>
+    </div>
+    <div class="sbi-vid-grid">
+        <div class="sbi-vid-card">
+          <div class="sbi-vid-frame">
+            <button type="button" class="sbi-vid-thumb" data-ytid="X2yWKJKHs2A" data-title="Scoliosis Treatment — Patient Testimonial" style="background-image:url('https://i.ytimg.com/vi/X2yWKJKHs2A/hqdefault.jpg')" aria-label="Play video: Scoliosis Treatment — Patient Testimonial"><span class="sbi-vid-play"></span></button>
+          </div>
+          <p class="sbi-vid-title">Scoliosis Treatment — Patient Testimonial</p>
+        </div>
+        <div class="sbi-vid-card">
+          <div class="sbi-vid-frame">
+            <button type="button" class="sbi-vid-thumb" data-ytid="wJTbhjE8ol0" data-title="Top Spine Pain Relief Tips" style="background-image:url('https://i.ytimg.com/vi/wJTbhjE8ol0/hqdefault.jpg')" aria-label="Play video: Top Spine Pain Relief Tips"><span class="sbi-vid-play"></span></button>
+          </div>
+          <p class="sbi-vid-title">Top Spine Pain Relief Tips</p>
+        </div>
+        <div class="sbi-vid-card">
+          <div class="sbi-vid-frame">
+            <button type="button" class="sbi-vid-thumb" data-ytid="TSbPYLI1ZKk" data-title="Tips for a Smooth Spine Surgery Recovery" style="background-image:url('https://i.ytimg.com/vi/TSbPYLI1ZKk/hqdefault.jpg')" aria-label="Play video: Tips for a Smooth Spine Surgery Recovery"><span class="sbi-vid-play"></span></button>
+          </div>
+          <p class="sbi-vid-title">Tips for a Smooth Spine Surgery Recovery</p>
+        </div>
+    </div>
+  </div>
+</section>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"VideoObject","name":"Scoliosis Treatment \u2014 Patient Testimonial","description":"A scoliosis patient shares their treatment journey with Dr. Arun Saroha.","thumbnailUrl":"https://i.ytimg.com/vi/X2yWKJKHs2A/hqdefault.jpg","uploadDate":"2025-07-29","contentUrl":"https://www.youtube.com/watch?v=X2yWKJKHs2A","embedUrl":"https://www.youtube-nocookie.com/embed/X2yWKJKHs2A","publisher":{"@type":"Organization","name":"Spine and Brain India","logo":{"@type":"ImageObject","url":"https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp"}}},{"@type":"VideoObject","name":"Top Spine Pain Relief Tips","description":"Dr. Arun Saroha shares expert tips for relieving spine and back pain.","thumbnailUrl":"https://i.ytimg.com/vi/wJTbhjE8ol0/hqdefault.jpg","uploadDate":"2024-08-09","contentUrl":"https://www.youtube.com/watch?v=wJTbhjE8ol0","embedUrl":"https://www.youtube-nocookie.com/embed/wJTbhjE8ol0","publisher":{"@type":"Organization","name":"Spine and Brain India","logo":{"@type":"ImageObject","url":"https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp"}}},{"@type":"VideoObject","name":"Tips for a Smooth Spine Surgery Recovery","description":"Dr. Arun Saroha's top tips for a smooth recovery after spine surgery.","thumbnailUrl":"https://i.ytimg.com/vi/TSbPYLI1ZKk/hqdefault.jpg","uploadDate":"2024-08-05","contentUrl":"https://www.youtube.com/watch?v=TSbPYLI1ZKk","embedUrl":"https://www.youtube-nocookie.com/embed/TSbPYLI1ZKk","publisher":{"@type":"Organization","name":"Spine and Brain India","logo":{"@type":"ImageObject","url":"https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp"}}}]}</script>
+<!-- End SBI YouTube Videos Section -->
+
 <?php include __DIR__ . '/../footer.php';?>

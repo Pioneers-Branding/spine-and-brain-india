@@ -361,4 +361,37 @@
             <?php include 'single-line-form.php';?>
 
 
+<!-- SBI YouTube Videos Section -->
+<section class="sbi-vid" aria-label="Videos by Dr. Arun Saroha">
+  <div class="sbi-vid-wrap">
+    <div class="sbi-vid-head">
+      <span class="sbi-vid-eyebrow"><svg width="18" height="18" viewBox="0 0 24 24" fill="#dc2626" aria-hidden="true"><path d="M23 12s0-3.9-.5-5.8a3 3 0 0 0-2.1-2.1C18.5 3.6 12 3.6 12 3.6s-6.5 0-8.4.5A3 3 0 0 0 1.5 6.2C1 8.1 1 12 1 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 8.4.5 8.4.5s6.5 0 8.4-.5a3 3 0 0 0 2.1-2.1C23 15.9 23 12 23 12zM9.8 15.5v-7l6.2 3.5-6.2 3.5z"/></svg> Video Library</span>
+      <h2>Watch: Spinal Degeneration Videos by Dr. Arun Saroha</h2>
+      <p>Dr. Arun Saroha, one of India&rsquo;s leading brain &amp; spine surgeons, shares patient testimonials and expert insights on disc problems and disc replacement.</p>
+    </div>
+    <div class="sbi-vid-grid">
+        <div class="sbi-vid-card">
+          <div class="sbi-vid-frame">
+            <button type="button" class="sbi-vid-thumb" data-ytid="ClE0JRMY1iE" data-title="Disc Problem &amp; Herniated Disc Treatment" style="background-image:url('https://i.ytimg.com/vi/ClE0JRMY1iE/hqdefault.jpg')" aria-label="Play video: Disc Problem &amp; Herniated Disc Treatment"><span class="sbi-vid-play"></span></button>
+          </div>
+          <p class="sbi-vid-title">Disc Problem &amp; Herniated Disc Treatment</p>
+        </div>
+        <div class="sbi-vid-card">
+          <div class="sbi-vid-frame">
+            <button type="button" class="sbi-vid-thumb" data-ytid="LvqwN1WwQ14" data-title="Disc Replacement Surgery — Overview" style="background-image:url('https://i.ytimg.com/vi/LvqwN1WwQ14/hqdefault.jpg')" aria-label="Play video: Disc Replacement Surgery — Overview"><span class="sbi-vid-play"></span></button>
+          </div>
+          <p class="sbi-vid-title">Disc Replacement Surgery — Overview</p>
+        </div>
+        <div class="sbi-vid-card">
+          <div class="sbi-vid-frame">
+            <button type="button" class="sbi-vid-thumb" data-ytid="wJTbhjE8ol0" data-title="Top Spine Pain Relief Tips" style="background-image:url('https://i.ytimg.com/vi/wJTbhjE8ol0/hqdefault.jpg')" aria-label="Play video: Top Spine Pain Relief Tips"><span class="sbi-vid-play"></span></button>
+          </div>
+          <p class="sbi-vid-title">Top Spine Pain Relief Tips</p>
+        </div>
+    </div>
+  </div>
+</section>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"VideoObject","name":"Disc Problem & Herniated Disc Treatment","description":"Dr. Arun Saroha explains herniated (slipped) disc problems and treatment options.","thumbnailUrl":"https://i.ytimg.com/vi/ClE0JRMY1iE/hqdefault.jpg","uploadDate":"2025-07-23","contentUrl":"https://www.youtube.com/watch?v=ClE0JRMY1iE","embedUrl":"https://www.youtube-nocookie.com/embed/ClE0JRMY1iE","publisher":{"@type":"Organization","name":"Spine and Brain India","logo":{"@type":"ImageObject","url":"https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp"}}},{"@type":"VideoObject","name":"Disc Replacement Surgery \u2014 Overview","description":"An overview of artificial disc replacement surgery by Dr. Arun Saroha.","thumbnailUrl":"https://i.ytimg.com/vi/LvqwN1WwQ14/hqdefault.jpg","uploadDate":"2024-02-09","contentUrl":"https://www.youtube.com/watch?v=LvqwN1WwQ14","embedUrl":"https://www.youtube-nocookie.com/embed/LvqwN1WwQ14","publisher":{"@type":"Organization","name":"Spine and Brain India","logo":{"@type":"ImageObject","url":"https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp"}}},{"@type":"VideoObject","name":"Top Spine Pain Relief Tips","description":"Dr. Arun Saroha shares expert tips for relieving spine and back pain.","thumbnailUrl":"https://i.ytimg.com/vi/wJTbhjE8ol0/hqdefault.jpg","uploadDate":"2024-08-09","contentUrl":"https://www.youtube.com/watch?v=wJTbhjE8ol0","embedUrl":"https://www.youtube-nocookie.com/embed/wJTbhjE8ol0","publisher":{"@type":"Organization","name":"Spine and Brain India","logo":{"@type":"ImageObject","url":"https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp"}}}]}</script>
+<!-- End SBI YouTube Videos Section -->
+
 <?php include 'footer.php';?>

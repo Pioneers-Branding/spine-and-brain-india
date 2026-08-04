@@ -246,6 +246,49 @@ function googleTranslateElementInit() {
 </script>-->
 <!--- Popupular JS Tag --->
 
+    
+<!-- SBI Video Assets -->
+<style id="sbi-vid-css">
+.sbi-vid{background:#f1f5f9;padding:56px 0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif}
+.sbi-vid *{box-sizing:border-box}
+.sbi-vid .sbi-vid-wrap{max-width:1140px;margin:0 auto;padding:0 15px}
+.sbi-vid-head{text-align:center;margin:0 auto 34px}
+.sbi-vid-eyebrow{display:inline-flex;align-items:center;gap:8px;font-size:13px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:#dc2626;margin-bottom:10px}
+.sbi-vid-head h2{font-size:30px;line-height:1.25;font-weight:800;color:#0f172a;margin:0 0 12px}
+.sbi-vid-head p{font-size:16px;line-height:1.6;color:#475569;max-width:760px;margin:0 auto}
+.sbi-vid-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:24px}
+.sbi-vid-card{background:#fff;border:1px solid #e2e8f0;border-radius:14px;overflow:hidden;box-shadow:0 4px 14px rgba(15,23,42,.06)}
+.sbi-vid-frame{position:relative;width:100%;padding-top:56.25%;background:#000}
+.sbi-vid-frame iframe,.sbi-vid-thumb{position:absolute;top:0;left:0;width:100%;height:100%;border:0}
+.sbi-vid-thumb{cursor:pointer;background-size:cover;background-position:center;display:flex;align-items:center;justify-content:center;padding:0}
+.sbi-vid-thumb::after{content:"";position:absolute;top:0;left:0;right:0;bottom:0;background:rgba(15,23,42,.18);transition:background .2s}
+.sbi-vid-thumb:hover::after{background:rgba(15,23,42,.05)}
+.sbi-vid-play{position:relative;z-index:1;width:68px;height:48px;background:#dc2626;border-radius:14px;display:flex;align-items:center;justify-content:center;box-shadow:0 6px 18px rgba(220,38,38,.45);transition:transform .2s}
+.sbi-vid-thumb:hover .sbi-vid-play{transform:scale(1.08)}
+.sbi-vid-play::before{content:"";border-style:solid;border-width:11px 0 11px 18px;border-color:transparent transparent transparent #fff;margin-left:4px}
+.sbi-vid-title{font-size:15px;font-weight:600;line-height:1.45;color:#1e293b;margin:0;padding:16px 18px}
+@media (max-width:575px){.sbi-vid{padding:40px 0}.sbi-vid-head h2{font-size:24px}}
+</style>
+<script id="sbi-vid-js">
+(function(){
+  if(window.__sbiVidInit){return;}window.__sbiVidInit=1;
+  document.addEventListener('click',function(e){
+    var b=(e.target&&e.target.closest)?e.target.closest('.sbi-vid-thumb'):null;
+    if(!b){return;}
+    var id=b.getAttribute('data-ytid');if(!id){return;}
+    var f=b.closest('.sbi-vid-frame');if(!f){return;}
+    var ifr=document.createElement('iframe');
+    ifr.setAttribute('src','https://www.youtube-nocookie.com/embed/'+id+'?autoplay=1&rel=0');
+    ifr.setAttribute('title',b.getAttribute('data-title')||'YouTube video');
+    ifr.setAttribute('allow','accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share');
+    ifr.setAttribute('allowfullscreen','');
+    ifr.setAttribute('loading','lazy');
+    f.innerHTML='';f.appendChild(ifr);
+  },false);
+})();
+</script>
+<!-- End SBI Video Assets -->
+
     </body>
 
 </html>

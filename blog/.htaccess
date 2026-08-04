@@ -4,10 +4,7 @@
 #   https://spineandbrainindia.com/blog/cervical-pain-symptoms-in-hindi/
 # from a physical file  blog/cervical-pain-symptoms-in-hindi.php
 #
-# Only mod_rewrite / mod_dir directives are used (AllowOverride FileInfo +
-# Indexes), matching what the site root already relies on. No "Options"
-# directive is used, so this stays safe on restrictive hosts.
-#
+
 # Apache does NOT inherit the parent (root) rewrite rules into this folder,
 # so all routing for /blog/* is handled here in isolation.
 # QuickBlog post URLs ( /blog/?qb-b=<slug> ) are query-based and hit

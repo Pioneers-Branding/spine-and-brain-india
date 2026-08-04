@@ -79,9 +79,7 @@
             s.parentNode.insertBefore(t, s);
         })();
     </script>
-    <?php if (basename($_SERVER['PHP_SELF']) === 'blog.php' || strpos($_SERVER['REQUEST_URI'], '/blog/') !== false) : ?>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4910239000711715" crossorigin="anonymous"></script>
-    <?php endif; ?>
     </head>
     <body>
         <main>

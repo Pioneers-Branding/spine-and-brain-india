@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <title>Top Neurosurgeon in India – Dr. Arun Saroha | 9000+ Successful Brain &amp; Spine Surgeries | Max Hospital</title>
   <meta name="description"
-    content="Looking for the #1 neurosurgeon in India? Dr. Arun Saroha offers 26+ years of expertise, 9000+ successful brain &amp; spine surgeries at Max Hospital. Get a free consultation today: +91 78600 00705" />
+    content="Dr. Arun Saroha, a leading neurosurgeon in India with 26+ years' experience &amp; 9000+ successful brain &amp; spine surgeries at Max Hospital. Book a free consultation." />
 
   <!-- Open Graph Tags -->
   <meta property="og:type" content="website" />

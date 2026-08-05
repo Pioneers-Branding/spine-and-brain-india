@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -258,7 +258,7 @@
                                             <li><strong>Spinal cord injury:</strong> a fractured or dislocated vertebra can bruise or compress the cord, potentially affecting movement and sensation below the level of injury. Prompt, careful handling and treatment are vital.</li>
                                             <li><strong>Meningitis:</strong> infection of the meninges by bacteria or viruses causes inflammation of these protective membranes and is a genuine emergency requiring rapid diagnosis and treatment.</li>
                                         </ul>
-                                        <p>The reassuring point is that modern medicine can do a great deal when these problems are recognised early. Advanced imaging such as CT and MRI scans lets specialists see exactly what has happened, and timely treatment &mdash; from careful monitoring to microsurgery &mdash; can prevent a manageable injury from becoming a permanent one. Complex brain and spine emergencies are managed by neurosurgeons; Dr. Arun Saroha, who practises at Max Hospital, Gurugram and Dwarka, has more than 20 years of experience handling exactly these conditions.</p>
+                                        <p>The reassuring point is that modern medicine can do a great deal when these problems are recognised early. Advanced imaging such as CT and MRI scans lets specialists see exactly what has happened, and timely treatment &mdash; from careful monitoring to microsurgery &mdash; can prevent a manageable injury from becoming a permanent one. Complex brain and spine emergencies are managed by neurosurgeons; Dr. Arun Saroha, who practises at Max Hospital, Gurugram and Dwarka, has more than 26 years of experience handling exactly these conditions.</p>
 
                                         <h2>Everyday Ways to Protect Your Brain and Spine</h2>
                                         <p>Nature has done its part with a superb multi-layered defence system. Your part is to avoid overwhelming it. Because CNS tissue heals so poorly, prevention truly is the best medicine, and most of it comes down to simple daily habits:</p>
@@ -287,7 +287,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha &mdash; 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha &mdash; 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

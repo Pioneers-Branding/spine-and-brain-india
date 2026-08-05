@@ -435,7 +435,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -523,7 +523,7 @@
                                         <!--</blockquote>-->
                                         
                                         
-                                        <p class="mb-0">Expertise and Experience <a href="https://spineandbrainindia.com/about.php" title="Know more about Dr. Arun Saroha">Dr. Saroha</a> is a highly qualified neurosurgeon who has been practicing for over 20 years. He graduated and post-graduated from Rabindranath Tagore Medical College in Udaipur and obtained his M.Ch in Neurosurgery from the Postgraduate Institute of Medical Education & Research (PGIMER) in Chandigarh. Over the years, he has honed his skills and expertise in various domains of neurosurgery and spine surgery. He has worked with some of the most reputed neurosurgical hospitals in Kurnool, including VIMHANS, Paras Hospital, and Artemis Hospitals. At present, he provides his services at Max Hospital in Gurgaon and Saket.
+                                        <p class="mb-0">Expertise and Experience <a href="https://spineandbrainindia.com/about.php" title="Know more about Dr. Arun Saroha">Dr. Saroha</a> is a highly qualified neurosurgeon who has been practicing for over 26 years. He graduated and post-graduated from Rabindranath Tagore Medical College in Udaipur and obtained his M.Ch in Neurosurgery from the Postgraduate Institute of Medical Education & Research (PGIMER) in Chandigarh. Over the years, he has honed his skills and expertise in various domains of neurosurgery and spine surgery. He has worked with some of the most reputed neurosurgical hospitals in Kurnool, including VIMHANS, Paras Hospital, and Artemis Hospitals. At present, he provides his services at Max Hospital in Gurgaon and Saket.
                                         </p>
                                         
                                         <br>   <br>  
@@ -551,7 +551,7 @@
                                        <p>Dr. Saroha is a member of many prestigious organizations in the field of neurology and spine surgery in Kurnool and the USA. He has been honored with many prestigious awards in the field of neurosurgery, including the Spine Surgeon Award by Big Research Awards. He has participated in various symposiums and workshops and has attended numerous national and international conferences.</p>
                                        
                                   <h3>Degenerative Disc Surgery in Kurnool</h3>
-                                        <p>Degenerative disc surgery is a treatment option for patients with severe symptoms of degenerative disc disease that have not responded to non-surgical treatments. Dr. Saroha has performed more than eight thousand surgeries successfully over the years and is an expert in the field of degenerative disc surgery.</p>
+                                        <p>Degenerative disc surgery is a treatment option for patients with severe symptoms of degenerative disc disease that have not responded to non-surgical treatments. Dr. Saroha has performed more than nine thousand surgeries successfully over the years and is an expert in the field of degenerative disc surgery.</p>
 
 
 
@@ -678,7 +678,7 @@
                                
 
 <!--                                            <p><ol>-->
-<!--                                                <li>Vast Experience: Dr. Saroha has over 20 years of experience in the field of neurosurgery, having worked with some of the top neurosurgical hospitals in Kurnool, including VIMHANS, Paras Hospital, Artemis Hospital, and Max Hospital. He has performed over eight thousand successful surgeries, making him a highly skilled and experienced surgeon.</li></p>-->
+<!--                                                <li>Vast Experience: Dr. Saroha has over 26 years of experience in the field of neurosurgery, having worked with some of the top neurosurgical hospitals in Kurnool, including VIMHANS, Paras Hospital, Artemis Hospital, and Max Hospital. He has performed over nine thousand successful surgeries, making him a highly skilled and experienced surgeon.</li></p>-->
                                                
 <!--                                               <li>Specialization in Spine Disorders: Dr. Saroha has a particular interest in treating spine disorders and is an expert in degenerative spine disorders, disc replacements, and complex spine fixation. He offers comprehensive care for all types of neurological problems, and his team provides the best possible treatment options for patients.-->
 <!--</li>-->
@@ -714,7 +714,7 @@
                                
 
                                             <p><ol>
-                                                <li>Vast Experience: Dr. Saroha has over 20 years of experience in the field of neurosurgery, having worked with some of the top neurosurgical hospitals in Kurnool, including VIMHANS, Paras Hospital, Artemis Hospital, and Max Hospital. He has performed over eight thousand successful surgeries, making him a highly skilled and experienced surgeon.</li></p>
+                                                <li>Vast Experience: Dr. Saroha has over 26 years of experience in the field of neurosurgery, having worked with some of the top neurosurgical hospitals in Kurnool, including VIMHANS, Paras Hospital, Artemis Hospital, and Max Hospital. He has performed over nine thousand successful surgeries, making him a highly skilled and experienced surgeon.</li></p>
                                                
                                                <li>Specialization in Spine Disorders: Dr. Saroha has a particular interest in treating spine disorders and is an expert in degenerative spine disorders, disc replacements, and complex spine fixation. He offers comprehensive care for all types of neurological problems, and his team provides the best possible treatment options for patients.
 </li>
@@ -729,7 +729,7 @@
                                             
                                             </div>
                     
-                    <!--<p class="lead mb-4 mb-md-5 fs-6 fs-md-5">Dr. Arun Saroha is a renowned <a href="https://spineandbrainindia.com/">Best neurosurgeon in kurnool</a> specializing in advanced Cervical Spine Surgery in Kurnool with over 25+ years of experience, making him one of the top specialists for Cervical Spine Surgery in Kurnool. His expertise in treating complex spine conditions, including degenerative disc disease, herniated discs, and spinal cord compression, has earned him a reputation for delivering excellent outcomes. As a leading cervical surgeon, Dr. Saroha has successfully performed thousands of surgeries, including minimally invasive procedures like Anterior Cervical Discectomy and Fusion (ACDF) and cervical disc replacement, which are known for their precision and faster recovery times. He is committed to offering personalized care, ensuring that each patient receives a thorough evaluation and the most appropriate treatment for their specific condition.-->
+                    <!--<p class="lead mb-4 mb-md-5 fs-6 fs-md-5">Dr. Arun Saroha is a renowned <a href="https://spineandbrainindia.com/">Best neurosurgeon in kurnool</a> specializing in advanced Cervical Spine Surgery in Kurnool with over 26+ years of experience, making him one of the top specialists for Cervical Spine Surgery in Kurnool. His expertise in treating complex spine conditions, including degenerative disc disease, herniated discs, and spinal cord compression, has earned him a reputation for delivering excellent outcomes. As a leading cervical surgeon, Dr. Saroha has successfully performed thousands of surgeries, including minimally invasive procedures like Anterior Cervical Discectomy and Fusion (ACDF) and cervical disc replacement, which are known for their precision and faster recovery times. He is committed to offering personalized care, ensuring that each patient receives a thorough evaluation and the most appropriate treatment for their specific condition.-->
                     <!--</p>                   -->
                     <!--<div class="d-flex gap-3">-->
                     <!--    <a href="#quote" class="btn btn-primary">Book an Appointment</a>-->
@@ -822,7 +822,7 @@
             </div>
             <div class="faq-answer">
                 <div class="faq-answer-content">
-                       Dr. Arun Saroha has over 20 years of experience and has successfully treated thousands of spine patients. Known for his precise diagnosis, patient care, and surgical expertise, he practices at top hospitals and delivers excellent results with a compassionate approach.
+                       Dr. Arun Saroha has over 26 years of experience and has successfully treated thousands of spine patients. Known for his precise diagnosis, patient care, and surgical expertise, he practices at top hospitals and delivers excellent results with a compassionate approach.
                 </div>
             </div>
         </div>

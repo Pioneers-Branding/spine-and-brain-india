@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -275,7 +275,7 @@
                                             <li><strong>Optimise your health beforehand:</strong> managing weight, nutrition, any medical conditions and stopping smoking all improve safety and healing.</li>
                                             <li><strong>Ask questions freely:</strong> a trustworthy surgeon will welcome your questions about risks, success rates and recovery, and answer them clearly.</li>
                                         </ul>
-                                        <p>Complex spine deformity is exactly the kind of problem where the experience of the surgeon matters enormously. Specialists such as <strong>Dr. Arun Saroha</strong>, a neuro and spine surgeon with over 20 years of experience who practises at Max Hospital, Gurugram and Dwarka, assess each patient individually to plan the safest and most effective approach. Please remember that this article is intended for general information and reassurance, and is not a substitute for a personal consultation and examination by a qualified specialist, who can advise on your specific situation.</p>
+                                        <p>Complex spine deformity is exactly the kind of problem where the experience of the surgeon matters enormously. Specialists such as <strong>Dr. Arun Saroha</strong>, a neuro and spine surgeon with over 26 years of experience who practises at Max Hospital, Gurugram and Dwarka, assess each patient individually to plan the safest and most effective approach. Please remember that this article is intended for general information and reassurance, and is not a substitute for a personal consultation and examination by a qualified specialist, who can advise on your specific situation.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Worried about scoliosis surgery? Get an expert opinion.</h3>
@@ -290,7 +290,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha &mdash; 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha &mdash; 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

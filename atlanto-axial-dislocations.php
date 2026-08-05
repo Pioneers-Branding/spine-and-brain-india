@@ -425,7 +425,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -734,7 +734,7 @@
             </div>
             <div class="faq-answer">
                 <div class="faq-answer-content">
-                      With over 20 years of experience, Dr. Arun Saroha is a leading neurosurgeon for complex cervical spine conditions. His success with AAD cases, use of advanced tools, and patient-first approach make him a trusted specialist.
+                      With over 26 years of experience, Dr. Arun Saroha is a leading neurosurgeon for complex cervical spine conditions. His success with AAD cases, use of advanced tools, and patient-first approach make him a trusted specialist.
                 </div>
             </div>
         </div>

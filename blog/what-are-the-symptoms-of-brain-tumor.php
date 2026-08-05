@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -248,7 +248,7 @@
 
                                         <h2>When Should You See a Doctor?</h2>
                                         <p>It is worth repeating that the everyday headache, the tiredness after a long week, or the occasional forgetful moment are almost never caused by a brain tumor. The goal is not to worry about every symptom, but to recognise the patterns that deserve a proper check-up. It is sensible to see a doctor if you have a headache that is new and persistent, clearly different from your usual pattern, that wakes you from sleep or steadily worsens over weeks; any first seizure; a progressive weakness or numbness on one side; unexplained changes in memory, personality or behaviour; new problems with vision or speech; or persistent morning nausea without an obvious cause.</p>
-                                        <p>Complex problems involving the brain benefit greatly from the opinion of an experienced neurosurgeon. <strong>Dr. Arun Saroha</strong>, a senior neuro and spine surgeon with more than 20 years of experience who practises at <strong>Max Hospital, Gurugram and Dwarka</strong>, can assess your symptoms carefully, arrange the right scans if needed, and explain what they mean in plain language. Early, accurate diagnosis is what allows the safest and most effective treatment &mdash; and, very often, it brings the reassurance that nothing serious is going on.</p>
+                                        <p>Complex problems involving the brain benefit greatly from the opinion of an experienced neurosurgeon. <strong>Dr. Arun Saroha</strong>, a senior neuro and spine surgeon with more than 26 years of experience who practises at <strong>Max Hospital, Gurugram and Dwarka</strong>, can assess your symptoms carefully, arrange the right scans if needed, and explain what they mean in plain language. Early, accurate diagnosis is what allows the safest and most effective treatment &mdash; and, very often, it brings the reassurance that nothing serious is going on.</p>
 
                                         <h2>How Are Brain Tumor Symptoms Investigated?</h2>
                                         <p>Reaching a diagnosis is usually straightforward and reassuringly clear. The specialist begins by listening carefully to your story &mdash; when the symptoms started, how they have changed, and what makes them better or worse. This is followed by a <strong>neurological examination</strong>, which checks your strength, sensation, reflexes, coordination, balance, vision and speech, and helps localise any problem. From there, a small number of targeted tests usually give a definite answer:</p>
@@ -274,7 +274,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha &mdash; 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha &mdash; 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

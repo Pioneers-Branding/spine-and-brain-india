@@ -84,7 +84,7 @@
                                         
                                         
                                         
-                                        <p class="mb-0">Are you tired of living with back pain or cervical spondylosis? Are you looking for the best doctor and affordable treatment options in India? Look no further than Dr. Arun Saroha at Max Super Specialty Hospital, Saket. With over 20 years of experience in neurosurgery, Dr. Saroha is a renowned expert in treating brain and spine disorders.</p>
+                                        <p class="mb-0">Are you tired of living with back pain or cervical spondylosis? Are you looking for the best doctor and affordable treatment options in India? Look no further than Dr. Arun Saroha at Max Super Specialty Hospital, Saket. With over 26 years of experience in neurosurgery, Dr. Saroha is a renowned expert in treating brain and spine disorders.</p>
                                         <p class="mb-0">In this article, we'll explore the various treatment options available for back pain and cervical spondylosis in India. We'll also delve into the expertise of Dr. Saroha and his team, the cost of treatment, and frequently asked questions.</p>
                                         
                                         
@@ -142,7 +142,7 @@ At Max Super Specialty Hospital, Saket, the cost of back pain treatment starts a
                             <div class="team-detail-wrap">
                                 <h3 class="mb-0">Back Pain Treatment in India: Get Relief from Your Aches with Dr. Arun Saroha</h3>
 
-                                <p class="mb-0"><img class="img-fluid brd-rd10 alignright" src="assets/img/services/back pain 1.webp" alt="A doctor examing a person's back for back pain.">Are you tired of dealing with chronic back pain? Do you want to find the best doctor for back pain in India who can help alleviate your discomfort? Look no further than Dr. Arun Saroha, a renowned neurosurgeon with over 20 years of experience in treating various brain and spine disorders.</p>
+                                <p class="mb-0"><img class="img-fluid brd-rd10 alignright" src="assets/img/services/back pain 1.webp" alt="A doctor examing a person's back for back pain.">Are you tired of dealing with chronic back pain? Do you want to find the best doctor for back pain in India who can help alleviate your discomfort? Look no further than Dr. Arun Saroha, a renowned neurosurgeon with over 26 years of experience in treating various brain and spine disorders.</p>
                                      <p>In this article, we'll provide you with all the information you need to know about back pain treatment in India, including the best doctor for back pain, treatment costs, and available surgical options. We'll also discuss cervical spondylosis, another common condition that can cause neck and shoulder pain, and how Dr. Saroha can help treat it.</p>
                                   
                                 
@@ -206,7 +206,7 @@ However, it's important to note that choosing the cheapest option may not always
                                     <li>Perform low-impact, age-appropriate exercises regularly to keep muscles strong and flexible.</li>
                                  </ul>
                                  
-                                <p class="mb-0">Dr. Arun Saroha is an expert back pain doctor in Delhi, India with more than 25 + years of experience and has provided the best results to the patient suffering from back pain concerns. He has performed more than 6,000+ successful surgeries for brain and spinal problems. His surgical skills and using cutting-edge technology help him deliver the patients with excellent outcomes and bring more patients worldwide.</p>
+                                <p class="mb-0">Dr. Arun Saroha is an expert back pain doctor in Delhi, India with more than 26 + years of experience and has provided the best results to the patient suffering from back pain concerns. He has performed more than 9,000+ successful surgeries for brain and spinal problems. His surgical skills and using cutting-edge technology help him deliver the patients with excellent outcomes and bring more patients worldwide.</p>
                             </div>
                         </div>
                 </div>

@@ -312,7 +312,7 @@ h4 {
                                         <span class="thm-clr font-weight-extrabold d-inline-block border-0">About Doctor</span>
                                         <h2 class="mb-0">Dr. Arun Saroha: <span> Best Neurosurgeon & Spine Surgeon </span>  in India</h2>
                                         <!--<strong>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis.</strong>-->
-                                        <p class="mb-0">Dr. Arun Saroha is the Best Neurosurgeon & Spine Surgeon in Max Hospital, India who specializes in brain and spine procedures. He has more than 25 years of experience and has performed over 6,000 successful spinal and brain procedures. Spine surgery, neuro-oncology, neurotrauma, scoliosis surgery, Stroke Cerebrovascular Surgery, Pediatric brain and spine surgery, minimally invasive spine surgery, brain tumor surgery, spine fixation, and fusion surgery are among his specialties.</p>
+                                        <p class="mb-0">Dr. Arun Saroha is the Best Neurosurgeon & Spine Surgeon in Max Hospital, India who specializes in brain and spine procedures. He has more than 26 years of experience and has performed over 9,000 successful spinal and brain procedures. Spine surgery, neuro-oncology, neurotrauma, scoliosis surgery, Stroke Cerebrovascular Surgery, Pediatric brain and spine surgery, minimally invasive spine surgery, brain tumor surgery, spine fixation, and fusion surgery are among his specialties.</p>
                                        
                                         <!--<span class="about-time d-block"><span class="scndry-clr">Every Week:</span> Monday To Friday: 9:00am to 5:00pm</span>-->
                                     </div>
@@ -357,7 +357,7 @@ h4 {
                                         <div class="fact-box position-relative d-flex flex-wrap w-100">
                                             <i><img class="icon-img1" src="assets/img/icons/icon5.png"></i>
                                             <div class="fact-box-inner">
-                                                <span style="color:white" class="scndry-clr d-block"><i class="counter">6000</i>+</span>
+                                                <span style="color:white" class="scndry-clr d-block"><i class="counter">9000</i>+</span>
                                                 <h4 class="mb-0">Brain and Spine surgeries performed successfully</h4>
                                                 <!--<p class="mb-0">Psychiatric therapy conducted</p>-->
                                             </div>
@@ -373,7 +373,7 @@ h4 {
                                         <div class="fact-box position-relative d-flex flex-wrap w-100">
                                             <i><img class="icon-img1" src="assets/img/icons/icon7.png"></i>
                                             <div class="fact-box-inner">
-                                                <span style="color:white" class="scndry-clr d-block"><i class="counter">20</i>+</span>
+                                                <span style="color:white" class="scndry-clr d-block"><i class="counter">26</i>+</span>
                                                 <h4 class="mb-0">Years of Experience</h4>
                                                 <!--<p class="mb-0">Top level physiotherapy</p>-->
                                             </div>

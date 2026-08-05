@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -260,7 +260,7 @@
                                         <h2>When should you see a doctor?</h2>
                                         <p>Not every slipped disc needs an urgent appointment. Ordinary back pain, or leg pain that is easing week by week, can often be managed at home with gentle activity and simple pain relief for the first few weeks. Most cases genuinely do get better on their own. However, it is wise to see a doctor if the pain is severe, if leg pain has lasted more than a week or two without improving, or if it keeps coming back.</p>
                                         <p>You should seek prompt medical review &mdash; not necessarily emergency care, but soon &mdash; if you develop clear numbness or weakness in the leg or foot, if the pain is stopping you sleeping or working, or if simple measures are not helping after two to three weeks. And, as described above, you must go straight to an emergency department if any red-flag symptom of cauda equina syndrome appears.</p>
-                                        <p>For persistent or complex back and leg symptoms, the opinion of an experienced neuro and spine specialist is invaluable. A senior surgeon such as <strong>Dr. Arun Saroha</strong>, who has over 20 years of experience and practises at Max Hospital, Gurugram &amp; Dwarka, can assess your symptoms accurately and tell you whether you need nothing more than time and physiotherapy, or whether further steps are warranted. Getting the right assessment early prevents both unnecessary worry and unnecessary treatment.</p>
+                                        <p>For persistent or complex back and leg symptoms, the opinion of an experienced neuro and spine specialist is invaluable. A senior surgeon such as <strong>Dr. Arun Saroha</strong>, who has over 26 years of experience and practises at Max Hospital, Gurugram &amp; Dwarka, can assess your symptoms accurately and tell you whether you need nothing more than time and physiotherapy, or whether further steps are warranted. Getting the right assessment early prevents both unnecessary worry and unnecessary treatment.</p>
 
                                         <h2>Treatment options for a slipped disc</h2>
                                         <p>Here is the most reassuring fact of all: <strong>the great majority of slipped discs in the lower back get better without surgery.</strong> Studies and everyday clinical experience both show that around 80 to 90 percent of people improve with conservative (non-surgical) treatment over a few weeks to a few months, as the body reabsorbs part of the herniated disc and the nerve inflammation settles.</p>
@@ -301,7 +301,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha &mdash; 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha &mdash; 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

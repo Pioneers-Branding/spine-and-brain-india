@@ -85,7 +85,7 @@
             "name": "Dr. Arun Saroha",
             "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
             "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-            "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+            "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
             "medicalSpecialty": "Neurosurgery",
             "aggregateRating": {
                 "@type": "AggregateRating",
@@ -330,7 +330,7 @@
                                         <h2>When to Seek Medical Care and Expert Advice</h2>
                                         <p>Any suspected loss of oxygen to the brain, whether from cardiac arrest, drowning, choking, or stroke, is an emergency that needs immediate care. Call 112 or 108 first and start CPR if the person is not breathing normally. Do not delay, and do not attempt to drive a collapsed person yourself if an ambulance can reach you faster.</p>
                                         <p>After the emergency has passed, survivors and their families often need specialist neurological and neurosurgical guidance to understand the injury, plan rehabilitation, and manage any longer-term effects. This is where an experienced specialist can help you make sense of scans, treatment options, and realistic recovery goals.</p>
-                                        <p>Dr. Arun Saroha, a senior neurosurgeon and spine surgeon with over 20 years of experience at Max Hospital, Gurugram and Max Super Speciality Hospital, Dwarka, Delhi, can advise families dealing with the after-effects of brain oxygen deprivation and related neurological conditions. If you or a loved one needs expert assessment or a second opinion, consider booking a consultation with a qualified specialist.</p>
+                                        <p>Dr. Arun Saroha, a senior neurosurgeon and spine surgeon with over 26 years of experience at Max Hospital, Gurugram and Max Super Speciality Hospital, Dwarka, Delhi, can advise families dealing with the after-effects of brain oxygen deprivation and related neurological conditions. If you or a loved one needs expert assessment or a second opinion, consider booking a consultation with a qualified specialist.</p>
                                         <p>This article is for general information and awareness only. It is not a substitute for professional medical advice, diagnosis, or emergency care. In any emergency, contact your local emergency services at once.</p>
                                         </div>
 
@@ -347,7 +347,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Consult the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years in neuro and spine surgery. Max Hospital, Gurugram and Dwarka, Delhi.</p>
+                                            <p>Dr. Arun Saroha — 26+ years in neuro and spine surgery. Max Hospital, Gurugram and Dwarka, Delhi.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

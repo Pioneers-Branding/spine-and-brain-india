@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -252,7 +252,7 @@
                                         <h2>When to Consult a Specialist</h2>
                                         <p>You do not need to see a specialist for every mild ache or occasional stiff neck — these usually settle with rest, posture correction and gentle exercise. However, it is wise to seek expert advice when neck pain is severe or lasts more than a few weeks, when headaches or dizziness keep returning despite simple measures, or when the pain spreads into the arm with tingling, numbness or weakness.</p>
                                         <p>You should be seen <strong>promptly</strong> if you notice any signs of spinal cord involvement — clumsy hands, worsening balance, walking difficulty — or any of the red-flag symptoms above. A timely, expert evaluation is exactly what separates a harmless age-related change from the small minority of cases that genuinely need treatment. It also lays worry to rest, which for many people is the biggest relief of all.</p>
-                                        <p>For neck and spine problems that are persistent, confusing or accompanied by neurological symptoms, the opinion of an experienced neuro and spine surgeon is invaluable. A specialist such as <strong>Dr. Arun Saroha</strong>, with over 20 years of experience, can examine you, arrange the right scans, explain clearly what is and is not happening, and recommend the least invasive treatment that will help — whether that is physiotherapy and posture work or, in select cases, surgery.</p>
+                                        <p>For neck and spine problems that are persistent, confusing or accompanied by neurological symptoms, the opinion of an experienced neuro and spine surgeon is invaluable. A specialist such as <strong>Dr. Arun Saroha</strong>, with over 26 years of experience, can examine you, arrange the right scans, explain clearly what is and is not happening, and recommend the least invasive treatment that will help — whether that is physiotherapy and posture work or, in select cases, surgery.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Worried your neck symptoms are affecting your brain?</h3>
@@ -267,7 +267,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

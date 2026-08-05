@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -259,7 +259,7 @@
 
                                         <h2>The Surgeon&rsquo;s Role: Why Experience Matters Most</h2>
                                         <p>With all this talk of technology, it is easy to forget the most important factor of all &mdash; the surgeon. Navigation systems, microscopes and monitors are powerful tools, but they are only as good as the hands and judgement guiding them. A skilled neurosurgeon decides whether surgery is even needed, chooses the safest approach, knows when to press on and when to stop, and handles the unexpected calmly.</p>
-                                        <p>This is why experience and training count for so much in neurosurgery. An expert such as <strong>Dr. Arun Saroha</strong>, with over 20 years of experience in neuro and spine surgery, brings the judgement that turns advanced technology into safe, successful outcomes. Practising at <strong>Max Hospital, Gurugram and Dwarka</strong>, he assesses each patient individually to decide whether a problem is best managed with observation, medication, physiotherapy or surgery &mdash; because the best operation is sometimes the one that is safely avoided.</p>
+                                        <p>This is why experience and training count for so much in neurosurgery. An expert such as <strong>Dr. Arun Saroha</strong>, with over 26 years of experience in neuro and spine surgery, brings the judgement that turns advanced technology into safe, successful outcomes. Practising at <strong>Max Hospital, Gurugram and Dwarka</strong>, he assesses each patient individually to decide whether a problem is best managed with observation, medication, physiotherapy or surgery &mdash; because the best operation is sometimes the one that is safely avoided.</p>
                                         <p>Finally, a gentle reminder: this article is meant for general understanding and reassurance, not as a substitute for personal medical advice. Every brain and spine is unique, and the right answer for you can only come from a proper examination and discussion with a qualified specialist who has reviewed your scans and history.</p>
 
                                         <div class="blog-cta mt-4">
@@ -275,7 +275,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

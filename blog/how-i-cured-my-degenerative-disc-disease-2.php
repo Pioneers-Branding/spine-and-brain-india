@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -256,7 +256,7 @@
                                         <h2>When an injection or surgery is truly needed</h2>
                                         <p>Because the internet is full of surgery horror stories and miracle cures alike, let me set the record straight. The great majority of people with degenerative disc disease &mdash; well over nine in ten &mdash; get better without any operation, exactly as Rakesh did. Surgery is not the default; it is a carefully chosen last resort for a select few.</p>
                                         <p>Between conservative care and surgery sits a useful middle option. When a nerve is very inflamed and pain is not settling with exercise and medication, a targeted <em>epidural steroid injection</em> or <em>nerve block</em> can calm the irritation enough to let rehabilitation continue. It is not a permanent fix, but it can be a valuable step.</p>
-                                        <p><strong>Surgery</strong> genuinely earns its place in specific situations: progressive muscle weakness, any red-flag emergency, signs of serious spinal cord or nerve compression, or severe, disabling pain that has not responded to a proper, sustained course of conservative treatment. In those hands-tied cases, modern spine surgery is precise, safe and often minimally invasive, and it can restore quality of life dramatically. Deciding whether you truly need it &mdash; and being told honestly when you do not &mdash; is exactly where an experienced surgeon's judgement matters. <strong>Dr. Arun Saroha</strong>, who has over 20 years of experience in neuro and spine surgery and practises at Max Hospital, Gurugram and Dwarka, weighs your scans against your symptoms to make sure surgery is recommended only when it is genuinely the best path, never as a shortcut.</p>
+                                        <p><strong>Surgery</strong> genuinely earns its place in specific situations: progressive muscle weakness, any red-flag emergency, signs of serious spinal cord or nerve compression, or severe, disabling pain that has not responded to a proper, sustained course of conservative treatment. In those hands-tied cases, modern spine surgery is precise, safe and often minimally invasive, and it can restore quality of life dramatically. Deciding whether you truly need it &mdash; and being told honestly when you do not &mdash; is exactly where an experienced surgeon's judgement matters. <strong>Dr. Arun Saroha</strong>, who has over 26 years of experience in neuro and spine surgery and practises at Max Hospital, Gurugram and Dwarka, weighs your scans against your symptoms to make sure surgery is recommended only when it is genuinely the best path, never as a shortcut.</p>
 
                                         <h2>Living &ldquo;cured&rdquo;: a full, pain-controlled life</h2>
                                         <p>So did Rakesh &ldquo;cure&rdquo; his degenerative disc disease? The disc on his MRI still shows its age &mdash; that has not changed. But he wakes without pain, works a full day, plays with his children and walks every morning without a second thought about his back. By every measure that matters to him, he is cured. He simply keeps up his exercises, minds his posture and stays active, and the condition stays quiet in the background where it belongs.</p>
@@ -275,7 +275,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha &mdash; 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha &mdash; 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

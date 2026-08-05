@@ -4,7 +4,7 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 <title>Best Neurosurgeon in Faridabad – Dr. Arun Saroha | Top Spine Expert</title>
-<meta name="description" content="Consult the best neurosurgeon in Faridabad - Dr. Arun Saroha at Max Hospital. Expert brain and spine surgery with 7000+ successful procedures. Book appointment now!" />
+<meta name="description" content="Consult the best neurosurgeon in Faridabad - Dr. Arun Saroha at Max Hospital. Expert brain and spine surgery with 9000+ successful procedures. Book appointment now!" />
 
 <!-- Preload Critical Resources -->
 <link rel="preload" href="assets/video/sbi-banner.webp" as="image" type="image/webp">
@@ -29,7 +29,7 @@
   "@type": "Product",
   "name": "Best Neurosurgeon in India – Dr. Arun Saroha | Top Spine Expert",
   "image": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
-  "description": "Consult Dr. Arun Saroha, one of the best neurosurgeons in India with 20+ years of expertise in brain & spine surgery. Book your appointment today!",
+  "description": "Consult Dr. Arun Saroha, one of the best neurosurgeons in India with 26+ years of expertise in brain & spine surgery. Book your appointment today!",
   "brand": "Dr. Arun Saroha",
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -47,7 +47,7 @@
           "@context": "http://schema.org",
           "@type": "MedicalBusiness",
           "name": "Spine and Brain India",
-          "description": "Best Neurosurgeon in India - Leading neurosurgery services in India by Dr. Arun Saroha. Specializing in spine and brain surgery with over 20 years of experience.",
+          "description": "Best Neurosurgeon in India - Leading neurosurgery services in India by Dr. Arun Saroha. Specializing in spine and brain surgery with over 26 years of experience.",
           "url": "https://www.spineandbrainindia.com/",
           "address": {
             "@type": "PostalAddress",
@@ -454,7 +454,7 @@
                        Expert Brain and Spine Surgery by Dr. Arun Saroha
                     </h2>
                     
-                    <p class="mb-0" style="text-align: justify;">Dr. Arun Saroha is the best neurosurgeon in India and specializes in treating complex brain and spine disorders, with a focus on delivering effective and long-term treatment outcomes for his patients. Dr. Saroha has successfully performed more than 7,000 surgeries on patients with various neurological conditions, including degenerative spine disorders, brain tumors, disc replacements, and complex spine fixations.
+                    <p class="mb-0" style="text-align: justify;">Dr. Arun Saroha is the best neurosurgeon in India and specializes in treating complex brain and spine disorders, with a focus on delivering effective and long-term treatment outcomes for his patients. Dr. Saroha has successfully performed more than 9,000 surgeries on patients with various neurological conditions, including degenerative spine disorders, brain tumors, disc replacements, and complex spine fixations.
 </p>
                      <p class="mb-0" style="text-align: justify;">
                      Dr. Saroha’s patient-centered approach sets him apart from others in the field. He carefully evaluates each case and recommends surgery only when it offers the best long-term benefits. His expertise in minimally invasive spine surgery ensures that patients experience faster recovery times and minimal post-surgical discomfort. This thoughtful care model has earned him the trust of both domestic and international patients.
@@ -620,7 +620,7 @@
                           src="assets/img/icons/icon_7.webp" alt="A start Badge Icon Displaying Years of Experience."/></i>
                       <div class="fact-box-inner">
                         <span style="color: white" class="scndry-clr d-block"
-                          ><i class="counter">25</i>+</span>
+                          ><i class="counter">26</i>+</span>
                         <h4 class="mb-0">Years of Experience</h4>
                       </div>
                     </div>
@@ -631,7 +631,7 @@
                           src="assets/img/icons/icon_5.webp" alt = "A Brain Image Illustrating Successful Surgeries."/></i>
                       <div class="fact-box-inner">
                         <span style="color: white" class="scndry-clr d-block"
-                          ><i class="counter">7000</i>+</span>
+                          ><i class="counter">9000</i>+</span>
                         <h4 class="mb-0">
                           Brain & Spine Surgeries
                         </h4>
@@ -837,7 +837,7 @@
                                               <span class="accordion__icon"><i class="fa fa-plus"></i></span>
                                             </button>
                                             <div class="accordion__content">
-                                              <p>Dr. Arun Saroha is one of the top neurosurgeons in India, with over 25 years of experience and more than 7,000 successful surgeries to his credit. Renowned for his expertise in neurosurgery and spine surgery, he specializes in treating complex brain and spine conditions using advanced surgical techniques.</p>
+                                              <p>Dr. Arun Saroha is one of the top neurosurgeons in India, with over 26 years of experience and more than 9,000 successful surgeries to his credit. Renowned for his expertise in neurosurgery and spine surgery, he specializes in treating complex brain and spine conditions using advanced surgical techniques.</p>
                                             </div>
                                           </div>
                                         
@@ -988,7 +988,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://spineandbrainindia.com/neurosurgeon-in-faridabad" />
 <meta property="og:title" content="Best Neurosurgeon in Faridabad – Dr. Arun Saroha | Top Spine Expert" />
-<meta property="og:description" content="Consult Dr. Arun Saroha, one of the best neurosurgeons in India with 20+ years of expertise in brain &amp; spine surgery. Book your appointment today!" />
+<meta property="og:description" content="Consult Dr. Arun Saroha, one of the best neurosurgeons in India with 26+ years of expertise in brain &amp; spine surgery. Book your appointment today!" />
 <meta property="og:image" content="https://spineandbrainindia.com/assets/images/pag-top-bg_11zon.webp" />
 
 <script type="application/ld+json">
@@ -1000,7 +1000,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",

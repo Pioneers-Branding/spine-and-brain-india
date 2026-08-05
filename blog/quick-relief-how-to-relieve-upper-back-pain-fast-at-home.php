@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/about",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -274,7 +274,7 @@
                                         <h2>When to See a Spine Specialist</h2>
                                         <p>You do not need a specialist for every twinge — most upper back pain settles with the movement, stretches and posture changes above. It is sensible to seek expert help if your pain is severe, has not improved after two to three weeks of home care, keeps coming back, or is disturbing your sleep and daily life.</p>
                                         <p>You should seek help <strong>promptly</strong> if the pain radiates around the chest or spreads into an arm or leg, or if it comes with numbness, tingling, weakness or any of the red-flag symptoms above. A timely assessment can tell whether the problem is simply muscular or whether the neck, a disc or a nerve is involved — upper back and shoulder pain that actually originates in the neck sometimes needs different care, which you can read about on the <a href="/cervical-spine-surgery-in-India" title="Cervical Spine Surgery in India">cervical spine</a> page, while broader spinal causes are covered under <a href="/back-pain-treatment-in-India" title="Back Pain Treatment in India">back pain treatment</a>.</p>
-                                        <p>For pain that is persistent, severe or complex, the opinion of an experienced neuro and spine specialist is genuinely valuable. A specialist such as <strong>Dr. Arun Saroha</strong>, with over 20 years of experience, can examine you, arrange imaging only if it is truly needed, and reassure you where the pain is simple while treating the rare cases where something more requires attention. Where an underlying disc or degenerative change is found, options from physiotherapy to procedures such as <a href="/degenerative-disc-disease-treatment-in-India" title="Degenerative Disc Disease Treatment in India">degenerative disc disease treatment</a> can be discussed.</p>
+                                        <p>For pain that is persistent, severe or complex, the opinion of an experienced neuro and spine specialist is genuinely valuable. A specialist such as <strong>Dr. Arun Saroha</strong>, with over 26 years of experience, can examine you, arrange imaging only if it is truly needed, and reassure you where the pain is simple while treating the rare cases where something more requires attention. Where an underlying disc or degenerative change is found, options from physiotherapy to procedures such as <a href="/degenerative-disc-disease-treatment-in-India" title="Degenerative Disc Disease Treatment in India">degenerative disc disease treatment</a> can be discussed.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Is your upper back pain not easing with home care?</h3>
@@ -289,7 +289,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Contact</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

@@ -63,7 +63,7 @@
           "name": "How to book treatment with Dr. Arun Saroha?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Dr. Arun Saroha specializes in Cervical Spine Surgery in Panchkula with 25+ years experience. Book consultation by contacting his clinic directly. Provide medical reports and imaging studies. International patients can arrange online consultations. His team assists with treatment planning, cost estimates, and complete care from consultation to recovery."
+            "text": "Dr. Arun Saroha specializes in Cervical Spine Surgery in Panchkula with 26+ years experience. Book consultation by contacting his clinic directly. Provide medical reports and imaging studies. International patients can arrange online consultations. His team assists with treatment planning, cost estimates, and complete care from consultation to recovery."
           }
         }
       ]
@@ -415,7 +415,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -610,7 +610,7 @@
                 </div>
                 <div class="col-lg-7 col-md-12 mb-4 mb-lg-0">
                     
-                    <p class="lead mb-4 mb-md-5 fs-6 fs-md-5">Dr. Arun Saroha is a renowned <a href="https://spineandbrainindia.com/">Best neurosurgeon in panchkula</a> specializing in advanced Cervical Spine Surgery in Panchkula with over 25+ years of experience, making him one of the top specialists for Cervical Spine Surgery in Panchkula. His expertise in treating complex spine conditions, including degenerative disc disease, herniated discs, and spinal cord compression, has earned him a reputation for delivering excellent outcomes. As a leading cervical surgeon, Dr. Saroha has successfully performed thousands of surgeries, including minimally invasive procedures like Anterior Cervical Discectomy and Fusion (ACDF) and cervical disc replacement, which are known for their precision and faster recovery times. He is committed to offering personalized care, ensuring that each patient receives a thorough evaluation and the most appropriate treatment for their specific condition.
+                    <p class="lead mb-4 mb-md-5 fs-6 fs-md-5">Dr. Arun Saroha is a renowned <a href="https://spineandbrainindia.com/">Best neurosurgeon in panchkula</a> specializing in advanced Cervical Spine Surgery in Panchkula with over 26+ years of experience, making him one of the top specialists for Cervical Spine Surgery in Panchkula. His expertise in treating complex spine conditions, including degenerative disc disease, herniated discs, and spinal cord compression, has earned him a reputation for delivering excellent outcomes. As a leading cervical surgeon, Dr. Saroha has successfully performed thousands of surgeries, including minimally invasive procedures like Anterior Cervical Discectomy and Fusion (ACDF) and cervical disc replacement, which are known for their precision and faster recovery times. He is committed to offering personalized care, ensuring that each patient receives a thorough evaluation and the most appropriate treatment for their specific condition.
                     </p>                   
                     <!--<div class="d-flex gap-3">-->
                     <!--    <a href="#quote" class="btn btn-primary">Book an Appointment</a>-->
@@ -667,7 +667,7 @@
             </div>
             <div class="faq-answer">
                 <div class="faq-answer-content">
-                    Dr. Arun Saroha specializes in <span class="keyword-highlight">Cervical Spine Surgery in Panchkula</span> with 25+ years experience. Book consultation by contacting his clinic directly. Provide medical reports and imaging studies. International patients can arrange online consultations. His team assists with treatment planning, cost estimates, and complete care from consultation to recovery.
+                    Dr. Arun Saroha specializes in <span class="keyword-highlight">Cervical Spine Surgery in Panchkula</span> with 26+ years experience. Book consultation by contacting his clinic directly. Provide medical reports and imaging studies. International patients can arrange online consultations. His team assists with treatment planning, cost estimates, and complete care from consultation to recovery.
                 </div>
             </div>
         </div>

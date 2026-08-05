@@ -7,7 +7,7 @@
         
 <title>Artificial Disc Replacement Surgery in Maharashtra | Dr. Arun Saroha</title>
         
-<meta name="description" content="Get artificial disc replacement surgery in Maharashtra by Dr. Arun Saroha. Minimally invasive techniques for lasting pain relief and restored mobility. 7000+ surgeries. Consult today!" />
+<meta name="description" content="Get artificial disc replacement surgery in Maharashtra by Dr. Arun Saroha. Minimally invasive techniques for lasting pain relief and restored mobility. 9000+ surgeries. Consult today!" />
         
 <meta name="keywords" content="Disc Replacement Surgery in Maharashtra, Disc Replacement Surgeon, Best Disc Replacement Care" />
 <link rel="canonical" href="https://spineandbrainindia.com/disc-replacement-surgery-in-maharashtra" />
@@ -296,7 +296,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -425,7 +425,7 @@
                 <div class="col-lg-7 col-md-12 mb-4 mb-lg-0">
                     
                     <p class="lead mt-3 fs-6 fs-md-5">
-                        Dr. Arun Saroha is widely recognized as the Best Doctor for Back Pain Treatment in Maharashtra, offering unparalleled expertise and compassionate care for patients suffering from various spine-related conditions. With over 29 years of experience in neurosurgery and spine surgery, Dr. Saroha has successfully treated thousands of patients with chronic back pain, providing them with long-lasting relief and improved quality of life.
+                        Dr. Arun Saroha is widely recognized as the Best Doctor for Back Pain Treatment in Maharashtra, offering unparalleled expertise and compassionate care for patients suffering from various spine-related conditions. With over 26 years of experience in neurosurgery and spine surgery, Dr. Saroha has successfully treated thousands of patients with chronic back pain, providing them with long-lasting relief and improved quality of life.
                     </p>    
                     <p class="lead fs-6 fs-md-5">
                         Dr. Saroha's approach to back pain treatment is comprehensive, addressing both medical and surgical options. He specializes in treating complex spine conditions such as degenerative spine disorders, herniated discs, and spinal stenosis. His expertise in minimally invasive spine surgery ensures faster recovery times, less post-operative pain, and reduced scarring, making him a top choice for patients looking for advanced back pain treatment.
@@ -520,7 +520,7 @@
             </div>
             <div class="faq-answer">
                 <div class="faq-answer-content">
-                    With 20+ years of experience, Dr. Arun Saroha is a trusted name in spine surgery. His expertise in minimally invasive disc replacements, patient-first approach, and work at top-tier hospitals make him a preferred choice for spinal procedures.
+                    With 26+ years of experience, Dr. Arun Saroha is a trusted name in spine surgery. His expertise in minimally invasive disc replacements, patient-first approach, and work at top-tier hospitals make him a preferred choice for spinal procedures.
                 </div>
             </div>
         </div>

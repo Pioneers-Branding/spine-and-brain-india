@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -272,7 +272,7 @@
                                         <h2>When to consult a neurosurgeon like Dr. Arun Saroha</h2>
                                         <p>If a scan has shown a brain tumor, or if you have any of the warning symptoms above, the safest next step is a prompt consultation with a <strong>neurosurgeon</strong> — not months of searching for a way to avoid the hospital. Only a specialist assessment can tell you whether your particular tumor can be treated without surgery, whether radiation or medication is the better route, or whether an operation truly is the wisest first move.</p>
                                         <p>The reassuring truth is that many people who dread surgery discover, once they understand their diagnosis, that they have more options than they feared — and that even where surgery is advised, it is far safer and more precise than they imagined. What matters most is getting an accurate diagnosis and an individualised, honest plan without losing time.</p>
-                                        <p><strong>Dr. Arun Saroha</strong>, with more than 20 years of experience in neuro and spine surgery at Max Hospital, Gurugram and Dwarka, can review your scans, explain every option in plain language — surgical and non-surgical alike — and help you choose the path that gives the best outcome with the least risk.</p>
+                                        <p><strong>Dr. Arun Saroha</strong>, with more than 26 years of experience in neuro and spine surgery at Max Hospital, Gurugram and Dwarka, can review your scans, explain every option in plain language — surgical and non-surgical alike — and help you choose the path that gives the best outcome with the least risk.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Want to know if your tumor can be treated without surgery?</h3>
@@ -287,7 +287,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Consult the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Book a Consultation</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

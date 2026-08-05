@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="Expert head injury treatment by Dr. Arun Saroha. Advanced emergency trauma care and brain surgery. 25+ years experience. Get expert neurological care. Consult now!" />
+        <meta name="description" content="Expert head injury treatment by Dr. Arun Saroha. Advanced emergency trauma care and brain surgery. 26+ years experience. Get expert neurological care. Consult now!" />
         <meta name="keywords" content="best head injury treatment in india, head injury treatment, neurosurgeon for head injury, brain trauma surgery india, head injury surgery cost, traumatic brain injury treatment, head injury specialist, head injury rehabilitation india, TBI treatment india, best neurologist for head injury" />
 
         <title>Best Head Injury Treatment in India | Dr. Arun Saroha</title>
@@ -21,7 +21,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://spineandbrainindia.com/head-injury" />
 <meta property="og:title" content="Best Head Injury Treatment in India | Dr. Arun Saroha" />
-<meta property="og:description" content="Expert head injury treatment by Dr. Arun Saroha with 20+ years experience. Advanced neurosurgical care, emergency trauma services. Call +91-7860000705." />
+<meta property="og:description" content="Expert head injury treatment by Dr. Arun Saroha with 26+ years experience. Advanced neurosurgical care, emergency trauma services. Call +91-7860000705." />
 <meta property="og:image" content="https://spineandbrainindia.com/assets/images/pag-top-bg_11zon.webp" />
 <meta property="og:site_name" content="Spine and Brain India" />
 
@@ -39,7 +39,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience specializing in head injury treatment, traumatic brain injury surgery, and neurotrauma care.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience specializing in head injury treatment, traumatic brain injury surgery, and neurotrauma care.",
       "medicalSpecialty": "Neurosurgery",
       "knowsAbout": ["Head Injury Treatment", "Traumatic Brain Injury", "Craniotomy", "Neurotrauma Surgery", "Brain Hemorrhage Treatment"],
       "aggregateRating": {
@@ -266,7 +266,7 @@
                                         <h2 class="mb-0">Expert Head Injury Treatment by Dr. Arun Saroha</h2>
                                         <p class="mb-0">Head injuries are among the most life-threatening medical emergencies, and receiving the <strong>best head injury treatment in India</strong> can mean the difference between full recovery and permanent disability. Dr. Arun Saroha, Chief Neurosurgeon at Max Hospital, Delhi NCR, is one of India's most trusted experts in treating all types of traumatic brain injuries (TBI) &mdash; from mild concussions to severe brain hemorrhages.</p>
 
-                                        <p class="mb-0">With <strong>over 20 years of neurosurgical experience</strong> and more than <strong>1,000 successful head injury surgeries</strong>, Dr. Saroha combines world-class surgical skill with compassionate patient care. He utilizes the latest neuronavigation technology, intraoperative monitoring, and minimally invasive techniques to deliver the best possible outcomes for head injury patients from across India and abroad.</p>
+                                        <p class="mb-0">With <strong>over 26 years of neurosurgical experience</strong> and more than <strong>1,000 successful head injury surgeries</strong>, Dr. Saroha combines world-class surgical skill with compassionate patient care. He utilizes the latest neuronavigation technology, intraoperative monitoring, and minimally invasive techniques to deliver the best possible outcomes for head injury patients from across India and abroad.</p>
 
                                         <p class="mb-0">Whether you or your loved one has suffered a head injury from a road accident, fall, sports injury, or assault, Dr. Arun Saroha and his team provide <strong>24/7 emergency neurosurgical care</strong> with a dedicated trauma response team ready to act within the critical golden hour.</p>
 
@@ -511,7 +511,7 @@
                                             <h2 class="mb-0">Why Choose Dr. Arun Saroha for Head Injury Treatment in India?</h2>
                                             <p class="mb-0">Dr. Arun Saroha is widely recognized as one of the <strong>best neurosurgeons in India for head injury treatment</strong>. Here is what sets him apart:</p>
                                             <ul class="mb-0 list-unstyled">
-                                                <li><strong>20+ Years of Neurosurgical Expertise:</strong> Two decades of experience in treating the most complex head injury cases, from emergency trauma to delayed complications.</li>
+                                                <li><strong>26+ Years of Neurosurgical Expertise:</strong> Two decades of experience in treating the most complex head injury cases, from emergency trauma to delayed complications.</li>
                                                 <li><strong>1,000+ Successful Brain Surgeries:</strong> A proven track record of successful outcomes in craniotomies, hematoma evacuations, decompressive craniectomies, and skull reconstruction surgeries.</li>
                                                 <li><strong>Advanced Surgical Technology:</strong> Access to state-of-the-art neuronavigation systems, intraoperative CT scanning, microsurgical instruments, and advanced ICU monitoring at Max Hospital.</li>
                                                 <li><strong>24/7 Emergency Availability:</strong> Dr. Saroha and his trauma team are available round-the-clock for emergency head injury cases, ensuring treatment within the critical golden hour.</li>

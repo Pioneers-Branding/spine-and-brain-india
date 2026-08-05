@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/about",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -272,7 +272,7 @@
                                         </div>
 
                                         <h2>Where Dr. Arun Saroha Fits In</h2>
-                                        <p>If you are looking for a spine specialist who reflects the qualities described in this guide, <strong>Dr. Arun Saroha</strong> is a leading neuro and spine surgeon with <strong>over 20 years of experience</strong>, practising at Max Hospital, Gurugram and Dwarka. As a neurosurgeon by training, he brings deep familiarity with the spinal cord and nerves, combined with extensive experience in modern spine procedures — from microsurgical decompression and disc surgery to minimally invasive and motion-preserving techniques.</p>
+                                        <p>If you are looking for a spine specialist who reflects the qualities described in this guide, <strong>Dr. Arun Saroha</strong> is a leading neuro and spine surgeon with <strong>over 26 years of experience</strong>, practising at Max Hospital, Gurugram and Dwarka. As a neurosurgeon by training, he brings deep familiarity with the spinal cord and nerves, combined with extensive experience in modern spine procedures — from microsurgical decompression and disc surgery to minimally invasive and motion-preserving techniques.</p>
                                         <p>Just as importantly, his approach reflects the principle at the heart of this article: surgery is recommended only when it is genuinely in the patient's best interest, after non-surgical options have been properly considered. Patients are encouraged to ask questions, seek second opinions and understand their choices fully. Whether your problem turns out to need an operation or can be managed without one, the priority is an accurate diagnosis and an honest, clearly explained plan — so you can move forward with confidence rather than fear.</p>
 
                                         <div class="blog-cta mt-4">
@@ -288,7 +288,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Contact</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

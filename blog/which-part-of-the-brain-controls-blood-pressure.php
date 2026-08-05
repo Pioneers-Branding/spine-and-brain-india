@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -264,7 +264,7 @@
                                         <h2>When should you consult a neurosurgeon like Dr. Arun Saroha?</h2>
                                         <p>Understanding how the brain controls blood pressure is reassuring, but it is also worth knowing when curiosity should become a consultation. Everyday high blood pressure is usually managed superbly well by your physician or cardiologist with lifestyle changes and medication, and most people never need a neurosurgeon.</p>
                                         <p>A neurosurgical opinion becomes relevant in specific situations: when a scan has revealed a <strong>brain or brainstem tumour, an aneurysm, a bleed, or a pressure problem such as hydrocephalus</strong>; after a significant <strong>head injury</strong> with neurological symptoms; or when high blood pressure comes together with warning signs like a sudden severe headache, vision changes, confusion or one-sided weakness. Blood pressure that is severe, sudden or resistant to several medications also deserves a careful search for an underlying cause.</p>
-                                        <p>Conditions involving the brainstem, brain vessels and raised intracranial pressure are among the most delicate in medicine, and experience matters. <strong>Dr. Arun Saroha</strong>, a leading neuro and spine surgeon with more than 20 years of experience, evaluates such cases to determine the safest path forward — whether that means close monitoring, medical treatment or surgery. This article is for education only and is not a substitute for a personal assessment by a qualified doctor; if in doubt, always seek professional medical advice.</p>
+                                        <p>Conditions involving the brainstem, brain vessels and raised intracranial pressure are among the most delicate in medicine, and experience matters. <strong>Dr. Arun Saroha</strong>, a leading neuro and spine surgeon with more than 26 years of experience, evaluates such cases to determine the safest path forward — whether that means close monitoring, medical treatment or surgery. This article is for education only and is not a substitute for a personal assessment by a qualified doctor; if in doubt, always seek professional medical advice.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Worried about blood pressure and a brain condition?</h3>
@@ -279,7 +279,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Consult the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Book a Consultation</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

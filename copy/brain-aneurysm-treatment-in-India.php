@@ -202,7 +202,7 @@
                             <div class="team-detail-wrap">
                                 <h3 class="mb-0">Brain Aneurysm Treatment cost in India</h3>
                                 <p class="mb-0">The type of treatment provided to an individual depends on several factors like the patient's age, size of the aneurysm, rupture, or unruptured aneurysm. One must consult with their doctor to know more about the cost, as according to the severity of one's condition, the treatment cost may vary.</p>
-                                <p class="mb-0">Dr. Arun Saroha is an expert best brain aneurysm specialist in Delhi with more than 25+ years of experience and provides the best treatment for correcting brain aneurysm condition. He has performed more than 6,000+ successful surgeries for brain and spinal problems. His surgical skills and using cutting-edge technology help him deliver the patients with excellent outcomes and bring more patients from around the world.</p>
+                                <p class="mb-0">Dr. Arun Saroha is an expert best brain aneurysm specialist in Delhi with more than 26+ years of experience and provides the best treatment for correcting brain aneurysm condition. He has performed more than 9,000+ successful surgeries for brain and spinal problems. His surgical skills and using cutting-edge technology help him deliver the patients with excellent outcomes and bring more patients from around the world.</p>
                                 
                             </div>
                     </div>

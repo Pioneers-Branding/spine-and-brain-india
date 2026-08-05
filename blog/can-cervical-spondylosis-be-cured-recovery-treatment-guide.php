@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -241,7 +241,7 @@
                                             <li><strong>Progressive or significant weakness</strong> in an arm or hand that is getting worse rather than better.</li>
                                             <li><strong>Severe, persistent nerve pain (radiculopathy)</strong> that has not responded despite several months of proper conservative treatment and injections.</li>
                                         </ul>
-                                        <p>The good news is that modern cervical spine surgery is highly refined, precise and safe. Well-established procedures such as ACDF (anterior cervical discectomy and fusion), artificial disc replacement and decompression relieve the pressure on the nerves or cord and typically allow a smooth return to normal life. Whether medication, physiotherapy, injections or surgery is right for <em>you</em> is a decision best made together with an experienced neuro and spine surgeon such as <strong>Dr. Arun Saroha</strong>, who has over 20 years of experience and practises at Max Hospital, Gurugram &amp; Dwarka, after reviewing your symptoms and scans.</p>
+                                        <p>The good news is that modern cervical spine surgery is highly refined, precise and safe. Well-established procedures such as ACDF (anterior cervical discectomy and fusion), artificial disc replacement and decompression relieve the pressure on the nerves or cord and typically allow a smooth return to normal life. Whether medication, physiotherapy, injections or surgery is right for <em>you</em> is a decision best made together with an experienced neuro and spine surgeon such as <strong>Dr. Arun Saroha</strong>, who has over 26 years of experience and practises at Max Hospital, Gurugram &amp; Dwarka, after reviewing your symptoms and scans.</p>
 
                                         <div class="redflag-box">
                                             <h2>Warning Signs of Cervical Myelopathy: When to See a Doctor Immediately</h2>
@@ -288,7 +288,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha &mdash; 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha &mdash; 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

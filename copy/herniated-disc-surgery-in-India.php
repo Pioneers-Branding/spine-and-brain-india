@@ -91,7 +91,7 @@
                                        
                                        <h3> Herniated Disc Surgery in India</h3>
                             <p>Herniated disc surgery is a serious medical procedure that requires an experienced neurosurgeon. In India, Dr. Arun Saroha is a renowned neurosurgeon who provides comprehensive care for all types of neurological problems, including herniated disc surgery.
-Dr. Saroha has over 20 years of experience in neurosurgery and has performed over eight thousand surgeries successfully. He has expertise in various domains of neurosurgery and spine surgery, including degenerative spine disorders, brain tumors, disc replacements, and complex spine fixation. Dr. Saroha provides consultation and treatment services at Max Hospital, Gurgaon, and Saket.
+Dr. Saroha has over 26 years of experience in neurosurgery and has performed over nine thousand surgeries successfully. He has expertise in various domains of neurosurgery and spine surgery, including degenerative spine disorders, brain tumors, disc replacements, and complex spine fixation. Dr. Saroha provides consultation and treatment services at Max Hospital, Gurgaon, and Saket.
 
 
 </p>

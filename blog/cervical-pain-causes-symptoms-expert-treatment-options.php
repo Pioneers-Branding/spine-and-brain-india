@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -297,7 +297,7 @@
 
                                         <h2>When to See a Specialist</h2>
                                         <p>Not every stiff neck needs a doctor. Mild pain usually settles within days with rest, posture care and gentle movement. But if pain lasts more than a week or two, keeps returning, spreads into the arm, or comes with tingling, numbness or weakness &mdash; and certainly if any red-flag symptom appears &mdash; it is wise to be assessed. Getting an early, accurate diagnosis is what allows treatment to be precise and prevents avoidable complications.</p>
-                                        <p>Complex neck and spine problems benefit greatly from the opinion of an experienced neuro and spine surgeon. <strong>Dr. Arun Saroha</strong>, with more than 20 years of experience, can help clarify whether your symptoms point to simple muscular strain, radiculopathy or myelopathy, and guide you towards the least invasive treatment that will actually work for you.</p>
+                                        <p>Complex neck and spine problems benefit greatly from the opinion of an experienced neuro and spine surgeon. <strong>Dr. Arun Saroha</strong>, with more than 26 years of experience, can help clarify whether your symptoms point to simple muscular strain, radiculopathy or myelopathy, and guide you towards the least invasive treatment that will actually work for you.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Struggling With Persistent Neck Pain?</h3>
@@ -312,7 +312,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Consult a Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years' experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years' experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Contact</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

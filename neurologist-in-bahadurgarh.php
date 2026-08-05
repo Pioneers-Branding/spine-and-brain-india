@@ -7,7 +7,7 @@
         
 <title>Best Neurologist in Bahadurgarh | Dr. Arun Saroha</title>
         
-<meta name="description" content="Consult the best neurologist in Bahadurgarh - Dr. Arun Saroha at Max Hospital. Expert care for brain, spine and nerve disorders with 25+ years experience. Book appointment now!" />
+<meta name="description" content="Consult the best neurologist in Bahadurgarh - Dr. Arun Saroha at Max Hospital. Expert care for brain, spine and nerve disorders with 26+ years experience. Book appointment now!" />
         
 <meta name="keywords" content="Best neurosurgeon in Bahadurgarh, neurosurgeon in Bahadurgarh, Spine Surgeon in Bahadurgarh, Neurologist in Bahadurgarh, Best Neurologist in Bahadurgarh" />
 <link rel="canonical" href="https://spineandbrainindia.com/neurologist-in-bahadurgarh" />
@@ -50,7 +50,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -147,7 +147,7 @@
                       ><h2>About Doctor</h2></span>
                     
                     <!--<strong>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis.</strong>-->
-                    <p class="mb-0">Dr. Arun Saroha is widely regarded as the Best Neurologist in Bahadurgarh, offering exceptional care with over 20 years of experience in the field of neurosurgery and neurology. His expertise extends to treating a wide range of complex neurological conditions, including brain tumors, spine disorders, cerebrovascular diseases, and degenerative conditions of the nervous system. As a leading neurosurgeon and neurologist, Dr. Saroha employs the latest advancements and minimally invasive techniques to ensure reduced pain, quicker recovery, and optimal outcomes for his patients.</p>
+                    <p class="mb-0">Dr. Arun Saroha is widely regarded as the Best Neurologist in Bahadurgarh, offering exceptional care with over 26 years of experience in the field of neurosurgery and neurology. His expertise extends to treating a wide range of complex neurological conditions, including brain tumors, spine disorders, cerebrovascular diseases, and degenerative conditions of the nervous system. As a leading neurosurgeon and neurologist, Dr. Saroha employs the latest advancements and minimally invasive techniques to ensure reduced pain, quicker recovery, and optimal outcomes for his patients.</p>
                      <p class="mb-0">
                      Dr. Saroha is committed to precision and patient safety, providing each individual with personalized treatment plans that address their unique needs. His comprehensive consultations focus on educating patients about their condition and the most effective treatment options. Known for his compassionate approach, Dr. Saroha ensures that every patient feels confident and supported throughout their journey to recovery. 
                     </p>
@@ -238,7 +238,7 @@
                       /></i>
                       <div class="fact-box-inner">
                         <span style="color: white" class="scndry-clr d-block"
-                          ><i class="counter">25</i>+</span
+                          ><i class="counter">26</i>+</span
                         >
                         <h4 class="mb-0">Years of Experience</h4>
                       </div>
@@ -253,7 +253,7 @@
                       /></i>
                       <div class="fact-box-inner">
                         <span style="color: white" class="scndry-clr d-block"
-                          ><i class="counter">7000</i>+</span
+                          ><i class="counter">9000</i>+</span
                         >
                         <h4 class="mb-0">
                           Brain & Spine Surgeries

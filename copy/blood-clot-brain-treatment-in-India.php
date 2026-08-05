@@ -204,7 +204,7 @@
                                         <li>Medications.</li>
                                      </ul>
                                 <p class="mb-0">The cost of brain blood clot removal treatment in India amounts between Rs 1,50,000 to Rs 4,00,000. One must consult with their surgeon to know more about the cost, as according to the severity of one's condition, the treatment cost may vary.</p>
-                                <p class="mb-0">Dr. Arun Saroha is an expert brain blood clot treatment doctor in India with more than 25+ years of experience and has performed many successful blood clot corrective surgeries. He has performed more than 6,000+ successful surgeries for brain and spinal problems. His surgical skills and using cutting-edge technology help him deliver the patients with excellent outcomes and bring more patients from around the world.</p>
+                                <p class="mb-0">Dr. Arun Saroha is an expert brain blood clot treatment doctor in India with more than 26+ years of experience and has performed many successful blood clot corrective surgeries. He has performed more than 9,000+ successful surgeries for brain and spinal problems. His surgical skills and using cutting-edge technology help him deliver the patients with excellent outcomes and bring more patients from around the world.</p>
                             </div>
                     </div>
                 </div>

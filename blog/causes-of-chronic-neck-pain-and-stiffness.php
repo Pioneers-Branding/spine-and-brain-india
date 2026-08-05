@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -278,7 +278,7 @@
                                         <h2>When to See a Doctor and How Neck Pain Is Diagnosed</h2>
                                         <p>You do not need to rush to a doctor for every stiff neck. Mild pain and stiffness usually ease within days with rest, posture correction and gentle stretching. But if the pain lasts more than a couple of weeks, keeps returning, or does not respond to simple measures, it is wise to have it assessed. And if the pain radiates into your arm or hand, comes with tingling, numbness or weakness, or is joined by any of the red-flag signs above, you should seek help <strong>promptly</strong>.</p>
                                         <p>A good assessment starts with a careful history and a <strong>physical and neurological examination</strong> — checking your neck's movement, muscle strength, sensation and reflexes to work out whether the problem is muscular, from a nerve root, or from the spinal cord. When needed, an <strong>X-ray</strong> shows the bones and alignment, an <strong>MRI</strong> gives the clearest view of discs, nerves and the spinal cord, and tests such as nerve conduction studies or blood tests are added when a pinched nerve, infection or inflammatory cause is suspected. Accurate diagnosis is what allows treatment to be precise rather than guesswork.</p>
-                                        <p>For complex or persistent neck problems, the opinion of an experienced neuro and spine specialist is genuinely valuable. <strong>Dr. Arun Saroha</strong>, who has over 20 years of experience in neuro and spine surgery and practises at Max Hospital, Gurugram and Dwarka, helps patients understand exactly what is driving their pain and whether they need only conservative care or something more. In the great majority of cases, the answer is reassuringly simple.</p>
+                                        <p>For complex or persistent neck problems, the opinion of an experienced neuro and spine specialist is genuinely valuable. <strong>Dr. Arun Saroha</strong>, who has over 26 years of experience in neuro and spine surgery and practises at Max Hospital, Gurugram and Dwarka, helps patients understand exactly what is driving their pain and whether they need only conservative care or something more. In the great majority of cases, the answer is reassuringly simple.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Struggling with neck pain that just won't go away?</h3>
@@ -293,7 +293,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -278,7 +278,7 @@
                                         <h2>When to see a neuro or spine specialist like Dr. Arun Saroha</h2>
                                         <p>Not every twitch or oddly strong knee-jerk means something is wrong &mdash; reflexes naturally vary a little from person to person. But a reflex that has clearly <em>changed</em>, especially when it comes with weakness, numbness, tingling, clumsy hands, an unsteady walk, or pain shooting down an arm or leg, deserves a proper assessment. These are the situations where an expert opinion genuinely changes the outcome.</p>
                                         <p>A neuro and spine specialist can examine your reflexes alongside your strength and sensation, work out whether the issue sits in a nerve, the spinal cord or the brain, and arrange the right tests. Catching a compressed nerve or spinal cord problem early often means it can be treated with simpler, non-surgical measures &mdash; and when surgery is needed, doing it before permanent damage sets in leads to far better recovery.</p>
-                                        <p>For complex problems of the brain and spine, the guidance of an experienced surgeon is invaluable. <strong>Dr. Arun Saroha</strong>, a leading neuro &amp; spine surgeon in India with more than 20 years of experience at Max Hospital, Gurugram &amp; Dwarka, can assess your symptoms accurately and help you understand whether you need reassurance, conservative treatment, or a further step.</p>
+                                        <p>For complex problems of the brain and spine, the guidance of an experienced surgeon is invaluable. <strong>Dr. Arun Saroha</strong>, a leading neuro &amp; spine surgeon in India with more than 26 years of experience at Max Hospital, Gurugram &amp; Dwarka, can assess your symptoms accurately and help you understand whether you need reassurance, conservative treatment, or a further step.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Worried about weakness, numbness or changing reflexes?</h3>
@@ -293,7 +293,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Consult the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Book a Consultation</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

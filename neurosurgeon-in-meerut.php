@@ -7,7 +7,7 @@
         
 <title>Best Neurosurgeon in Meerut | Dr. Arun Saroha</title>
         
-<meta name="description" content="Consult the best neurosurgeon in Meerut - Dr. Arun Saroha at Max Hospital. Expert brain and spine surgery with 7000+ successful procedures. Book appointment now!" />
+<meta name="description" content="Consult the best neurosurgeon in Meerut - Dr. Arun Saroha at Max Hospital. Expert brain and spine surgery with 9000+ successful procedures. Book appointment now!" />
         
 <meta name="keywords" content="Best neurosurgeon in Meerut, neurosurgeon in Meerut" />
 <link rel="canonical" href="https://spineandbrainindia.com/neurosurgeon-in-meerut" />
@@ -50,7 +50,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -212,7 +212,7 @@
                       ><h2>About Doctor</h2></span>
                     
                     <!--<strong>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis.</strong>-->
-                    <p class="mb-0">Dr. Arun Saroha is the best neurosurgeon in Meerut, offering world-class expertise in treating complex neurological conditions. With over 20 years of experience in neurosurgery, Dr. Saroha specializes in managing brain and spine tumors, degenerative spine disorders, cerebrovascular conditions, and other intricate neurological issues. His precision and focus on minimally invasive techniques ensure enhanced patient safety, reduced pain, and faster recovery times.</p>
+                    <p class="mb-0">Dr. Arun Saroha is the best neurosurgeon in Meerut, offering world-class expertise in treating complex neurological conditions. With over 26 years of experience in neurosurgery, Dr. Saroha specializes in managing brain and spine tumors, degenerative spine disorders, cerebrovascular conditions, and other intricate neurological issues. His precision and focus on minimally invasive techniques ensure enhanced patient safety, reduced pain, and faster recovery times.</p>
                      <p class="mb-0">
                      Dr. Saroha’s approach to care is rooted in compassion and personalization. He takes the time to understand each patient’s medical history, lifestyle, and specific concerns, tailoring treatment plans to their unique needs. By incorporating advanced neurosurgical techniques and staying at the forefront of medical innovation, Dr. Saroha delivers exceptional outcomes that restore health and improve quality of life. 
                     </p>
@@ -303,7 +303,7 @@
                       /></i>
                       <div class="fact-box-inner">
                         <span style="color: white" class="scndry-clr d-block"
-                          ><i class="counter">25</i>+</span
+                          ><i class="counter">26</i>+</span
                         >
                         <h4 class="mb-0">Years of Experience</h4>
                       </div>
@@ -318,7 +318,7 @@
                       /></i>
                       <div class="fact-box-inner">
                         <span style="color: white" class="scndry-clr d-block"
-                          ><i class="counter">7000</i>+</span
+                          ><i class="counter">9000</i>+</span
                         >
                         <h4 class="mb-0">
                           Brain & Spine Surgeries

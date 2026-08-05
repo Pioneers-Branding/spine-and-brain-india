@@ -69,7 +69,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -234,7 +234,7 @@
                                             </ul>
                                         </div>
 
-                                        <p>A spine specialist can examine you, interpret the pattern of your symptoms, and arrange imaging or tests only where they are genuinely needed. <strong>Dr. Arun Saroha</strong>, a Neuro and Spine Surgeon with over 20 years of experience, helps patients cut through the conflicting advice, understand exactly what is driving their lower back pain, and follow the least invasive effective path back to comfort.</p>
+                                        <p>A spine specialist can examine you, interpret the pattern of your symptoms, and arrange imaging or tests only where they are genuinely needed. <strong>Dr. Arun Saroha</strong>, a Neuro and Spine Surgeon with over 26 years of experience, helps patients cut through the conflicting advice, understand exactly what is driving their lower back pain, and follow the least invasive effective path back to comfort.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Not sure which choice is right for your back?</h3>
@@ -249,7 +249,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Consult the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Contact Now</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

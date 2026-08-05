@@ -7,7 +7,7 @@
         
 <title>Spinal Stenosis Surgery in Kolasib | Dr. Arun Saroha</title>
 
-<meta name="description" content="Need spinal stenosis surgery in Kolasib? Dr. Arun Saroha offers advanced minimally invasive techniques for effective relief and faster recovery. 25+ years experience. Book now!" />
+<meta name="description" content="Need spinal stenosis surgery in Kolasib? Dr. Arun Saroha offers advanced minimally invasive techniques for effective relief and faster recovery. 26+ years experience. Book now!" />
         
 <link rel="canonical" href="https://spineandbrainindia.com/spinal-stenosis-surgery-in-kolasib" />
         
@@ -433,7 +433,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",

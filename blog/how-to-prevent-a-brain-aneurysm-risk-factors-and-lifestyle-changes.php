@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -263,7 +263,7 @@
                                         <h2>If an Aneurysm Is Found: Monitoring and Treatment</h2>
                                         <p>Discovering an unruptured aneurysm — often by chance on a scan done for another reason — can be frightening, but it is not the same as having an emergency. Many small, stable aneurysms are simply watched over time with periodic imaging, while blood pressure and other risk factors are controlled carefully. This "watchful waiting" is a legitimate, evidence-based approach when the rupture risk is judged to be low.</p>
                                         <p>Whether an aneurysm needs active treatment depends on several factors — its size, shape and location, whether it is growing, your age and overall health, and your family history. When treatment is advised, modern options are highly effective and far less invasive than in the past. <strong>Endovascular coiling</strong> seals the aneurysm from inside the blood vessel through a small groin puncture, while <strong>surgical clipping</strong> places a tiny clip across its neck; newer flow-diverting stents are available for selected cases.</p>
-                                        <p>The right choice is a careful, individual decision that only an experienced neurovascular specialist can make with you. <strong>Dr. Arun Saroha</strong>, with over 20 years of experience in neuro &amp; spine surgery at Max Hospital, Gurugram &amp; Dwarka, assesses each patient's scans and risk profile to advise whether monitoring, coiling, clipping or another approach is most appropriate — and to make sure the plan fits your life, not just the image.</p>
+                                        <p>The right choice is a careful, individual decision that only an experienced neurovascular specialist can make with you. <strong>Dr. Arun Saroha</strong>, with over 26 years of experience in neuro &amp; spine surgery at Max Hospital, Gurugram &amp; Dwarka, assesses each patient's scans and risk profile to advise whether monitoring, coiling, clipping or another approach is most appropriate — and to make sure the plan fits your life, not just the image.</p>
 
                                         <h2>A Simple Prevention Checklist</h2>
                                         <p>Preventing a brain aneurysm is not about doing one heroic thing; it is about doing several sensible things consistently. If you remember nothing else from this article, hold on to the short list below — it captures the habits that give your brain's arteries the best chance of staying healthy for the long term.</p>
@@ -291,7 +291,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

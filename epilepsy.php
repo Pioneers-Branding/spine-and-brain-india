@@ -7,7 +7,7 @@
 
         <title>Best Epilepsy Treatment in India | Expert Neurosurgeon Dr. Arun Saroha</title>
 
-        <meta name="description" content="Expert epilepsy treatment by Dr. Arun Saroha. Advanced neurological care and surgical options for seizure control. 25+ years experience. Consult today!" />
+        <meta name="description" content="Expert epilepsy treatment by Dr. Arun Saroha. Advanced neurological care and surgical options for seizure control. 26+ years experience. Consult today!" />
         <meta name="keywords" content="epilepsy treatment in india, best epilepsy doctor india, epilepsy surgery india, epilepsy specialist delhi, epilepsy treatment gurgaon, drug resistant epilepsy india, temporal lobe epilepsy treatment, seizure treatment india, epilepsy neurosurgeon, Dr Arun Saroha epilepsy" />
 
         <link rel="canonical" href="https://spineandbrainindia.com/epilepsy" />
@@ -23,7 +23,7 @@
         <!-- Twitter Card -->
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Best Epilepsy Treatment in India | Dr. Arun Saroha" />
-        <meta name="twitter:description" content="Advanced epilepsy treatment — medication, surgery & latest techniques. 8000+ surgeries. Max Hospital Delhi & Gurgaon." />
+        <meta name="twitter:description" content="Advanced epilepsy treatment — medication, surgery & latest techniques. 9000+ surgeries. Max Hospital Delhi & Gurgaon." />
         <meta name="twitter:image" content="https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp" />
 
         <!-- Geo Tags -->
@@ -79,7 +79,7 @@
   "name": "Dr. Arun Saroha",
   "url": "https://spineandbrainindia.com/about",
   "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-  "description": "Dr. Arun Saroha is a Senior Director & Unit Head of Neurosurgery at Max Hospital with 25+ years of experience specializing in epilepsy surgery and treatment.",
+  "description": "Dr. Arun Saroha is a Senior Director & Unit Head of Neurosurgery at Max Hospital with 26+ years of experience specializing in epilepsy surgery and treatment.",
   "jobTitle": "Senior Director & Unit Head - Spine and Neurosurgery",
   "medicalSpecialty": ["Neurosurgery", "Epilepsy Surgery"],
   "knowsAbout": ["Epilepsy Treatment", "Epilepsy Surgery", "Temporal Lobe Epilepsy", "Drug-Resistant Epilepsy", "Vagus Nerve Stimulation", "Seizure Disorders"],
@@ -202,7 +202,7 @@
       "name": "Who is the best epilepsy doctor in India?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Dr. Arun Saroha is one of the best epilepsy specialists and neurosurgeons in India. With 25+ years of experience, 8000+ successful brain and spine surgeries, and advanced training from PGIMER Chandigarh, he specializes in both medical and surgical management of epilepsy. He practices at Max Hospital Gurugram and Max Hospital Dwarka, Delhi. He has been awarded the 'Best Spine Surgeon' by BIG RESEARCH AWARDS and is a member of the Neurological Society of India."
+        "text": "Dr. Arun Saroha is one of the best epilepsy specialists and neurosurgeons in India. With 26+ years of experience, 9000+ successful brain and spine surgeries, and advanced training from PGIMER Chandigarh, he specializes in both medical and surgical management of epilepsy. He practices at Max Hospital Gurugram and Max Hospital Dwarka, Delhi. He has been awarded the 'Best Spine Surgeon' by BIG RESEARCH AWARDS and is a member of the Neurological Society of India."
       }
     },
     {
@@ -1020,7 +1020,7 @@
                 </ul>
                 <span class="hero-badge">Advanced Epilepsy Care</span>
                 <h1>Expert Epilepsy Treatment in India — <span>Surgical & Medical Solutions</span></h1>
-                <p class="hero-subtitle">Personalized epilepsy care by Dr. Arun Saroha with 25+ years of experience treating complex seizure disorders. From medication management to advanced epilepsy surgery — comprehensive care at Max Hospital, Delhi & Gurgaon.</p>
+                <p class="hero-subtitle">Personalized epilepsy care by Dr. Arun Saroha with 26+ years of experience treating complex seizure disorders. From medication management to advanced epilepsy surgery — comprehensive care at Max Hospital, Delhi & Gurgaon.</p>
                 <div class="hero-stats-row">
                     <div class="hero-stat">
                         <div class="stat-num">8000+</div>
@@ -1502,7 +1502,7 @@
         <div class="why-grid">
             <div class="why-card">
                 <div class="w-icon"><i class="fas fa-user-md"></i></div>
-                <h4>25+ Years Neurosurgical Expertise</h4>
+                <h4>26+ Years Neurosurgical Expertise</h4>
                 <p>Trained at PGIMER Chandigarh with extensive experience in epilepsy surgery, brain tumor removal, and complex neurosurgical procedures.</p>
             </div>
             <div class="why-card">
@@ -1661,7 +1661,7 @@
                     <span class="faq-icon"><i class="fas fa-plus"></i></span>
                 </button>
                 <div class="faq-a">
-                    <p>Dr. Arun Saroha is one of the best epilepsy specialists and neurosurgeons in India. With 25+ years of experience, 8000+ successful brain and spine surgeries, and advanced training from PGIMER Chandigarh, he specializes in both medical and surgical management of epilepsy at Max Hospital, Gurugram and Delhi.</p>
+                    <p>Dr. Arun Saroha is one of the best epilepsy specialists and neurosurgeons in India. With 26+ years of experience, 9000+ successful brain and spine surgeries, and advanced training from PGIMER Chandigarh, he specializes in both medical and surgical management of epilepsy at Max Hospital, Gurugram and Delhi.</p>
                 </div>
             </div>
             <div class="faq-item">

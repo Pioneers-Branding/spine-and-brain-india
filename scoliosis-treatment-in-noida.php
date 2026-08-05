@@ -7,7 +7,7 @@
         
         <title>Scoliosis Treatment in Noida | Dr. Arun Saroha</title>
         
-        <meta name="description" content="Expert scoliosis treatment in Noida by Dr. Arun Saroha. Advanced minimally invasive spine correction with 7000+ successful surgeries. Effective recovery. Book consultation!" />
+        <meta name="description" content="Expert scoliosis treatment in Noida by Dr. Arun Saroha. Advanced minimally invasive spine correction with 9000+ successful surgeries. Effective recovery. Book consultation!" />
         
         <meta name="keywords" content="Scoliosis Treatment in Noida, Expert Scoliosis Specialist, Best Scoliosis Care" />
         <link rel="canonical" href="https://spineandbrainindia.com/scoliosis-treatment-in-uttar-pradesh" />
@@ -430,7 +430,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",

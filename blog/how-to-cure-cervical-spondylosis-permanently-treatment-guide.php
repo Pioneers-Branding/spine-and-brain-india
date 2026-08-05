@@ -71,7 +71,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "1045" },
       "address": { "@type": "PostalAddress", "addressLocality": "India", "addressCountry": "IN" }
@@ -250,7 +250,7 @@
 
                                         <div class="blog-cta mt-4">
                                             <h3>Struggling with Persistent Neck Pain or Arm Symptoms?</h3>
-                                            <p>You do not have to accept a stiff, aching neck as your normal. Dr. Arun Saroha, Neuro &amp; Spine Surgeon with 20+ years' experience at Max Hospital, Gurugram &amp; Dwarka, can confirm what is causing your symptoms, rule out red flags such as cervical myelopathy, and build a realistic plan for lasting relief.</p>
+                                            <p>You do not have to accept a stiff, aching neck as your normal. Dr. Arun Saroha, Neuro &amp; Spine Surgeon with 26+ years' experience at Max Hospital, Gurugram &amp; Dwarka, can confirm what is causing your symptoms, rule out red flags such as cervical myelopathy, and build a realistic plan for lasting relief.</p>
                                             <a class="thm-btn scndry-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Book a Consultation">Book a Consultation</a>
                                         </div>
 
@@ -261,7 +261,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Consult a Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years' experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years' experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Contact</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

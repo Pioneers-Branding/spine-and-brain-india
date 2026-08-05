@@ -94,7 +94,7 @@
                                                                             <h3 class="mb-0">Brain Tumor Treatment in India</h3>
                                                                             <p class="mb-0">India has some of the best hospitals and doctors for brain tumor treatment. Max Super Specialty Hospital, Saket is one of the top hospitals in India for neurosurgery. Dr. Arun Saroha, who practices at Max Super Specialty Hospital, Saket, is one of the most experienced and skilled neurosurgeons in the country.</p>
            
-                                                                             <p class="mb-0">Dr. Saroha has more than 20 years of experience in neurosurgery and has expertise in treating brain and spine disorders like degenerative spine disorders, brain tumors, disc replacements, and pediatric neurosurgeries, among others. He has performed more than eight thousand surgeries so far and is known for providing comprehensive care for all types of neurological problems.</p>
+                                                                             <p class="mb-0">Dr. Saroha has more than 26 years of experience in neurosurgery and has expertise in treating brain and spine disorders like degenerative spine disorders, brain tumors, disc replacements, and pediatric neurosurgeries, among others. He has performed more than nine thousand surgeries so far and is known for providing comprehensive care for all types of neurological problems.</p>
                             
                             
                                                                                                         <h3 class="mb-0">Brain Tumor Surgery Cost in India</h3>

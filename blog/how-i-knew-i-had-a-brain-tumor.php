@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -255,7 +255,7 @@
 
                                         <h2>When you should see a doctor</h2>
                                         <p>You do not need to panic over every headache or forgetful moment &mdash; and you should not. But it is worth booking a proper check-up if a symptom is <strong>new, persistent, and unlike your usual self</strong>, or if it is slowly getting worse over days and weeks. A headache pattern that has genuinely changed, a first seizure, new vision trouble, a weak or clumsy limb, ongoing word-finding difficulty, or a personality change noticed by family are all good reasons to be seen.</p>
-                                        <p>Trust your instincts, and trust the people close to you. If those around you keep saying you seem different, let that be permission to get checked rather than something to dismiss. Complex brain symptoms deserve the eye of an experienced specialist. A senior neuro and spine surgeon such as <strong>Dr. Arun Saroha</strong>, who has over 20 years of experience and practises at Max Hospital, Gurugram &amp; Dwarka, can assess your symptoms, order the right scan, and tell you honestly whether there is anything to worry about or whether you can be reassured.</p>
+                                        <p>Trust your instincts, and trust the people close to you. If those around you keep saying you seem different, let that be permission to get checked rather than something to dismiss. Complex brain symptoms deserve the eye of an experienced specialist. A senior neuro and spine surgeon such as <strong>Dr. Arun Saroha</strong>, who has over 26 years of experience and practises at Max Hospital, Gurugram &amp; Dwarka, can assess your symptoms, order the right scan, and tell you honestly whether there is anything to worry about or whether you can be reassured.</p>
                                         <p>Please remember that this article is for general education and awareness only, and is not a substitute for a personal medical consultation. The right advice for <em>you</em> can only come from a doctor who has examined you and reviewed your scans.</p>
 
                                         <h2>There is real hope after diagnosis</h2>
@@ -275,7 +275,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha &mdash; 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha &mdash; 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -273,7 +273,7 @@
 
                                         <h2>When to see a doctor or neurosurgeon</h2>
                                         <p>Most changes in mood or memory have everyday explanations — tiredness, stress or lack of sleep. But when symptoms are sudden, severe, or steadily progressive, they deserve professional assessment. Early diagnosis of conditions affecting the cerebrum, such as tumours, strokes or bleeds, very often leads to better outcomes.</p>
-                                        <p>You should seek a specialist opinion if a scan has already shown a brain tumour, aneurysm or bleed; if you have had a significant head injury with any lasting change in thinking, speech or behaviour; or if you have unexplained, worsening neurological symptoms. <strong>Dr. Arun Saroha</strong>, a leading neuro and spine surgeon with more than 20 years of experience at Max Hospital, Gurugram and Dwarka, evaluates such cases to determine the safest and most effective way forward — whether that is watchful monitoring, medication, or surgery.</p>
+                                        <p>You should seek a specialist opinion if a scan has already shown a brain tumour, aneurysm or bleed; if you have had a significant head injury with any lasting change in thinking, speech or behaviour; or if you have unexplained, worsening neurological symptoms. <strong>Dr. Arun Saroha</strong>, a leading neuro and spine surgeon with more than 26 years of experience at Max Hospital, Gurugram and Dwarka, evaluates such cases to determine the safest and most effective way forward — whether that is watchful monitoring, medication, or surgery.</p>
                                         <p><em>This article is intended for education and general awareness only. It is not a substitute for professional medical advice, diagnosis or treatment. Always consult a qualified doctor about your specific situation.</em></p>
 
                                         <div class="blog-cta mt-4">
@@ -289,7 +289,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Consult the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Book a Consultation</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

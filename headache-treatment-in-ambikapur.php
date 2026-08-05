@@ -367,7 +367,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in Ambikapur with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in Ambikapur with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -605,7 +605,7 @@
             </div>
             <div class="faq-answer">
                 <div class="faq-answer-content">
-                    Dr. Arun Saroha specializes in <span class="keyword-highlight">Cervical Spine Surgery in Ambikapur</span> with 25+ years experience. Book consultation by contacting his clinic directly. Provide medical reports and imaging studies. International patients can arrange online consultations. His team assists with treatment planning, cost estimates, and complete care from consultation to recovery.
+                    Dr. Arun Saroha specializes in <span class="keyword-highlight">Cervical Spine Surgery in Ambikapur</span> with 26+ years experience. Book consultation by contacting his clinic directly. Provide medical reports and imaging studies. International patients can arrange online consultations. His team assists with treatment planning, cost estimates, and complete care from consultation to recovery.
                 </div>
             </div>
         </div>

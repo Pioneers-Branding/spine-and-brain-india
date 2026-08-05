@@ -69,7 +69,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -226,7 +226,7 @@
                                             <li>Choose a supportive, well-fitted bra and lighten or balance the bags you carry.</li>
                                             <li>Use heat for muscle tightness, manage stress with relaxation and good sleep, and protect bone health with calcium, vitamin D and weight-bearing activity.</li>
                                         </ul>
-                                        <p>See a doctor if your pain follows an injury, comes on suddenly and severely, does not improve after a couple of weeks of self-care, steadily worsens, or wakes you at night &ndash; and seek urgent care for any of the red flags above. A thorough evaluation, with imaging or a bone-density scan only where genuinely needed, can identify the cause and guide the right, usually non-surgical, <a href="/back-pain-treatment-in-India" title="Back pain treatment in India">back pain treatment</a>. <strong>Dr. Arun Saroha</strong>, a Neuro &amp; Spine Surgeon with over 20 years of experience at Max Hospital, Gurugram and Dwarka, evaluates the true source of upper back pain and recommends the least invasive, most effective path to relief &ndash; which for the vast majority of women means simple, conservative care.</p>
+                                        <p>See a doctor if your pain follows an injury, comes on suddenly and severely, does not improve after a couple of weeks of self-care, steadily worsens, or wakes you at night &ndash; and seek urgent care for any of the red flags above. A thorough evaluation, with imaging or a bone-density scan only where genuinely needed, can identify the cause and guide the right, usually non-surgical, <a href="/back-pain-treatment-in-India" title="Back pain treatment in India">back pain treatment</a>. <strong>Dr. Arun Saroha</strong>, a Neuro &amp; Spine Surgeon with over 26 years of experience at Max Hospital, Gurugram and Dwarka, evaluates the true source of upper back pain and recommends the least invasive, most effective path to relief &ndash; which for the vast majority of women means simple, conservative care.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Is your upper back pain not going away?</h3>
@@ -241,7 +241,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Consult the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Contact Now</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

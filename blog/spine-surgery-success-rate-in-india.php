@@ -85,7 +85,7 @@
             "name": "Dr. Arun Saroha",
             "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
             "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-            "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+            "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
             "medicalSpecialty": "Neurosurgery",
             "aggregateRating": {
                 "@type": "AggregateRating",
@@ -286,7 +286,7 @@
                                             <li><strong>English-speaking care teams:</strong> smoother communication for patients from within India and abroad.</li>
                                         </ul>
                                         <h2>Dr. Arun Saroha's Approach to Spine Surgery</h2>
-                                        <p>Dr. Arun Saroha is a leading neurosurgeon and spine surgeon in India with more than 20 years of experience, practising at Max Hospital, Gurugram and Max Super Speciality Hospital, Dwarka, Delhi. His philosophy reflects everything that drives high success rates: careful diagnosis, honest counselling, and surgery only when it is genuinely the best option.</p>
+                                        <p>Dr. Arun Saroha is a leading neurosurgeon and spine surgeon in India with more than 26 years of experience, practising at Max Hospital, Gurugram and Max Super Speciality Hospital, Dwarka, Delhi. His philosophy reflects everything that drives high success rates: careful diagnosis, honest counselling, and surgery only when it is genuinely the best option.</p>
                                         <p>In practice, this means conservative care such as medication, physiotherapy and, where appropriate, injections is usually explored first, with surgery reserved for patients who have red-flag signs, progressive nerve problems, or symptoms that have not responded to non-surgical treatment. When surgery is the right choice, the emphasis is on the least invasive technique that will fully and safely solve the problem, followed by a clear rehabilitation plan. This combination of correct selection, technical experience and structured recovery is what gives the best chance of a lasting, successful outcome.</p>
                                         <h2>What Recovery Looks Like After Spine Surgery</h2>
                                         <p>Recovery is part of the success equation, not just an afterthought. Even a technically perfect operation can be undermined by rushing back to heavy activity, ignoring physiotherapy, or continuing to smoke. Conversely, patients who follow their recovery plan tend to get the fullest and most durable benefit.</p>
@@ -337,7 +337,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Consult the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years in neuro and spine surgery. Max Hospital, Gurugram and Dwarka, Delhi.</p>
+                                            <p>Dr. Arun Saroha — 26+ years in neuro and spine surgery. Max Hospital, Gurugram and Dwarka, Delhi.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

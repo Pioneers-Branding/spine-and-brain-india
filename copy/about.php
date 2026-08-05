@@ -16,7 +16,7 @@
         <meta property="og:url" content="https://www.spineandbrainindia.com/about-us/dr-arun-saroha/" />
         <meta property="og:keywords" content="India, Neurosurgeon India, Spine Surgeon India" />
         <meta property="og:title" content="About Dr. Arun Saroha | Renowned Neurosurgeon in India | SpineandBrainIndia.com" />
-        <meta property="og:description" content="Learn about Dr. Arun Saroha, a leading neurosurgeon in India with over 20 years 
+        <meta property="og:description" content="Learn about Dr. Arun Saroha, a leading neurosurgeon in India with over 26 years 
         of experience. Explore his expertise in spine and brain surgery and his commitment to providing top-notch healthcare." />
 
         <!--Schema Markup-->
@@ -27,7 +27,7 @@
   "@type": "Person",
   "name": "Dr. Arun Saroha",
   "jobTitle": "Senior Director - Neurosurgery",
-  "description": "Leading neurosurgeon in India with over 20 years of experience in spine and brain surgery.",
+  "description": "Leading neurosurgeon in India with over 26 years of experience in spine and brain surgery.",
   "url": "https://www.spineandbrainindia.com/about-us/dr-arun-saroha/",
   "image": "https://www.spineandbrainindia.com/images/dr-arun-saroha.jpg",
   "worksFor": {
@@ -132,7 +132,7 @@
                                             <img src="assets/images/doctors.webp" alt="A Doctor with Stethoscope">
                                         </i>
                                         <div class="fact-box-inner">
-                                            <span class="scndry-clrss d-block"><i class="counter">8000</i>+</span>
+                                            <span class="scndry-clrss d-block"><i class="counter">9000</i>+</span>
                                             <h4 class="mb-0 scndry-clrss">Surgeries</h4>
                                             <!--<p class="mb-0">Top level physiotherapy</p>-->
                                         </div>
@@ -157,7 +157,7 @@
                                             <img src="assets/images/Year-Experience.webp" alt="A certificate icon depicting years of experience.">
                                         </i>
                                         <div class="fact-box-inner">
-                                            <span class="scndry-clrss d-block"><i class="counter">20</i>+</span>
+                                            <span class="scndry-clrss d-block"><i class="counter">26</i>+</span>
                                             <h4 class="mb-0 scndry-clrss">Year of Experience</h4>
                                             <!--<p class="mb-0">Top level physiotherapy</p>-->
                                         </div>

@@ -7,7 +7,7 @@
         
 <title>Nerve Graft Surgery in Tura | Dr Arun Saroha</title>
 
-<meta name="description" content="Need nerve graft surgery in Tura? Dr. Arun Saroha offers advanced nerve repair techniques to restore function after injury. 25+ years expertise. Book consultation now!" />
+<meta name="description" content="Need nerve graft surgery in Tura? Dr. Arun Saroha offers advanced nerve repair techniques to restore function after injury. 26+ years expertise. Book consultation now!" />
         
 <meta name="keywords" content="" />
 <link rel="canonical" href="https://spineandbrainindia.com/nerve-graft-surgery-in-tura" />
@@ -433,7 +433,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",

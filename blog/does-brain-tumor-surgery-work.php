@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -228,7 +228,7 @@
                                             <li><strong>The patient's overall health and age:</strong> General fitness, other medical conditions and how well the body tolerates anaesthesia all influence both the surgery and the recovery.</li>
                                             <li><strong>The surgical team and technology available:</strong> An experienced neurosurgical team working in a well-equipped centre can safely attempt operations that would be far riskier elsewhere.</li>
                                         </ul>
-                                        <p>This is exactly why a personal consultation matters so much. Specialists such as <strong>Dr. Arun Saroha</strong>, who has over 20 years of experience in neuro and spine surgery at Max Hospital, Gurugram and Dwarka, study your scans and your whole clinical picture before offering a realistic view of what surgery can and cannot achieve in your case.</p>
+                                        <p>This is exactly why a personal consultation matters so much. Specialists such as <strong>Dr. Arun Saroha</strong>, who has over 26 years of experience in neuro and spine surgery at Max Hospital, Gurugram and Dwarka, study your scans and your whole clinical picture before offering a realistic view of what surgery can and cannot achieve in your case.</p>
 
                                         <h2>Modern Tools That Make Surgery Safer and More Effective</h2>
                                         <p>One of the biggest reasons brain tumour surgery "works" so much better today than in the past is technology. Modern neurosurgery is less about the surgeon's steady hand alone and more about a hand guided by remarkably precise tools. A few that make a real difference:</p>
@@ -278,7 +278,7 @@
 
                                         <div class="blog-cta mt-4">
                                             <h3>Facing a Brain Tumour Diagnosis? You Do Not Have to Decide Alone.</h3>
-                                            <p>A clear, expert opinion can replace fear with a plan. Dr. Arun Saroha, a leading neuro &amp; spine surgeon with over 20 years of experience at Max Hospital, Gurugram &amp; Dwarka, will review your scans and explain, honestly, what surgery can realistically achieve for you. Take the first step towards clarity and the right treatment.</p>
+                                            <p>A clear, expert opinion can replace fear with a plan. Dr. Arun Saroha, a leading neuro &amp; spine surgeon with over 26 years of experience at Max Hospital, Gurugram &amp; Dwarka, will review your scans and explain, honestly, what surgery can realistically achieve for you. Take the first step towards clarity and the right treatment.</p>
                                             <a class="thm-btn scndry-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Book a Consultation">Book a Consultation</a>
                                         </div>
 
@@ -289,7 +289,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

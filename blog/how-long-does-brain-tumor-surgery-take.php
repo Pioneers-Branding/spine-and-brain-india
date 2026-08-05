@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -266,7 +266,7 @@
 
                                         <h2>When to Talk to a Neurosurgeon</h2>
                                         <p>If you have been advised to have brain tumor surgery, the most reassuring thing you can do is have a clear, unhurried conversation with an experienced neurosurgeon. They can look at your specific scans, explain roughly how long your operation is likely to take, describe the approach they will use, and set out a recovery plan tailored to you. Understanding your own case removes a great deal of the fear that comes from the unknown.</p>
-                                        <p>Complex brain surgery rewards experience, careful planning and modern technology. <strong>Dr. Arun Saroha</strong>, a senior neuro &amp; spine surgeon with more than 20 years of experience at Max Hospital, Gurugram &amp; Dwarka, assesses each patient individually to plan the safest possible operation and the smoothest recovery. If you are facing this decision, seeking an expert opinion is a sensible and empowering first step.</p>
+                                        <p>Complex brain surgery rewards experience, careful planning and modern technology. <strong>Dr. Arun Saroha</strong>, a senior neuro &amp; spine surgeon with more than 26 years of experience at Max Hospital, Gurugram &amp; Dwarka, assesses each patient individually to plan the safest possible operation and the smoothest recovery. If you are facing this decision, seeking an expert opinion is a sensible and empowering first step.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Facing brain tumor surgery for yourself or a loved one?</h3>
@@ -281,7 +281,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

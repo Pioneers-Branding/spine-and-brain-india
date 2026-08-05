@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="Get the best cervical spondylosis treatment in Gurgaon by Dr. Arun Saroha. Advanced minimally invasive spine surgery for neck pain relief. 25+ years experience. Book now!" />
+        <meta name="description" content="Get the best cervical spondylosis treatment in Gurgaon by Dr. Arun Saroha. Advanced minimally invasive spine surgery for neck pain relief. 26+ years experience. Book now!" />
         <meta name="keywords" content="" />
        
         <title>Best treatment cervical spondylosis in gurgaon</title>
@@ -32,7 +32,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -153,7 +153,7 @@ Currently, Dr. Saroha provides his services at Max Hospital in Gurgaon and Saket
                                        
                                        <h3>Cervical Spondylosis Surgery in Gurgaon: Cost and Procedure</h3>
                                        <p>Cervical spondylosis surgery may be required in cases where non-surgical treatments have failed to provide relief or in cases where the condition is severe. The cost of cervical spondylosis surgery in Gurgaon can vary depending on a number of factors, including the type of surgery required, the hospital where it is performed, and the experience and expertise of the surgeon.
-Dr. Saroha has performed more than 8,000 surgeries successfully, and he has the experience and expertise required to perform cervical spondylosis surgery with a high success rate. The cost of the surgery will depend on the specific case, and Dr. Saroha will be able to provide a detailed cost estimate after examining the patient.
+Dr. Saroha has performed more than 9,000 surgeries successfully, and he has the experience and expertise required to perform cervical spondylosis surgery with a high success rate. The cost of the surgery will depend on the specific case, and Dr. Saroha will be able to provide a detailed cost estimate after examining the patient.
 </p>
 
                                        

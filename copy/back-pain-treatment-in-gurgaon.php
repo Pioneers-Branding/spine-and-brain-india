@@ -42,7 +42,7 @@
 
 
 
-                                        <p class="mb-0">Back pain is a common problem that affects people of all ages and backgrounds. Whether you're dealing with chronic pain or acute discomfort, finding the proper treatment is essential to help you return to your routine. If you're in Gurgaon and looking for the best doctor for back pain treatment, you'll be glad to know that Dr. Arun Saroha is available to help. As a leading neurosurgeon with over 20 years of experience, Dr. Saroha has the expertise to provide comprehensive care for all types of neurological problems.</p>
+                                        <p class="mb-0">Back pain is a common problem that affects people of all ages and backgrounds. Whether you're dealing with chronic pain or acute discomfort, finding the proper treatment is essential to help you return to your routine. If you're in Gurgaon and looking for the best doctor for back pain treatment, you'll be glad to know that Dr. Arun Saroha is available to help. As a leading neurosurgeon with over 26 years of experience, Dr. Saroha has the expertise to provide comprehensive care for all types of neurological problems.</p>
                                         <p class="mb-0">In this article, we'll look closer at Dr. Saroha's background, his areas of expertise, and the services he offers for back pain treatment in Gurgaon. We'll also discuss the cost of treatment and the types of back pain surgery that may be recommended for some instances. By the end of this article, you'll better understand what to expect from Dr. Saroha and why he is the best choice for back pain treatment in Gurgaon.</p>
 
 
@@ -102,7 +102,7 @@
                             <div class="team-detail-wrap">
                                 <h3 class="mb-0">Back Pain Treatment in India: Get Relief from Your Aches with Dr. Arun Saroha</h3>
 
-                                <p class="mb-0"><img class="img-fluid brd-rd10 alignright" src="assets/img/services/back pain 1.webp" alt="Course Detail Image 2">Are you tired of dealing with chronic back pain? Do you want to find the best doctor for back pain in India who can help alleviate your discomfort? Look no further than Dr. Arun Saroha, a renowned neurosurgeon with over 20 years of experience in treating various brain and spine disorders.</p>
+                                <p class="mb-0"><img class="img-fluid brd-rd10 alignright" src="assets/img/services/back pain 1.webp" alt="Course Detail Image 2">Are you tired of dealing with chronic back pain? Do you want to find the best doctor for back pain in India who can help alleviate your discomfort? Look no further than Dr. Arun Saroha, a renowned neurosurgeon with over 26 years of experience in treating various brain and spine disorders.</p>
                                      <p>In this article, we'll provide you with all the information you need to know about back pain treatment in India, including the best doctor for back pain, treatment costs, and available surgical options. We'll also discuss cervical spondylosis, another common condition that can cause neck and shoulder pain, and how Dr. Saroha can help treat it.</p>
 
 
@@ -166,7 +166,7 @@ However, it's important to note that choosing the cheapest option may not always
                                     <li>Perform low-impact, age-appropriate exercises regularly to keep muscles strong and flexible.</li>
                                  </ul>
 
-                                <p class="mb-0">Dr. Arun Saroha is an expert back pain doctor in Delhi, India with more than 25 + years of experience and has provided the best results to the patient suffering from back pain concerns. He has performed more than 6,000+ successful surgeries for brain and spinal problems. His surgical skills and using cutting-edge technology help him deliver the patients with excellent outcomes and bring more patients worldwide.</p>
+                                <p class="mb-0">Dr. Arun Saroha is an expert back pain doctor in Delhi, India with more than 26 + years of experience and has provided the best results to the patient suffering from back pain concerns. He has performed more than 9,000+ successful surgeries for brain and spinal problems. His surgical skills and using cutting-edge technology help him deliver the patients with excellent outcomes and bring more patients worldwide.</p>
                             </div>
                         </div>
                 </div>

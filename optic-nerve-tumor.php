@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="Expert optic nerve tumor treatment by Dr. Arun Saroha. Advanced skull base surgery for vision preservation. 25+ years experience. Get expert care. Consult now!" />
+        <meta name="description" content="Expert optic nerve tumor treatment by Dr. Arun Saroha. Advanced skull base surgery for vision preservation. 26+ years experience. Get expert care. Consult now!" />
         <meta name="keywords" content="" />
        
         <title>Optic Nerve Tumor</title>
@@ -32,7 +32,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",

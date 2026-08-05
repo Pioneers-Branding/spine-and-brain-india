@@ -47,7 +47,7 @@
                                         
                                         
                                         <p class="mb-0">Disc replacement surgery is a minimally invasive surgical procedure that involves removing the damaged spinal disc and replacing it with an artificial one. The primary goal of this surgery is to reduce pain, improve spinal stability, and restore mobility.</p>
-                                        <p class="mb-0">Gurgaon is one of the most prominent medical hubs in India, offering state-of-the-art medical facilities and expertise. Max Hospital, Gurgaon, is one of the top hospitals in the city, offering world-class healthcare services. Dr. Arun Saroha, a renowned neurosurgeon, practices at Max Super Specialty Hospital, Saket. With over 20 years of experience in neurosurgery, he is one of the best doctors for disc replacement surgery in Gurgaon.</p>
+                                        <p class="mb-0">Gurgaon is one of the most prominent medical hubs in India, offering state-of-the-art medical facilities and expertise. Max Hospital, Gurgaon, is one of the top hospitals in the city, offering world-class healthcare services. Dr. Arun Saroha, a renowned neurosurgeon, practices at Max Super Specialty Hospital, Saket. With over 26 years of experience in neurosurgery, he is one of the best doctors for disc replacement surgery in Gurgaon.</p>
                                         
                                         
                                         <!--<blockquote class="blockquote text-center thm-bg brd-rd10">-->
@@ -66,7 +66,7 @@
                                         <p  class="mb-0">However, it is essential to note that the cost may increase if there are any complications during or after the surgery. It is crucial to discuss the cost and payment options with your doctor and the hospital before undergoing the procedure.</p>
                                        
                                        <h3>Best Doctor for Disc Replacement in Gurgaon</h3>
-                                       <p>If you are considering disc replacement surgery in Gurgaon, it is essential to choose a qualified and experienced neurosurgeon who specializes in the procedure. Dr. Arun Saroha is one of the best doctors for disc replacement surgery in Gurgaon. He has more than 20 years of experience in neurosurgery and has performed more than eight thousand surgeries successfully.
+                                       <p>If you are considering disc replacement surgery in Gurgaon, it is essential to choose a qualified and experienced neurosurgeon who specializes in the procedure. Dr. Arun Saroha is one of the best doctors for disc replacement surgery in Gurgaon. He has more than 26 years of experience in neurosurgery and has performed more than nine thousand surgeries successfully.
                                   </p>Dr. Saroha has a passion for improving the quality of life of patients who are suffering from brain and spine problems. He offers comprehensive care for all types of neurological problems, including disc replacement surgery. He provides consultation at Max Hospital, Gurgaon and Saket and has a large number of patients coming from across the world.</p>
                                        
                                        
@@ -104,7 +104,7 @@
                             </div>
                             <div class="team-detail-wrap">
 
-                                <p class="mb-0"><img class="img-fluid brd-rd10 alignright" src="assets/img/services/back pain 1.webp" alt="Course Detail Image 2">Are you tired of dealing with chronic back pain? Do you want to find the best doctor for back pain in India who can help alleviate your discomfort? Look no further than Dr. Arun Saroha, a renowned neurosurgeon with over 20 years of experience in treating various brain and spine disorders.</p>
+                                <p class="mb-0"><img class="img-fluid brd-rd10 alignright" src="assets/img/services/back pain 1.webp" alt="Course Detail Image 2">Are you tired of dealing with chronic back pain? Do you want to find the best doctor for back pain in India who can help alleviate your discomfort? Look no further than Dr. Arun Saroha, a renowned neurosurgeon with over 26 years of experience in treating various brain and spine disorders.</p>
                                      <p>In this article, we'll provide you with all the information you need to know about back pain treatment in India, including the best doctor for back pain, treatment costs, and available surgical options. We'll also discuss cervical spondylosis, another common condition that can cause neck and shoulder pain, and how Dr. Saroha can help treat it.</p>
                                   
                                 

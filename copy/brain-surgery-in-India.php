@@ -238,7 +238,7 @@
                                 <h3 class="mb-0">Brain Surgery Cost in Delhi (India)</h3>
                                 <p class="mb-0">Brain surgery is performed to relieve severe pain like trigeminal neuralgia, remove the infection, repair skull fractures, trauma, cerebral aneurysms, brain tumors, and brain hemorrhage.</p>
                                 <p class="mb-0">In Delhi, India, the best brain surgeon performs the surgery using the latest technology and medical equipment. To know more about any type of brain surgery cost in Delhi, consult today with an expert and experienced brain surgeon, Dr. Arun Saroha.</p>
-                                <p class="mb-0">Dr. Arun Saroha, a brain surgeon in Delhi, has more than 25+ years of experience and has performed more than 6,000+ successful surgeries for brain and spinal problems. His surgical skills and using cutting-edge technology help him deliver the patients with excellent outcomes and bring more patients worldwide.</p>
+                                <p class="mb-0">Dr. Arun Saroha, a brain surgeon in Delhi, has more than 26+ years of experience and has performed more than 9,000+ successful surgeries for brain and spinal problems. His surgical skills and using cutting-edge technology help him deliver the patients with excellent outcomes and bring more patients worldwide.</p>
                                 
                             </div>
                             

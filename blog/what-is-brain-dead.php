@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -275,7 +275,7 @@
 
                                         <h2>The role of a neurosurgeon &mdash; and when to seek expert help</h2>
                                         <p>Many of the emergencies that can lead to brain death &mdash; a ruptured aneurysm, a large clot or bleed, a stroke, a growing tumour, a serious head injury &mdash; are exactly the conditions that skilled neurosurgeons treat every day. When these are caught early and treated fast, outcomes can be very different. Timely surgery to remove a clot, secure an aneurysm, relieve pressure on a swelling brain, or remove a dangerous tumour can save a life and protect the brain from irreversible harm.</p>
-                                        <p>This is why the window of time matters so much, and why you should never &ldquo;wait and watch&rdquo; with the warning signs above. An experienced neuro &amp; spine specialist such as <strong>Dr. Arun Saroha</strong>, with over 20 years of experience, is the kind of expert who assesses these brain emergencies, advises on whether urgent surgery is needed, and guides families through complex and frightening situations with clarity and care.</p>
+                                        <p>This is why the window of time matters so much, and why you should never &ldquo;wait and watch&rdquo; with the warning signs above. An experienced neuro &amp; spine specialist such as <strong>Dr. Arun Saroha</strong>, with over 26 years of experience, is the kind of expert who assesses these brain emergencies, advises on whether urgent surgery is needed, and guides families through complex and frightening situations with clarity and care.</p>
                                         <p>If someone in your family has a known aneurysm, a brain tumour, uncontrolled high blood pressure, or has recently had a stroke or serious head injury, a specialist review can help you understand the risks and the steps that reduce them. Prevention and early action are always better than facing a catastrophic outcome later.</p>
 
                                         <div class="blog-cta mt-4">
@@ -291,7 +291,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha &mdash; 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha &mdash; 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

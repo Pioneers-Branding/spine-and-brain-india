@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -249,7 +249,7 @@
                                         <h2>How a specialist matches the treatment to your severity</h2>
                                         <p>The reason it is worth seeing an experienced spine specialist is that the "best" treatment is really a matching exercise. The right care for a person with simple muscular neck ache is very different from the right care for someone with early spinal-cord compression, even though both may say the same three words: "I have spondylosis."</p>
                                         <p>A specialist starts by listening carefully to your history, then performs a focused physical and neurological examination, testing your neck movement, muscle power, reflexes and sensation. This tells them whether the problem is muscular, whether a single nerve root is pinched, or whether the cord itself is involved. Where needed, an <strong>MRI</strong> gives the clearest picture of the discs, nerves and spinal cord, an <strong>X-ray</strong> or <strong>CT scan</strong> shows the bones in detail, and a <strong>nerve conduction study (NCS/EMG)</strong> can confirm which nerve is affected. Only with this full picture can treatment be pitched at exactly the right rung of the ladder, neither over-treating a mild problem nor under-treating a serious one.</p>
-                                        <p>This is where an experienced hand makes a real difference. <strong>Dr. Arun Saroha</strong>, a neuro and spine surgeon with more than 20 years of experience who practises at Max Hospital, Gurugram and Dwarka, assesses each patient individually to decide whether they need simple conservative care, an injection, or, in the few cases that call for it, surgery. The aim is always to give you the least invasive treatment that will genuinely work.</p>
+                                        <p>This is where an experienced hand makes a real difference. <strong>Dr. Arun Saroha</strong>, a neuro and spine surgeon with more than 26 years of experience who practises at Max Hospital, Gurugram and Dwarka, assesses each patient individually to decide whether they need simple conservative care, an injection, or, in the few cases that call for it, surgery. The aim is always to give you the least invasive treatment that will genuinely work.</p>
 
                                         <h2>Everyday habits that make any treatment work better</h2>
                                         <p>Whichever rung of the ladder you are on, the results of treatment are far better when you support them with good daily habits. In fact, for many people these simple changes are what keeps the pain from coming back:</p>
@@ -276,7 +276,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

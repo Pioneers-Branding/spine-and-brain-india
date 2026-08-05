@@ -27,7 +27,7 @@
           "@context": "http://schema.org",
           "@type": "MedicalBusiness",
           "name": "Spine and Brain India",
-          "description": "Leading neurosurgery services in India by Dr. Arun Saroha. Specializing in spine and brain surgery with over 20 years of experience.",
+          "description": "Leading neurosurgery services in India by Dr. Arun Saroha. Specializing in spine and brain surgery with over 26 years of experience.",
           "url": "https://www.spineandbrainindia.com/",
           "address": {
             "@type": "PostalAddress",
@@ -284,11 +284,11 @@
                     <!--<strong>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis.</strong>-->
                     <p class="mb-0">
                      Dr. Arun Saroha, our renowned neurosurgeon, brings over 
-                     20 years of expertise to the field of neurosurgery. His 
+                     26 years of expertise to the field of neurosurgery. His 
                      commitment to excellence and patient-centric care has 
                      earned him a stellar reputation in India and beyond. 
-                     He has more than 25 years of experience and has performed 
-                     over 6,000 successful spinal and brain procedures. </p>
+                     He has more than 26 years of experience and has performed 
+                     over 9,000 successful spinal and brain procedures. </p>
                      <p class="mb-0">
                      At Spine and Brain India, we specialize in a wide range of 
                      neurosurgical procedures, including pediatric neurosurgery,
@@ -384,7 +384,7 @@
                       /></i>
                       <div class="fact-box-inner">
                         <span style="color: white" class="scndry-clr d-block"
-                          ><i class="counter">20</i>+</span
+                          ><i class="counter">26</i>+</span
                         >
                         <h4 class="mb-0">Years of Experience</h4>
                       </div>
@@ -399,7 +399,7 @@
                       /></i>
                       <div class="fact-box-inner">
                         <span style="color: white" class="scndry-clr d-block"
-                          ><i class="counter">6000</i>+</span
+                          ><i class="counter">9000</i>+</span
                         >
                         <h4 class="mb-0">
                           Brain and Spine surgeries performed successfully

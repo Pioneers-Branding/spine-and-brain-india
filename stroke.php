@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="Expert stroke treatment by Dr. Arun Saroha. Advanced emergency stroke care and recovery. 25+ years experience in brain surgery. Get expert neurological care. Consult now!" />
+        <meta name="description" content="Expert stroke treatment by Dr. Arun Saroha. Advanced emergency stroke care and recovery. 26+ years experience in brain surgery. Get expert neurological care. Consult now!" />
         <meta name="keywords" content="" />
        
         <title>Stroke</title>
@@ -32,7 +32,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",

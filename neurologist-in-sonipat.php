@@ -7,7 +7,7 @@
         
 <title>Best Neurologist in Sonipat | Dr. Arun Saroha</title>
         
-<meta name="description" content="Consult the best neurologist in Sonipat - Dr. Arun Saroha at Max Hospital. Expert care for brain, spine and nerve disorders with 25+ years experience. Book appointment now!" />
+<meta name="description" content="Consult the best neurologist in Sonipat - Dr. Arun Saroha at Max Hospital. Expert care for brain, spine and nerve disorders with 26+ years experience. Book appointment now!" />
         
 <meta name="keywords" content="Best neurosurgeon in Sonipat, neurosurgeon in Sonipat, Spine Surgeon in Sonipat, Neurologist in Sonipat, Best Neurologist in Sonipat" />
 <link rel="canonical" href="https://spineandbrainindia.com/neurologist-in-sonipat" />
@@ -38,7 +38,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://spineandbrainindia.com/neurologist-in-sonipat" />
 <meta property="og:title" content="Best Neurologist in Sonipat | Dr. Arun Saroha" />
-<meta property="og:description" content="Seeking the Best Neurologist in Sonipat? Consult Dr. Arun Saroha, renowned for over 20 years of expertise in treating brain, spine, and neurological conditions." />
+<meta property="og:description" content="Seeking the Best Neurologist in Sonipat? Consult Dr. Arun Saroha, renowned for over 26 years of expertise in treating brain, spine, and neurological conditions." />
 <meta property="og:image" content="https://spineandbrainindia.com/assets/images/pag-top-bg_11zon.webp" />
 
 <script type="application/ld+json">
@@ -50,7 +50,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -147,7 +147,7 @@
                       ><h2>About Doctor</h2></span>
                     
                     <!--<strong>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis.</strong>-->
-                    <p class="mb-0">Dr. Arun Saroha is widely recognized as the Best Neurologist in Sonipat, providing expert care with over 20 years of experience in neurosurgery and neurology. His specialization spans treating a variety of complex neurological conditions, including brain tumors, spine disorders, cerebrovascular issues, and degenerative spine diseases. As a leading neurosurgical expert, Dr. Saroha incorporates cutting-edge medical advancements and minimally invasive techniques to ensure reduced pain, quicker recovery, and superior outcomes for his patients.</p>
+                    <p class="mb-0">Dr. Arun Saroha is widely recognized as the Best Neurologist in Sonipat, providing expert care with over 26 years of experience in neurosurgery and neurology. His specialization spans treating a variety of complex neurological conditions, including brain tumors, spine disorders, cerebrovascular issues, and degenerative spine diseases. As a leading neurosurgical expert, Dr. Saroha incorporates cutting-edge medical advancements and minimally invasive techniques to ensure reduced pain, quicker recovery, and superior outcomes for his patients.</p>
                      <p class="mb-0">
                      Dr. Saroha is committed to precision and patient safety, tailoring each treatment plan to the specific needs of his patients. His approach combines advanced surgical techniques with a compassionate, patient-centered methodology, ensuring that every individual receives thorough care and attention. Patients consistently value his clear consultations, during which he explains their conditions and outlines the most effective treatment options available. 
                     </p>
@@ -238,7 +238,7 @@
                       /></i>
                       <div class="fact-box-inner">
                         <span style="color: white" class="scndry-clr d-block"
-                          ><i class="counter">25</i>+</span
+                          ><i class="counter">26</i>+</span
                         >
                         <h4 class="mb-0">Years of Experience</h4>
                       </div>
@@ -253,7 +253,7 @@
                       /></i>
                       <div class="fact-box-inner">
                         <span style="color: white" class="scndry-clr d-block"
-                          ><i class="counter">7000</i>+</span
+                          ><i class="counter">9000</i>+</span
                         >
                         <h4 class="mb-0">
                           Brain & Spine Surgeries

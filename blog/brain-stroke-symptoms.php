@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -284,7 +284,7 @@
 
                                         <h2>When to see a specialist</h2>
                                         <p>A stroke itself is always an emergency &mdash; that is a call to an ambulance, not an appointment. But there is a very important role for a specialist <strong>before</strong> and <strong>after</strong> the emergency. If you have several risk factors, if you have experienced a TIA or a &ldquo;funny turn&rdquo;, or if you are recovering after a stroke, an experienced neuro specialist can assess the underlying cause, arrange the right scans, and design a plan to prevent the next event.</p>
-                                        <p>For complex brain and vascular problems &mdash; such as an aneurysm, a narrowed neck artery, or a stroke caused by a structural issue &mdash; the opinion of a seasoned neurosurgeon is invaluable. <strong>Dr. Arun Saroha</strong>, a neuro and spine surgeon with more than 20 years of experience who practises at Max Hospital, Gurugram &amp; Dwarka, helps patients understand their individual risk and choose the right path, whether that is careful medical management or a surgical solution. Remember that this article is for general awareness only and cannot replace a personal medical evaluation &mdash; when in doubt, always consult a qualified specialist.</p>
+                                        <p>For complex brain and vascular problems &mdash; such as an aneurysm, a narrowed neck artery, or a stroke caused by a structural issue &mdash; the opinion of a seasoned neurosurgeon is invaluable. <strong>Dr. Arun Saroha</strong>, a neuro and spine surgeon with more than 26 years of experience who practises at Max Hospital, Gurugram &amp; Dwarka, helps patients understand their individual risk and choose the right path, whether that is careful medical management or a surgical solution. Remember that this article is for general awareness only and cannot replace a personal medical evaluation &mdash; when in doubt, always consult a qualified specialist.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Worried about stroke risk, or recovering from one?</h3>
@@ -299,7 +299,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha &mdash; 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha &mdash; 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

@@ -278,7 +278,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience specializing in meningioma surgery, skull base surgery, and minimally invasive neurosurgery.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience specializing in meningioma surgery, skull base surgery, and minimally invasive neurosurgery.",
       "medicalSpecialty": "Neurosurgery",
       "knowsAbout": ["Meningioma Surgery", "Skull Base Meningioma Removal", "Convexity Meningioma", "Parasagittal Meningioma", "Sphenoid Wing Meningioma", "Craniotomy", "Minimally Invasive Neurosurgery", "Neuronavigation Surgery"],
       "aggregateRating": {
@@ -650,7 +650,7 @@
                                         <h2 class="mb-0" style="margin-top:30px;">Why Choose Dr. Arun Saroha for Meningioma Surgery?</h2>
                                         <p class="mb-0">When it comes to meningioma surgery, choosing the right surgeon is one of the most important decisions you will make. Dr. Arun Saroha is one of India's most experienced neurosurgeons for meningioma removal, with a proven track record of excellent outcomes across all meningioma types and grades:</p>
                                         <ul class="mb-0">
-                                            <li><strong>20+ Years of Neurosurgical Experience:</strong> Dr. Saroha has performed hundreds of meningioma surgeries, including complex skull base meningiomas, parasagittal meningiomas involving the sagittal sinus, and recurrent meningiomas. His extensive experience translates into superior surgical judgment and outcomes.</li>
+                                            <li><strong>26+ Years of Neurosurgical Experience:</strong> Dr. Saroha has performed hundreds of meningioma surgeries, including complex skull base meningiomas, parasagittal meningiomas involving the sagittal sinus, and recurrent meningiomas. His extensive experience translates into superior surgical judgment and outcomes.</li>
                                             <li><strong>Advanced Surgical Technology:</strong> All meningioma surgeries are performed at <strong>Max Super Speciality Hospital, Gurgaon</strong>, equipped with the latest neuronavigation systems, high-powered surgical microscopes, intraoperative neurophysiological monitoring, and intraoperative MRI capabilities. This technology enables maximum safe tumor removal with minimal risk.</li>
                                             <li><strong>Expertise in Skull Base Surgery:</strong> Skull base meningiomas require specialized training and experience that not all neurosurgeons possess. Dr. Saroha's expertise in advanced skull base approaches ensures that even the most challenging meningiomas can be treated safely and effectively.</li>
                                             <li><strong>Multidisciplinary Team Approach:</strong> Dr. Saroha works closely with neuro-radiologists, radiation oncologists, neuro-pathologists, and rehabilitation specialists to provide comprehensive, coordinated care from diagnosis through recovery.</li>

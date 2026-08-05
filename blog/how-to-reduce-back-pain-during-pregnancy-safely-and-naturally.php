@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -283,7 +283,7 @@
                                         <h2>When to See a Doctor and How a Spine Specialist Can Help</h2>
                                         <p>Everyday pregnancy backache that eases with rest, posture and gentle movement usually does not need special treatment beyond your routine antenatal check-ups. Your obstetrician is your first point of contact for anything to do with your pregnancy, and you should always speak to them before starting any new exercise, belt, massage or remedy.</p>
                                         <p>Some situations, however, deserve a closer look. If your back pain is severe or unrelenting, if it shoots down one leg (sciatica), or if it comes with numbness, tingling or weakness, it may involve a nerve or disc rather than just muscles and ligaments. This is also true if you had a known back or disc problem before pregnancy. In such cases your obstetrician may refer you to a spine specialist, who can assess you safely — often without any X-rays, using a careful clinical examination — and guide conservative, pregnancy-safe care.</p>
-                                        <p>For complex or persistent spine and nerve concerns, the opinion of an experienced neuro &amp; spine surgeon is valuable. Specialists such as <strong>Dr. Arun Saroha</strong>, who has over 20 years of experience and practises at Max Hospital, Gurugram &amp; Dwarka, can help distinguish ordinary pregnancy backache from a problem that needs closer attention, and reassure you about what is safe. Do remember that this article is for general information and awareness only and is not a substitute for personal medical advice — your own obstetrician and treating doctors know your situation best.</p>
+                                        <p>For complex or persistent spine and nerve concerns, the opinion of an experienced neuro &amp; spine surgeon is valuable. Specialists such as <strong>Dr. Arun Saroha</strong>, who has over 26 years of experience and practises at Max Hospital, Gurugram &amp; Dwarka, can help distinguish ordinary pregnancy backache from a problem that needs closer attention, and reassure you about what is safe. Do remember that this article is for general information and awareness only and is not a substitute for personal medical advice — your own obstetrician and treating doctors know your situation best.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Struggling With Persistent or Severe Back Pain?</h3>
@@ -298,7 +298,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

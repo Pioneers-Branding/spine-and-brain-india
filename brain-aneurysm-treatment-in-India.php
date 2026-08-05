@@ -7,7 +7,7 @@
         
 <title>Brain Aneurysm Treatment in India | Dr. Arun Saroha</title>
         
-<meta name="description" content="Need expert brain aneurysm treatment in India? Dr. Arun Saroha offers advanced aneurysm clipping and coiling with high success rate. 25+ years experience. Consult today!" />
+<meta name="description" content="Need expert brain aneurysm treatment in India? Dr. Arun Saroha offers advanced aneurysm clipping and coiling with high success rate. 26+ years experience. Consult today!" />
         
         <meta name="keywords" content="Brain Aneurysm Treatment in India, Brain Aneurysm Specialist" />
         <link rel="canonical" href="https://spineandbrainindia.com/brain-aneurysm-treatment-in-India" />
@@ -241,7 +241,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -448,7 +448,7 @@
             </div>
             <div class="faq-answer">
                 <div class="faq-answer-content">
-                    Dr. Arun Saroha specializes in <span class="keyword-highlight">Cervical Spine Surgery in India</span> with 25+ years experience. Book consultation by contacting his clinic directly. Provide medical reports and imaging studies. International patients can arrange online consultations. His team assists with treatment planning, cost estimates, and complete care from consultation to recovery.
+                    Dr. Arun Saroha specializes in <span class="keyword-highlight">Cervical Spine Surgery in India</span> with 26+ years experience. Book consultation by contacting his clinic directly. Provide medical reports and imaging studies. International patients can arrange online consultations. His team assists with treatment planning, cost estimates, and complete care from consultation to recovery.
                 </div>
             </div>
         </div>

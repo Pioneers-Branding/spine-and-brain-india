@@ -188,7 +188,7 @@
                                     <li>Perform low-impact, age-appropriate exercises regularly to keep muscles strong and flexible.</li>
                                  </ul>
                                  
-                                <p class="mb-0">Dr. Arun Saroha is an expert back pain doctor in Delhi, India with more than 25 + years of experience and has provided the best results to the patient suffering from back pain concerns. He has performed more than 6,000+ successful surgeries for brain and spinal problems. His surgical skills and using cutting-edge technology help him deliver the patients with excellent outcomes and bring more patients worldwide.</p>
+                                <p class="mb-0">Dr. Arun Saroha is an expert back pain doctor in Delhi, India with more than 26 + years of experience and has provided the best results to the patient suffering from back pain concerns. He has performed more than 9,000+ successful surgeries for brain and spinal problems. His surgical skills and using cutting-edge technology help him deliver the patients with excellent outcomes and bring more patients worldwide.</p>
                             </div>
                         </div>
                 </div>

@@ -85,7 +85,7 @@
             "name": "Dr. Arun Saroha",
             "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
             "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-            "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+            "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
             "medicalSpecialty": "Neurosurgery",
             "aggregateRating": {
                 "@type": "AggregateRating",
@@ -227,7 +227,7 @@
 
                                         <div class="lead">
                                             <p>If you have searched for the <strong>top 10 neurosurgeons in India</strong>, you are almost certainly facing a worrying diagnosis — a brain tumour, a spinal problem, unexplained headaches, or a scan that mentions a word you had never heard before. In that moment, it is natural to want a simple ranked list of the ten best names to call. But the honest truth is that no single list can tell you who is <em>best for you</em>. India has many outstanding neurosurgeons working at world-class institutions, and the right surgeon depends on your specific condition, not on who ranks number one in a magazine.</p>
-                                            <p>This guide takes a more useful approach. Instead of an invented ranking, it explains what genuinely separates a <strong>top neurosurgeon</strong> from an ordinary one — the qualifications, experience, subspecialty focus, hospital and technology, outcomes, communication and ethics that matter. It then shows you, step by step, how to shortlist and choose the right neurosurgeon for your problem, and which warning signs should make you pause. Along the way we explain why so many patients across India choose <strong>Dr. Arun Saroha</strong>, a leading neuro and spine surgeon with over 20 years of experience, as a benchmark for the qualities you should be looking for.</p>
+                                            <p>This guide takes a more useful approach. Instead of an invented ranking, it explains what genuinely separates a <strong>top neurosurgeon</strong> from an ordinary one — the qualifications, experience, subspecialty focus, hospital and technology, outcomes, communication and ethics that matter. It then shows you, step by step, how to shortlist and choose the right neurosurgeon for your problem, and which warning signs should make you pause. Along the way we explain why so many patients across India choose <strong>Dr. Arun Saroha</strong>, a leading neuro and spine surgeon with over 26 years of experience, as a benchmark for the qualities you should be looking for.</p>
                                             <p>One important note before you begin: while most brain and spine surgeries are planned procedures that give you time to choose carefully, certain symptoms are true emergencies. If you or a loved one develops a sudden severe headache, sudden weakness or numbness on one side, difficulty speaking, facial drooping, a seizure, or loss of consciousness, do not spend time comparing surgeons — call emergency services or go to the nearest hospital immediately, as brain events such as a stroke or bleed are time-critical.</p>
                                         </div>
 
@@ -310,11 +310,11 @@
                                             <li>Good post-operative access and structured follow-up are part of quality care.</li>
                                         </ul>
                                         <h2>Why Many Patients Choose Dr. Arun Saroha</h2>
-                                        <p>When you apply all of the criteria above, it becomes clear why <strong>Dr. Arun Saroha</strong> is a name many patients and families across India trust for brain and spine problems. He is a neuro and spine surgeon with more than 20 years of experience, practising at Max Hospital, Gurugram and Max Super Speciality Hospital, Dwarka, Delhi — accredited centres with modern neurosurgical technology and full emergency, ICU and rehabilitation support.</p>
+                                        <p>When you apply all of the criteria above, it becomes clear why <strong>Dr. Arun Saroha</strong> is a name many patients and families across India trust for brain and spine problems. He is a neuro and spine surgeon with more than 26 years of experience, practising at Max Hospital, Gurugram and Max Super Speciality Hospital, Dwarka, Delhi — accredited centres with modern neurosurgical technology and full emergency, ICU and rehabilitation support.</p>
                                         <p>His practice combines two closely related areas of deep focus: complex brain conditions and the complete range of spine surgery, including minimally invasive and motion-preserving techniques. This combined expertise is especially reassuring for patients whose symptoms could arise from either the brain or the spine, because it means one experienced surgeon can evaluate the whole picture.</p>
                                         <p>Just as importantly, Dr. Saroha reflects the ethical qualities that define a truly good neurosurgeon. He recommends surgery only when it is genuinely needed, favours conservative care where appropriate, supports second opinions, and discusses risks and expected outcomes openly. For many patients, that blend of high-volume surgical experience, advanced technique and honest, compassionate counsel is exactly what they are searching for when they look for the best neurosurgeon in India.</p>
                                         <ul class="blog-list">
-                                            <li><strong>Experience:</strong> 20+ years as a neuro and spine surgeon.</li>
+                                            <li><strong>Experience:</strong> 26+ years as a neuro and spine surgeon.</li>
                                             <li><strong>Leading centres:</strong> Max Hospital, Gurugram and Max Super Speciality Hospital, Dwarka, Delhi.</li>
                                             <li><strong>Combined focus:</strong> complex brain conditions plus the full range of spine surgery.</li>
                                             <li><strong>Modern techniques:</strong> minimally invasive and motion-preserving spine surgery.</li>
@@ -345,7 +345,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Consult the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years in neuro and spine surgery. Max Hospital, Gurugram and Dwarka, Delhi.</p>
+                                            <p>Dr. Arun Saroha — 26+ years in neuro and spine surgery. Max Hospital, Gurugram and Dwarka, Delhi.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

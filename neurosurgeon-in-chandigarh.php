@@ -7,7 +7,7 @@
         
 <title>Best Neurosurgeon in Chandigarh | Dr. Arun Saroha</title>
         
-<meta name="description" content="Consult the best neurosurgeon in Chandigarh - Dr. Arun Saroha at Max Hospital. Expert brain and spine surgery with 7000+ successful procedures. Book appointment now!" />
+<meta name="description" content="Consult the best neurosurgeon in Chandigarh - Dr. Arun Saroha at Max Hospital. Expert brain and spine surgery with 9000+ successful procedures. Book appointment now!" />
         
 <meta name="keywords" content="Best neurosurgeon in Chandigarh, neurosurgeon in Chandigarh, Spine Surgeon in Chandigarh" />
 <link rel="canonical" href="https://spineandbrainindia.com/neurosurgeon-in-chandigarh" />
@@ -50,7 +50,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -147,7 +147,7 @@
                       ><h2>About Doctor</h2></span>
                     
                     <!--<strong>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis.</strong>-->
-                    <p class="mb-0">Dr. Arun Saroha is widely regarded as the Best Neurosurgeon in Chandigarh, offering expert care with over 20 years of experience in the field of neurosurgery. His expertise lies in treating a wide range of complex neurological conditions, including brain tumors, spine disorders, cerebrovascular conditions, and degenerative diseases of the spine. As a leading Spine Surgeon in Chandigarh, Dr. Saroha’s approach is rooted in the latest medical advancements and minimally invasive techniques, ensuring reduced pain, faster recovery, and enhanced outcomes for his patients.</p>
+                    <p class="mb-0">Dr. Arun Saroha is widely regarded as the Best Neurosurgeon in Chandigarh, offering expert care with over 26 years of experience in the field of neurosurgery. His expertise lies in treating a wide range of complex neurological conditions, including brain tumors, spine disorders, cerebrovascular conditions, and degenerative diseases of the spine. As a leading Spine Surgeon in Chandigarh, Dr. Saroha’s approach is rooted in the latest medical advancements and minimally invasive techniques, ensuring reduced pain, faster recovery, and enhanced outcomes for his patients.</p>
                      <p class="mb-0">
                      With a strong commitment to precision and patient safety, Dr. Saroha is dedicated to providing the highest level of care to each patient. His method combines advanced neurosurgical techniques with compassionate, personalized treatment plans that cater to the specific needs of every individual. His patients appreciate the thorough consultations, where he explains their condition, the available treatment options, and the best approach for their recovery. 
                     </p>
@@ -238,7 +238,7 @@
                       /></i>
                       <div class="fact-box-inner">
                         <span style="color: white" class="scndry-clr d-block"
-                          ><i class="counter">25</i>+</span
+                          ><i class="counter">26</i>+</span
                         >
                         <h4 class="mb-0">Years of Experience</h4>
                       </div>
@@ -253,7 +253,7 @@
                       /></i>
                       <div class="fact-box-inner">
                         <span style="color: white" class="scndry-clr d-block"
-                          ><i class="counter">7000</i>+</span
+                          ><i class="counter">9000</i>+</span
                         >
                         <h4 class="mb-0">
                           Brain & Spine Surgeries

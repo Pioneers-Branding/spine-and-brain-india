@@ -7,7 +7,7 @@
         
 <title>Best Neurosurgeon in Rewari | Dr. Arun Saroha</title>
         
-<meta name="description" content="Consult the best neurosurgeon in Rewari - Dr. Arun Saroha at Max Hospital. Expert brain and spine surgery with 7000+ successful procedures. Book appointment now!" />
+<meta name="description" content="Consult the best neurosurgeon in Rewari - Dr. Arun Saroha at Max Hospital. Expert brain and spine surgery with 9000+ successful procedures. Book appointment now!" />
         
 <meta name="keywords" content="Best neurosurgeon in Rewari, neurosurgeon in Rewari" />
 <link rel="canonical" href="https://spineandbrainindia.com/neurosurgeon-in-rewari" />
@@ -50,7 +50,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -212,7 +212,7 @@
                       ><h2>About Doctor</h2></span>
                     
                     <!--<strong>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis.</strong>-->
-                    <p class="mb-0">Dr. Arun Saroha is widely recognized as one of the best neurosurgeons in Rewari, bringing exceptional expertise and compassionate care to his patients. With 20+ years of specialized training and extensive experience, Dr. Saroha is highly skilled in treating complex neurological conditions, including brain and spine tumors, spinal disorders, cerebrovascular conditions, and degenerative spine diseases. He is dedicated to providing precise, minimally invasive surgical solutions that prioritize patient safety, faster recovery, and reduced pain.</p>
+                    <p class="mb-0">Dr. Arun Saroha is widely recognized as one of the best neurosurgeons in Rewari, bringing exceptional expertise and compassionate care to his patients. With 26+ years of specialized training and extensive experience, Dr. Saroha is highly skilled in treating complex neurological conditions, including brain and spine tumors, spinal disorders, cerebrovascular conditions, and degenerative spine diseases. He is dedicated to providing precise, minimally invasive surgical solutions that prioritize patient safety, faster recovery, and reduced pain.</p>
                      <p class="mb-0">
                      Dr. Saroha’s approach to patient care combines advanced neurosurgical techniques with a personalized touch, ensuring that each patient receives individualized treatment tailored to their unique needs. His commitment to continuous learning and staying updated with the latest developments in neurosurgery enables him to offer cutting-edge treatments that yield positive outcomes. 
                     </p>
@@ -303,7 +303,7 @@
                       /></i>
                       <div class="fact-box-inner">
                         <span style="color: white" class="scndry-clr d-block"
-                          ><i class="counter">25</i>+</span
+                          ><i class="counter">26</i>+</span
                         >
                         <h4 class="mb-0">Years of Experience</h4>
                       </div>
@@ -318,7 +318,7 @@
                       /></i>
                       <div class="fact-box-inner">
                         <span style="color: white" class="scndry-clr d-block"
-                          ><i class="counter">7000</i>+</span
+                          ><i class="counter">9000</i>+</span
                         >
                         <h4 class="mb-0">
                           Brain & Spine Surgeries

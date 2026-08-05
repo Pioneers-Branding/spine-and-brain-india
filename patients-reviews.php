@@ -6,7 +6,7 @@
         <title>Patients Reviews - Dr.Arun Saroha</title>
 <link rel="canonical" href="https://spineandbrainindia.com/patients-reviews" />
         
-        <meta name="description" content="Read patient reviews and testimonials for Dr. Arun Saroha - India's top neurosurgeon. 7000+ successful surgeries and happy patients. See their stories!" />
+        <meta name="description" content="Read patient reviews and testimonials for Dr. Arun Saroha - India's top neurosurgeon. 9000+ successful surgeries and happy patients. See their stories!" />
         <meta name="keywords" content="" />
        
         
@@ -33,7 +33,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",

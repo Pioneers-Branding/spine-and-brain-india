@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -269,7 +269,7 @@
 
                                         <h2>When to consult a neurosurgeon like Dr. Arun Saroha</h2>
                                         <p>Most people with headaches never need a neurosurgeon &mdash; and that is exactly as it should be. But if a scan has already shown something, if your headaches carry red-flag features, or if you simply cannot get clear answers and reassurance, a conversation with an experienced neuro specialist is the sensible next step. The value of that consultation is often as much about ruling worry <em>out</em> as ruling anything in.</p>
-                                        <p><strong>Dr. Arun Saroha</strong>, a leading neuro &amp; spine surgeon in India with over 20 years of experience, helps patients and families make sense of headaches: what the likely cause is, whether imaging is needed, and what the pattern of symptoms really means. In the great majority of cases the news is reassuring. And in the small number where something more is found, early, expert assessment gives the clearest path forward.</p>
+                                        <p><strong>Dr. Arun Saroha</strong>, a leading neuro &amp; spine surgeon in India with over 26 years of experience, helps patients and families make sense of headaches: what the likely cause is, whether imaging is needed, and what the pattern of symptoms really means. In the great majority of cases the news is reassuring. And in the small number where something more is found, early, expert assessment gives the clearest path forward.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Worried your headaches might be something serious?</h3>
@@ -284,7 +284,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

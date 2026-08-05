@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -257,7 +257,7 @@
                                         <h2>When should you see a doctor and get a scan?</h2>
                                         <p>You do not need a brain scan for every headache or every forgetful moment &mdash; and scanning unnecessarily can create its own anxiety. Most mild, familiar, short-lived symptoms settle on their own and simply need common-sense care. The judgement lies in spotting the patterns that are new, persistent or progressive.</p>
                                         <p>It is sensible to see a doctor if you have a new or clearly changed headache pattern lasting more than a week or two, a headache that is worse in the mornings or with straining, new or worsening weakness, numbness, vision or hearing problems, unexplained persistent vomiting, or gradual changes in speech, memory, mood or personality. If any red-flag symptom listed above appears, do not wait at all &mdash; seek emergency care immediately.</p>
-                                        <p>A careful assessment by a specialist can quickly sort out whether your symptoms point towards a harmless cause or need a scan. For complex or worrying neurological symptoms, the opinion of an experienced neuro and spine surgeon is invaluable. Specialists such as <strong>Dr. Arun Saroha</strong>, who brings over 20 years of experience and practises at Max Hospital, Gurugram &amp; Dwarka, can evaluate your history and examination and decide whether imaging or reassurance is the right next step.</p>
+                                        <p>A careful assessment by a specialist can quickly sort out whether your symptoms point towards a harmless cause or need a scan. For complex or worrying neurological symptoms, the opinion of an experienced neuro and spine surgeon is invaluable. Specialists such as <strong>Dr. Arun Saroha</strong>, who brings over 26 years of experience and practises at Max Hospital, Gurugram &amp; Dwarka, can evaluate your history and examination and decide whether imaging or reassurance is the right next step.</p>
 
                                         <h2>How are brain tumors diagnosed?</h2>
                                         <p>Accurate diagnosis always begins with a conversation and an examination, not a machine. The specialist first takes a detailed history &mdash; when the symptoms began, how they have changed, and what makes them better or worse. This is followed by a <strong>neurological examination</strong> that checks vision, eye movements, facial strength, limb power, sensation, reflexes, coordination and balance. These simple bedside tests give powerful clues about which part of the brain might be involved.</p>
@@ -292,7 +292,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

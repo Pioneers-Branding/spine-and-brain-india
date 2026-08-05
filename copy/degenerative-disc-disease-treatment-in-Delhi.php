@@ -52,7 +52,7 @@
                                         
                                         
                                         <h3 class="mb-0">Degenerative Disc Treatment in Delhi</h3>
-                                        <p class="mb-0">Dr. Arun Saroha is a renowned neurosurgeon in Delhi with more than 20 years of experience in neurosurgery. He specializes in the treatment of brain and spine disorders, including degenerative disc disease. At Max Super Specialty Hospital, Saket, he provides comprehensive care for all types of neurological problems and offers the latest treatment options for degenerative disc disease.</p>
+                                        <p class="mb-0">Dr. Arun Saroha is a renowned neurosurgeon in Delhi with more than 26 years of experience in neurosurgery. He specializes in the treatment of brain and spine disorders, including degenerative disc disease. At Max Super Specialty Hospital, Saket, he provides comprehensive care for all types of neurological problems and offers the latest treatment options for degenerative disc disease.</p>
 
                                        
                                         <h3 class="mb-0">Non-Surgical Treatment
@@ -103,7 +103,7 @@
                                        
                                        <h3>Degenerative Disc Surgery in Delhi
 </h3>
-                                       <p> Degenerative disc surgery is a complex procedure that requires the expertise of an experienced neurosurgeon. Dr. Arun Saroha is one of the best neurosurgeons in Delhi for degenerative disc surgery. He has performed more than eight thousand surgeries successfully and has a success rate of more than 95%.
+                                       <p> Degenerative disc surgery is a complex procedure that requires the expertise of an experienced neurosurgeon. Dr. Arun Saroha is one of the best neurosurgeons in Delhi for degenerative disc surgery. He has performed more than nine thousand surgeries successfully and has a success rate of more than 95%.
 </p>
                                        <p>Dr. Arun Saroha uses the latest surgical techniques, such as minimally invasive surgery, to provide safe and effective treatment for degenerative disc disease. Minimally invasive surgery involves making small incisions instead of a large incision, which results in less pain, less blood loss, and faster recovery time.</p>
                                        
@@ -134,7 +134,7 @@
                             <div class="team-detail-wrap">
                                <h3 class="mb-0">Best Doctor for Degenerative Disc in Delhi
 </h3>
-                               <p>Dr. Arun Saroha is the best doctor for degenerative disc in Delhi. He has a vast experience of 20 years in neurosurgery and specializes in the treatment of brain and spine disorders, including degenerative disc disease. He has been honored with many prestigious awards in the field of neurosurgery, including the Spine Surgeon award by Big Research Awards.</p>
+                               <p>Dr. Arun Saroha is the best doctor for degenerative disc in Delhi. He has a vast experience of 26 years in neurosurgery and specializes in the treatment of brain and spine disorders, including degenerative disc disease. He has been honored with many prestigious awards in the field of neurosurgery, including the Spine Surgeon award by Big Research Awards.</p>
                                <p>Dr. Arun Saroha is a renowned neurosurgeon with a reputation for excellence in his field. He is widely regarded as one of the best doctors for degenerative disc treatment in Delhi, and for good reason. His expertise in treating degenerative spine disorders, brain tumors, disc replacements, and complex spine fixation is unparalleled.
 </p>
                             </div>

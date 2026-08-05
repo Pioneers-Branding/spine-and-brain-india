@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/about",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -288,7 +288,7 @@
 
                                         <h2>When to See a Specialist</h2>
                                         <p>The warning signs of a brain hemorrhage always call for emergency care, not a routine appointment. But there are situations where the advice of a neurosurgeon is invaluable outside the emergency itself — for instance, if a scan has picked up an unruptured aneurysm or an AVM, or if you are recovering after a bleed and planning rehabilitation.</p>
-                                        <p>If you have recurring severe or unusual headaches, it is worth having them properly assessed rather than dismissed as harmless. For any complex brain or vascular problem, an experienced specialist such as <strong>Dr. Arun Saroha</strong>, with over 20 years of experience in neuro and spine surgery, can assess your individual risk, explain your scan findings clearly, and guide you toward the safest plan — whether that is watchful monitoring or preventive treatment.</p>
+                                        <p>If you have recurring severe or unusual headaches, it is worth having them properly assessed rather than dismissed as harmless. For any complex brain or vascular problem, an experienced specialist such as <strong>Dr. Arun Saroha</strong>, with over 26 years of experience in neuro and spine surgery, can assess your individual risk, explain your scan findings clearly, and guide you toward the safest plan — whether that is watchful monitoring or preventive treatment.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Concerned about a brain hemorrhage or aneurysm?</h3>
@@ -303,7 +303,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Contact</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

@@ -4,9 +4,9 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-  <title>Dr. Arun Saroha – Best Neurosurgeon in Gurgaon | 7000+ Surgeries | Max Hospital</title>
+  <title>Dr. Arun Saroha – Best Neurosurgeon in Gurgaon | 9000+ Surgeries | Max Hospital</title>
   <meta name="description"
-    content="Looking for the best neurosurgeon in Gurgaon? Dr. Arun Saroha at Max Hospital has 25+ years experience & 7000+ successful brain and spine surgeries. Book your appointment now!" />
+    content="Looking for the best neurosurgeon in Gurgaon? Dr. Arun Saroha at Max Hospital has 26+ years experience & 9000+ successful brain and spine surgeries. Book your appointment now!" />
   <meta name="keywords"
     content="best neurosurgeon in delhi, top neurosurgeon delhi, brain surgeon delhi, spine surgeon delhi, dr arun saroha, neurosurgery delhi gurgaon" />
   <meta name="robots" content="index, follow" />
@@ -32,8 +32,8 @@
   <!--OG Graph Tags-->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://spineandbrainindia.com/best-neurosurgeon-in-gurgaon.php" />
-  <meta property="og:title" content="Dr. Arun Saroha – Best Neurosurgeon in Gurgaon | 7000+ Surgeries | Max Hospital" />
-  <meta property="og:description" content="Meet Dr. Arun Saroha — Gurgaon's leading neurosurgeon at Max Hospital with 25+ years & 7,000+ successful brain & spine surgeries. Book free consultation today." />
+  <meta property="og:title" content="Dr. Arun Saroha – Best Neurosurgeon in Gurgaon | 9000+ Surgeries | Max Hospital" />
+  <meta property="og:description" content="Meet Dr. Arun Saroha — Gurgaon's leading neurosurgeon at Max Hospital with 26+ years & 9,000+ successful brain & spine surgeries. Book free consultation today." />
   <meta property="og:image" content="https://spineandbrainindia.com/assets/img/drimg.webp" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
@@ -43,7 +43,7 @@
   <!--Twitter Tags-->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Dr. Arun Saroha – Best Neurosurgeon in Gurgaon" />
-  <meta name="twitter:description" content="25+ years, 7000+ surgeries. Gurgaon's top neurosurgeon at Max Hospital. Book a consultation today." />
+  <meta name="twitter:description" content="26+ years, 9000+ surgeries. Gurgaon's top neurosurgeon at Max Hospital. Book a consultation today." />
   <meta name="twitter:image" content="https://spineandbrainindia.com/assets/img/drimg.webp" />
 
   <script type="application/ld+json">
@@ -53,7 +53,7 @@
   "name": "Dr. Arun Saroha",
   "image": "https://spineandbrainindia.com/assets/img/drimg.webp",
   "jobTitle": "Senior Consultant Neurosurgeon & Spine Surgeon",
-  "description": "Dr. Arun Saroha is one of the best neurosurgeons in Gurgaon with 25+ years of experience and 7,000+ successful brain and spine surgeries at Max Super Speciality Hospital, Gurgaon.",
+  "description": "Dr. Arun Saroha is one of the best neurosurgeons in Gurgaon with 26+ years of experience and 9,000+ successful brain and spine surgeries at Max Super Speciality Hospital, Gurgaon.",
   "medicalSpecialty": "Neurosurgery",
   "url": "https://spineandbrainindia.com/best-neurosurgeon-in-gurgaon.php",
   "telephone": "+917860000705",
@@ -127,7 +127,7 @@
       "name": "Who is the No 1 Neurosurgeon in Gurgaon?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Dr. Arun Saroha is considered one of the top neurosurgeons in Delhi, with over 25 years of experience and more than 7,000 successful brain and spine surgeries. He is the Director and Unit Head of Spine & Neurosurgery at Max Super Speciality Hospital, Gurgaon and Dwarka, Delhi."
+        "text": "Dr. Arun Saroha is considered one of the top neurosurgeons in Delhi, with over 26 years of experience and more than 9,000 successful brain and spine surgeries. He is the Director and Unit Head of Spine & Neurosurgery at Max Super Speciality Hospital, Gurgaon and Dwarka, Delhi."
       }
     },
     {
@@ -209,7 +209,7 @@
           "@context": "https://schema.org",
           "@type": "MedicalBusiness",
           "name": "Spine and Brain India – Best Neurosurgeon in Gurgaon",
-          "description": "Best Neurosurgeon in Gurgaon - Leading neurosurgery services in Gurgaon by Dr. Arun Saroha. Specializing in spine and brain surgery with over 25 years of experience.",
+          "description": "Best Neurosurgeon in Gurgaon - Leading neurosurgery services in Gurgaon by Dr. Arun Saroha. Specializing in spine and brain surgery with over 26 years of experience.",
           "url": "https://spineandbrainindia.com/best-neurosurgeon-in-gurgaon.php",
           "address": {
             "@type": "PostalAddress",
@@ -524,7 +524,7 @@
       <div class="hero-content">
         <span class="hero-badge">Senior Director – Neurosurgery, Max Hospital Gurugram</span>
         <h1>Best Neurosurgeon in Gurgaon – <span>Dr. Arun Saroha</span></h1>
-        <p class="hero-subtitle">25+ years of neurosurgical excellence with 7,000+ successful brain &amp; spine surgeries at Max Hospital Gurugram. Fellowship-trained, internationally recognized, trusted by patients from 50+ countries.</p>
+        <p class="hero-subtitle">26+ years of neurosurgical excellence with 9,000+ successful brain &amp; spine surgeries at Max Hospital Gurugram. Fellowship-trained, internationally recognized, trusted by patients from 50+ countries.</p>
         <div class="hero-cta-group">
           <a href="contact.php" class="hero-cta hero-cta-primary">
             <i class="fas fa-calendar-check"></i> Book Free Consultation
@@ -585,7 +585,7 @@
           </div>
           <div class="col-lg-6 col-md-6 mb-3">
             <div class="p-3" style="background: #fff; border-radius: 8px; border-left: 4px solid #2f94e1;">
-              <h4 style="font-size: 16px; color: #0d2137;">25+ Years | 7,000+ Successful Surgeries</h4>
+              <h4 style="font-size: 16px; color: #0d2137;">26+ Years | 9,000+ Successful Surgeries</h4>
               <p style="font-size: 14px; margin-bottom: 0; color: #555;">One of India's most experienced fellowship-trained neurosurgeons</p>
             </div>
           </div>
@@ -669,7 +669,7 @@
                   Why Dr. Arun Saroha is the Best Neurosurgeon in Gurgaon
                 </h2>
 
-                <p class="mb-0" style="text-align: justify;">Dr. Arun Saroha is the best neurosurgeon in Gurgaon, specializing in complex brain and spine disorders with a focus on delivering effective and long-term treatment outcomes. With over <strong>25 years of neurosurgical excellence</strong> and more than <strong>7,000 successful surgeries</strong>, he is among the most experienced fellowship-trained neurosurgeons in the country.
+                <p class="mb-0" style="text-align: justify;">Dr. Arun Saroha is the best neurosurgeon in Gurgaon, specializing in complex brain and spine disorders with a focus on delivering effective and long-term treatment outcomes. With over <strong>26 years of neurosurgical excellence</strong> and more than <strong>9,000 successful surgeries</strong>, he is among the most experienced fellowship-trained neurosurgeons in the country.
                 </p>
                 <p class="mb-0" style="text-align: justify;">
                   Dr. Saroha’s patient-centered approach sets him apart from others in the field. He carefully evaluates each case and recommends surgery only when it offers the best long-term benefits. His expertise in <a href="https://spineandbrainindia.com/back-pain-treatment-in-India">minimally invasive spine surgery</a> ensures that patients experience faster recovery times and minimal post-surgical discomfort.
@@ -828,7 +828,7 @@
                   <i style="font-size: 0px"><img class="icon-img1" loading="lazy" src="assets/img/icons/icon_7.webp"
                       alt="A start Badge Icon Displaying Years of Experience." /></i>
                   <div class="fact-box-inner">
-                    <span style="color: white" class="scndry-clr d-block"><i class="counter">25</i>+</span>
+                    <span style="color: white" class="scndry-clr d-block"><i class="counter">26</i>+</span>
                     <h3 class="mb-0">Years of Experience</h3>
                   </div>
                 </div>
@@ -836,7 +836,7 @@
                   <i style="font-size: 0px" <img class="icon-img1" loading="lazy" src="assets/img/icons/icon_5.webp"
                     alt="A Brain Image Illustrating Successful Surgeries." /></i>
                   <div class="fact-box-inner">
-                    <span style="color: white" class="scndry-clr d-block"><i class="counter">7000</i>+</span>
+                    <span style="color: white" class="scndry-clr d-block"><i class="counter">9000</i>+</span>
                     <h3 class="mb-0">
                       Brain & Spine Surgeries
                     </h3>
@@ -906,7 +906,7 @@
         <!-- Expanded Why Choose Us Content -->
         <div class="row mt-4">
           <div class="col-lg-12">
-            <p style="text-align: justify;">When it comes to neurosurgery, choosing the right surgeon can mean the difference between a successful recovery and prolonged suffering. Dr. Arun Saroha's track record of <strong>7,000+ successful surgeries</strong> with a near-perfect success rate demonstrates why he is consistently rated as the best neurosurgeon in Gurgaon. His expertise spans the full spectrum of neurosurgical conditions — from routine disc herniations to the most complex brain tumors and spinal deformity corrections.</p>
+            <p style="text-align: justify;">When it comes to neurosurgery, choosing the right surgeon can mean the difference between a successful recovery and prolonged suffering. Dr. Arun Saroha's track record of <strong>9,000+ successful surgeries</strong> with a near-perfect success rate demonstrates why he is consistently rated as the best neurosurgeon in Gurgaon. His expertise spans the full spectrum of neurosurgical conditions — from routine disc herniations to the most complex brain tumors and spinal deformity corrections.</p>
             <p style="text-align: justify;">What truly distinguishes Dr. Saroha is his conservative-first approach: he exhausts all non-surgical options before recommending an operation. When surgery is necessary, he prioritizes minimally invasive techniques that result in smaller incisions, less blood loss, shorter hospital stays, and faster return to normal life. This philosophy, combined with cutting-edge technology like intraoperative neuromonitoring and navigation-guided surgery, ensures the highest standards of patient safety.</p>
           </div>
         </div>
@@ -923,14 +923,14 @@
         <div class="row">
           <div class="col-lg-6 col-md-6 mb-3">
             <div class="p-3" style="background: #fff; border-radius: 8px; border-left: 4px solid #2f94e1;">
-              <h4 style="font-size: 17px;">25+ Years of Unmatched Clinical Excellence</h4>
+              <h4 style="font-size: 17px;">26+ Years of Unmatched Clinical Excellence</h4>
               <p style="font-size: 14px; margin-bottom: 0;">Dr. Arun Saroha began his neurosurgical career with MBBS, MS Surgery, and M.Ch Neurosurgery — the highest qualification in the field. Over two-and-a-half decades, he has built expertise across the full spectrum of brain and spine conditions, successfully managing even the rarest and most complex neurological presentations.</p>
             </div>
           </div>
           <div class="col-lg-6 col-md-6 mb-3">
             <div class="p-3" style="background: #fff; border-radius: 8px; border-left: 4px solid #2f94e1;">
-              <h4 style="font-size: 17px;">Over 7,000 Successful Brain &amp; Spine Surgeries</h4>
-              <p style="font-size: 14px; margin-bottom: 0;">Surgical volume is one of the most reliable indicators of a neurosurgeon's competence. Dr. Saroha has performed over 7,000 surgeries spanning brain tumour resections, cerebral aneurysm clipping, endoscopic spine surgery, complex spinal fusions, and brachial plexus repairs.</p>
+              <h4 style="font-size: 17px;">Over 9,000 Successful Brain &amp; Spine Surgeries</h4>
+              <p style="font-size: 14px; margin-bottom: 0;">Surgical volume is one of the most reliable indicators of a neurosurgeon's competence. Dr. Saroha has performed over 9,000 surgeries spanning brain tumour resections, cerebral aneurysm clipping, endoscopic spine surgery, complex spinal fusions, and brachial plexus repairs.</p>
             </div>
           </div>
           <div class="col-lg-6 col-md-6 mb-3">
@@ -979,8 +979,8 @@
                   <tr><td><strong>Designation</strong></td><td>Director &amp; Unit Head, Spine and Neurosurgery</td></tr>
                   <tr><td><strong>Hospital</strong></td><td>Max Super Speciality Hospital, Gurugram &amp; Dwarka Delhi</td></tr>
                   <tr><td><strong>Qualifications</strong></td><td>MBBS | MS (Surgery) | M.Ch (Neurosurgery)</td></tr>
-                  <tr><td><strong>Experience</strong></td><td>25+ Years</td></tr>
-                  <tr><td><strong>Surgeries</strong></td><td>7,000+</td></tr>
+                  <tr><td><strong>Experience</strong></td><td>26+ Years</td></tr>
+                  <tr><td><strong>Surgeries</strong></td><td>9,000+</td></tr>
                   <tr><td><strong>Specialization</strong></td><td>Brain Tumors, Spine Surgery, Brain Aneurysm, Minimally Invasive Neurosurgery</td></tr>
                   <tr><td><strong>Languages</strong></td><td>English, Hindi</td></tr>
                   <tr><td><strong>Consultation</strong></td><td>In-person &amp; Online (Teleconsultation)</td></tr>
@@ -1219,7 +1219,7 @@
           <div class="col-lg-6 col-md-6 mb-3">
             <div class="p-3" style="background: #fff; border-radius: 8px; border-left: 4px solid #2f94e1;">
               <h4 style="font-size: 17px;">2. Evaluate Surgical Volume &amp; Success Rates</h4>
-              <p style="font-size: 14px; margin-bottom: 0;">Higher surgical volume correlates with better outcomes. Dr. Saroha's volume of 7,000+ total surgeries places him among the most experienced neurosurgeons in Gurgaon — encountering virtually every complication and knowing how to handle it.</p>
+              <p style="font-size: 14px; margin-bottom: 0;">Higher surgical volume correlates with better outcomes. Dr. Saroha's volume of 9,000+ total surgeries places him among the most experienced neurosurgeons in Gurgaon — encountering virtually every complication and knowing how to handle it.</p>
             </div>
           </div>
           <div class="col-lg-6 col-md-6 mb-3">
@@ -1278,7 +1278,7 @@
         </div>
         <div class="text-center mt-4 p-5" style="background: linear-gradient(135deg, #0d2137, #1a3a5c); border-radius: 12px;">
           <h3 class="mb-2" style="color: #fff; font-size: 26px; font-weight: 800;">Ready to Consult Gurgaon's Best Neurosurgeon?</h3>
-          <p class="mb-4" style="color: rgba(255,255,255,0.8);">Dr. Arun Saroha — Director of Neurosurgery, Max Hospital | 25+ Years | 7,000+ Surgeries | In-Person &amp; Teleconsultation Available</p>
+          <p class="mb-4" style="color: rgba(255,255,255,0.8);">Dr. Arun Saroha — Director of Neurosurgery, Max Hospital | 26+ Years | 9,000+ Surgeries | In-Person &amp; Teleconsultation Available</p>
           <a href="tel:+917860000705" class="thm-btn thm-bg d-inline-block position-relative overflow-hidden" title="Book Consultation">Book Free Consultation — Call +91 78600 00705</a>
         </div>
       </div>
@@ -1342,7 +1342,7 @@
                       <span class="accordion__icon"><i class="fa fa-plus"></i></span>
                     </button>
                     <div class="accordion__content">
-                      <p>Dr. Arun Saroha is one of the top neurosurgeons in Gurgaon, with over 25 years of experience and more than 7,000 successful surgeries to his credit. As Senior Director &amp; Unit Head of Neurosurgery at Max Super Speciality Hospital, Gurugram, he specializes in treating complex brain and spine conditions using advanced surgical techniques.</p>
+                      <p>Dr. Arun Saroha is one of the top neurosurgeons in Gurgaon, with over 26 years of experience and more than 9,000 successful surgeries to his credit. As Senior Director &amp; Unit Head of Neurosurgery at Max Super Speciality Hospital, Gurugram, he specializes in treating complex brain and spine conditions using advanced surgical techniques.</p>
                     </div>
                   </div>
 

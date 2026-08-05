@@ -85,7 +85,7 @@
             "name": "Dr. Arun Saroha",
             "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
             "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-            "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+            "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
             "medicalSpecialty": "Neurosurgery",
             "aggregateRating": {
                 "@type": "AggregateRating",
@@ -311,7 +311,7 @@
                                         <div class="redflag-box">
                                         <h2>When to see a doctor</h2>
                                         <p>It is reasonable to manage mild, occasional neck stiffness at home with the do's and don'ts above, gentle movement and posture care. You should see a doctor if your neck pain is severe, keeps coming back, lasts more than a few weeks despite sensible self-care, or interferes with your sleep, work or daily life. Any of the warning signs in the previous section means you should be reviewed sooner rather than later, and loss of bladder or bowel control is a medical emergency that needs immediate hospital care.</p>
-                                        <p>A specialist can confirm the diagnosis, rule out anything more serious, and build a step-by-step plan that usually begins with conservative care such as physiotherapy, activity changes and pain relief, with injections or surgery considered only if these do not help or if the spinal cord or nerves are clearly under threat. If you would like an expert opinion, <strong>Dr. Arun Saroha</strong>, a senior neurosurgeon and spine surgeon with more than 20 years of experience, evaluates and treats cervical spondylosis at Max Hospital, Gurugram and Max Super Speciality Hospital, Dwarka, Delhi, and can guide you on the safest options for your situation.</p>
+                                        <p>A specialist can confirm the diagnosis, rule out anything more serious, and build a step-by-step plan that usually begins with conservative care such as physiotherapy, activity changes and pain relief, with injections or surgery considered only if these do not help or if the spinal cord or nerves are clearly under threat. If you would like an expert opinion, <strong>Dr. Arun Saroha</strong>, a senior neurosurgeon and spine surgeon with more than 26 years of experience, evaluates and treats cervical spondylosis at Max Hospital, Gurugram and Max Super Speciality Hospital, Dwarka, Delhi, and can guide you on the safest options for your situation.</p>
                                         <ul class="blog-list">
                                             <li>See a doctor soon if pain is severe, persistent or spreading into your arms.</li>
                                             <li>Seek urgent care for weakness, numbness, balance problems or clumsy hands.</li>
@@ -333,7 +333,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Consult the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years in neuro and spine surgery. Max Hospital, Gurugram and Dwarka, Delhi.</p>
+                                            <p>Dr. Arun Saroha — 26+ years in neuro and spine surgery. Max Hospital, Gurugram and Dwarka, Delhi.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -269,7 +269,7 @@
 
                                         <h2>When Should You See a Doctor?</h2>
                                         <p>You do not need a brain scan for ordinary stress headaches, and most headaches never require imaging at all. However, if you have any of the red-flag symptoms listed above, or a headache pattern that is new, changing or simply not settling, it is wise to get it evaluated. A specialist can examine you and decide whether any test, such as an MRI, is actually needed &mdash; and very often, that professional reassurance is exactly what an anxious mind needs to finally rest.</p>
-                                        <p>Complex concerns about the brain are best assessed by an experienced neuro specialist. <strong>Dr. Arun Saroha</strong>, a senior neuro and spine surgeon with over 20 years of experience who practises at <strong>Max Hospital, Gurugram and Dwarka</strong>, evaluates each person&rsquo;s history and symptoms to determine whether a problem is a harmless, stress-related headache or something that needs further attention. Getting a clear, expert answer is far more helpful than months of silent worry &mdash; and in the great majority of cases, that answer is deeply reassuring.</p>
+                                        <p>Complex concerns about the brain are best assessed by an experienced neuro specialist. <strong>Dr. Arun Saroha</strong>, a senior neuro and spine surgeon with over 26 years of experience who practises at <strong>Max Hospital, Gurugram and Dwarka</strong>, evaluates each person&rsquo;s history and symptoms to determine whether a problem is a harmless, stress-related headache or something that needs further attention. Getting a clear, expert answer is far more helpful than months of silent worry &mdash; and in the great majority of cases, that answer is deeply reassuring.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Worried About Persistent Headaches or a Brain Concern?</h3>
@@ -284,7 +284,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha &mdash; 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha &mdash; 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

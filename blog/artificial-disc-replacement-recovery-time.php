@@ -66,7 +66,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "1045" },
       "address": { "@type": "PostalAddress", "addressLocality": "India", "addressCountry": "IN" }
@@ -247,7 +247,7 @@
 
                                         <h2>When to see a spine specialist like Dr. Arun Saroha</h2>
                                         <p>The best time to understand your recovery is <em>before</em> surgery. A clear conversation about whether disc replacement or fusion suits your condition, the expected timeline, and what rehabilitation will involve removes much of the anxiety and lets you plan work and family support realistically. Not everyone is a candidate for ADR, and an experienced surgeon&rsquo;s assessment of your scans is what determines the right approach for you.</p>
-                                        <p>Afterwards, it is worth seeking review if your recovery is not tracking as expected &mdash; if pain is not improving over the weeks, new symptoms appear, progress plateaus, or you are simply unsure which activities are safe to resume. <strong>Dr. Arun Saroha</strong>, with over 20 years of experience in neuro and spine surgery at Max Hospital, Gurugram &amp; Dwarka, evaluates your individual condition and builds a realistic, personalised recovery and rehabilitation plan so you know exactly what to expect at every stage.</p>
+                                        <p>Afterwards, it is worth seeking review if your recovery is not tracking as expected &mdash; if pain is not improving over the weeks, new symptoms appear, progress plateaus, or you are simply unsure which activities are safe to resume. <strong>Dr. Arun Saroha</strong>, with over 26 years of experience in neuro and spine surgery at Max Hospital, Gurugram &amp; Dwarka, evaluates your individual condition and builds a realistic, personalised recovery and rehabilitation plan so you know exactly what to expect at every stage.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Considering disc replacement, or unsure about your recovery?</h3>
@@ -262,7 +262,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Consult a Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years' experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years' experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Contact</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

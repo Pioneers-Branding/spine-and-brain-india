@@ -7,7 +7,7 @@
         
 <title>Best Neurologist in Panipat | Dr. Arun Saroha</title>
         
-<meta name="description" content="Consult the best neurologist in Panipat - Dr. Arun Saroha at Max Hospital. Expert care for brain, spine and nerve disorders with 25+ years experience. Book appointment now!" />
+<meta name="description" content="Consult the best neurologist in Panipat - Dr. Arun Saroha at Max Hospital. Expert care for brain, spine and nerve disorders with 26+ years experience. Book appointment now!" />
         
 <meta name="keywords" content="Best neurosurgeon in Panipat, neurosurgeon in Panipat, Spine Surgeon in Panipat, Neurologist in Panipat, Best Neurologist in Panipat" />
 <link rel="canonical" href="https://spineandbrainindia.com/neurologist-in-panipat" />
@@ -50,7 +50,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -147,7 +147,7 @@
                       ><h2>About Doctor</h2></span>
                     
                     <!--<strong>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis.</strong>-->
-                    <p class="mb-0">Dr. Arun Saroha is widely regarded as the Best Neurologist in Panipat, offering expert care with over 20 years of experience in the field of neurology and neurosurgery. His expertise encompasses treating complex neurological conditions, including brain tumors, spine disorders, cerebrovascular diseases, and degenerative spine ailments. As a leading specialist, Dr. Saroha is known for his use of advanced medical techniques and minimally invasive procedures, which ensure reduced pain, quicker recovery, and better outcomes for his patients.</p>
+                    <p class="mb-0">Dr. Arun Saroha is widely regarded as the Best Neurologist in Panipat, offering expert care with over 26 years of experience in the field of neurology and neurosurgery. His expertise encompasses treating complex neurological conditions, including brain tumors, spine disorders, cerebrovascular diseases, and degenerative spine ailments. As a leading specialist, Dr. Saroha is known for his use of advanced medical techniques and minimally invasive procedures, which ensure reduced pain, quicker recovery, and better outcomes for his patients.</p>
                      <p class="mb-0">
                      With a commitment to precision and safety, Dr. Saroha delivers exceptional care tailored to the unique needs of each individual. He combines cutting-edge neurosurgical methods with a compassionate approach, ensuring that every patient receives thorough consultations and clear explanations about their condition, treatment options, and recovery process. This patient-centered approach has made him a trusted name among those seeking neurological care. 
                     </p>
@@ -238,7 +238,7 @@
                       /></i>
                       <div class="fact-box-inner">
                         <span style="color: white" class="scndry-clr d-block"
-                          ><i class="counter">25</i>+</span
+                          ><i class="counter">26</i>+</span
                         >
                         <h4 class="mb-0">Years of Experience</h4>
                       </div>
@@ -253,7 +253,7 @@
                       /></i>
                       <div class="fact-box-inner">
                         <span style="color: white" class="scndry-clr d-block"
-                          ><i class="counter">7000</i>+</span
+                          ><i class="counter">9000</i>+</span
                         >
                         <h4 class="mb-0">
                           Brain & Spine Surgeries

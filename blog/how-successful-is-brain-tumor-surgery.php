@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -272,7 +272,7 @@
 
                                         <h2>When to consult a neurosurgeon like Dr. Arun Saroha</h2>
                                         <p>If a scan has shown a brain tumor, or if you are living with the warning symptoms above, the most important next step is an unhurried, expert assessment. A brain tumor diagnosis raises enormous questions, about whether surgery is needed, how it should be done, and what the realistic outlook is, and these deserve clear, individualised answers rather than generic numbers from the internet.</p>
-                                        <p>An experienced neuro and spine surgeon can review your imaging, explain your specific tumor type and location in plain language, weigh the benefits and risks of surgery for your situation, and coordinate any radiation, chemotherapy and rehabilitation you may need. <strong>Dr. Arun Saroha</strong>, with over 20 years of experience in neurosurgery, helps patients and families understand their options calmly and make confident, well-informed decisions, including whether surgery is the right path and what to expect from it.</p>
+                                        <p>An experienced neuro and spine surgeon can review your imaging, explain your specific tumor type and location in plain language, weigh the benefits and risks of surgery for your situation, and coordinate any radiation, chemotherapy and rehabilitation you may need. <strong>Dr. Arun Saroha</strong>, with over 26 years of experience in neurosurgery, helps patients and families understand their options calmly and make confident, well-informed decisions, including whether surgery is the right path and what to expect from it.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Worried about a brain tumor diagnosis?</h3>
@@ -287,7 +287,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Consult the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Book a Consultation</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

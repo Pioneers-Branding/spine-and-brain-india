@@ -7,7 +7,7 @@
         
 <title>Spinal Tuberculosis Treatment in Sikar | Dr Arun Saroha</title>
 
-<meta name="description" content="Expert spinal tuberculosis treatment in Sikar by Dr. Arun Saroha. Advanced therapies and surgical care for optimal recovery. 25+ years experience. Book consultation today!" />
+<meta name="description" content="Expert spinal tuberculosis treatment in Sikar by Dr. Arun Saroha. Advanced therapies and surgical care for optimal recovery. 26+ years experience. Book consultation today!" />
         
 <meta name="keywords" content="" />
 <link rel="canonical" href="https://spineandbrainindia.com/spinal-tuberculosis-treatment-in-sikar" />
@@ -435,7 +435,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",

@@ -32,7 +32,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -112,7 +112,7 @@
                                         
                                         
                                         <p class="mb-0">Cervical spine surgery is a complex medical procedure that requires expert care and attention. The cervical spine is the upper part of the spinal cord that consists of seven vertebrae, and any damage or injury to this area can cause severe pain and discomfort. If you are looking for the best cervical spine treatment in Gurgaon, then look no further than Dr. Arun Saroha.
-Dr. Saroha is a famous neurosurgeon who practices at Max Super Specialty Hospital, Saket. He has a vast experience of over 20 years in neurosurgery and spine surgery and has treated numerous patients suffering from cervical spine disorders. In this article, we will discuss cervical spine surgery in Gurgaon, cervical spine treatment in Gurgaon, cervical spine treatment cost in Gurgaon, and the best doctor for cervical spine surgery.
+Dr. Saroha is a famous neurosurgeon who practices at Max Super Specialty Hospital, Saket. He has a vast experience of over 26 years in neurosurgery and spine surgery and has treated numerous patients suffering from cervical spine disorders. In this article, we will discuss cervical spine surgery in Gurgaon, cervical spine treatment in Gurgaon, cervical spine treatment cost in Gurgaon, and the best doctor for cervical spine surgery.
 </p>
 
                                         
@@ -149,7 +149,7 @@ Dr. Arun Saroha offers comprehensive care for all cervical spine problems, inclu
                                        <p>The cost of cervical spine treatment in Gurgaon depends on various factors, including the type of treatment required, the severity of the condition, and the hospital or clinic where the treatment is being performed. Generally, the cost of cervical spine surgery in Gurgaon ranges from Rs. 2,50,000 to Rs. 5,00,000, depending on the complexity of the surgery and the hospital where it is being performed.
 </p>
                                        
-                                       <p>Dr. Arun Saroha provides affordable cervical spine treatment in Gurgaon without compromising the quality of care. He offers comprehensive care for all cervical spine problems, including physical therapy, pain management, medication, and surgery. He has a vast experience of over 20 years in neurosurgery and spine surgery and has treated numerous patients suffering from cervical spine disorders.
+                                       <p>Dr. Arun Saroha provides affordable cervical spine treatment in Gurgaon without compromising the quality of care. He offers comprehensive care for all cervical spine problems, including physical therapy, pain management, medication, and surgery. He has a vast experience of over 26 years in neurosurgery and spine surgery and has treated numerous patients suffering from cervical spine disorders.
 </p>
                                        
                                        
@@ -172,9 +172,9 @@ Dr. Saroha is a highly qualified and experienced neurosurgeon with expertise in 
                                         
                                         
                                 <p class="mb-0"> Dr. Saroha is a reputed name in the field of neurosurgery, and for a good reason. Here are some reasons why he is the best doctor for cervical spine surgery in Gurgaon:
-Expertise: Dr. Saroha has more than 20 years of experience in neurosurgery and has expertise in treating brain & spine disorders like Degenerative Spine Disorders, Brain Tumors, Disc Replacements, Paediatric Neurosurgeries, and many more. He is well-versed in the latest techniques and technologies for cervical spine surgery.
+Expertise: Dr. Saroha has more than 26 years of experience in neurosurgery and has expertise in treating brain & spine disorders like Degenerative Spine Disorders, Brain Tumors, Disc Replacements, Paediatric Neurosurgeries, and many more. He is well-versed in the latest techniques and technologies for cervical spine surgery.
 Qualifications: Dr. Saroha has graduated and post-graduated from Rabindranath Tagore Medical College, Udaipur, and has done his M.Ch in NeuroSurgery from Postgraduate Institute of Medical Education & Research (PGIMER), Chandigarh. He has also been honored with many prestigious awards in the field of neurosurgery, including the Spine Surgeon Award by Big Research Awards.
-Experience: Dr. Saroha has performed more than eight thousand surgeries successfully so far and has a large number of patients coming from across the world. He has a passion for improving the quality of life of patients who are suffering from brain & spine problems, and through his skills and knowledge, he provides them with the possible treatment.
+Experience: Dr. Saroha has performed more than nine thousand surgeries successfully so far and has a large number of patients coming from across the world. He has a passion for improving the quality of life of patients who are suffering from brain & spine problems, and through his skills and knowledge, he provides them with the possible treatment.
 Patient Care: Dr. Saroha, with his team, offers comprehensive care for all types of neurological problems. He understands the importance of a patient-centered approach and provides personalized care to each patient.
 Affordable Cost: Dr. Saroha provides affordable cervical spine treatment in Gurgaon without compromising on the quality of care.
 </p>

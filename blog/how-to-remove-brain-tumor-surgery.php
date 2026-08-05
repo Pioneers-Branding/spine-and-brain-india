@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -264,7 +264,7 @@
 
                                         <h2>When to consult a specialist</h2>
                                         <p>If you or a loved one has been diagnosed with a brain tumour, or is experiencing persistent symptoms such as a new type of headache, unexplained vomiting, seizures, progressive weakness, vision changes or personality changes, it is important to consult a qualified neurosurgeon promptly. Early, expert assessment allows the right plan to be made calmly, rather than in a crisis.</p>
-                                        <p>Complex decisions &mdash; whether to operate, which approach to use, and how aggressively to remove a tumour &mdash; benefit enormously from experience. <strong>Dr. Arun Saroha</strong>, a senior neuro and spine surgeon with over 20 years of experience who practises at Max Hospital, Gurugram &amp; Dwarka, evaluates each case individually to recommend the safest and most effective path for that particular person. A second opinion is always reasonable and often reassuring.</p>
+                                        <p>Complex decisions &mdash; whether to operate, which approach to use, and how aggressively to remove a tumour &mdash; benefit enormously from experience. <strong>Dr. Arun Saroha</strong>, a senior neuro and spine surgeon with over 26 years of experience who practises at Max Hospital, Gurugram &amp; Dwarka, evaluates each case individually to recommend the safest and most effective path for that particular person. A second opinion is always reasonable and often reassuring.</p>
                                         <p>Finally, remember that this article is meant for general understanding only and cannot replace a personal medical consultation. Every brain tumour, and every patient, is different. The best decisions come from a careful discussion between you and a specialist who has reviewed your own scans and history.</p>
 
                                         <div class="blog-cta mt-4">
@@ -280,7 +280,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha &mdash; 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha &mdash; 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

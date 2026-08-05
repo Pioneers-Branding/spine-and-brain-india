@@ -7,7 +7,7 @@
         
 <title>Blood Clot Brain Treatment in Junagadh | Dr. Arun Saroha</title>
          
-<meta name="description" content="Seeking blood clot brain treatment in Junagadh? Dr. Arun Saroha specializes in advanced brain clot removal and treatment with 25+ years expertise. Get emergency care. Consult now!" />
+<meta name="description" content="Seeking blood clot brain treatment in Junagadh? Dr. Arun Saroha specializes in advanced brain clot removal and treatment with 26+ years expertise. Get emergency care. Consult now!" />
         
 <meta name="keywords" content="" />
 <link rel="canonical" href="https://spineandbrainindia.com/blood-clot-brain-treatment-in-junagadh" />
@@ -371,7 +371,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in Junagadh with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in Junagadh with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -612,9 +612,9 @@
                 </div>
                 <div class="col-lg-7 col-md-12 mb-4 mb-lg-0">
                     
-                    <p>Dr. Arun Saroha is a renowned neurosurgeon with over 29 years of experience, making him one of the top choices for Blood Clot Brain Surgery in Junagadh. His expertise in treating complex neurological conditions, including brain clots, has earned him a reputation for delivering successful outcomes with precision and care. 
+                    <p>Dr. Arun Saroha is a renowned neurosurgeon with over 26 years of experience, making him one of the top choices for Blood Clot Brain Surgery in Junagadh. His expertise in treating complex neurological conditions, including brain clots, has earned him a reputation for delivering successful outcomes with precision and care. 
                     </p>
-                    <p>Dr. Saroha's extensive experience includes performing over 7,000 surgeries, including minimally invasive techniques such as thrombectomy and more complex procedures like craniotomy, ensuring that patients receive the most appropriate treatment based on their specific condition. His patient-centered approach ensures that each individual is thoroughly evaluated, and surgery is only recommended when necessary, providing the best possible outcome. His commitment to delivering exceptional results and his dedication to improving the quality of life for his patients make him a top choice for Blood Clot Brain Treatment in Junagadh.</p>
+                    <p>Dr. Saroha's extensive experience includes performing over 9,000 surgeries, including minimally invasive techniques such as thrombectomy and more complex procedures like craniotomy, ensuring that patients receive the most appropriate treatment based on their specific condition. His patient-centered approach ensures that each individual is thoroughly evaluated, and surgery is only recommended when necessary, providing the best possible outcome. His commitment to delivering exceptional results and his dedication to improving the quality of life for his patients make him a top choice for Blood Clot Brain Treatment in Junagadh.</p>
                     
                     <!--<div class="d-flex gap-3">-->
                     <!--    <a href="#quote" class="btn btn-primary">Book an Appointment</a>-->
@@ -671,7 +671,7 @@
             </div>
             <div class="faq-answer">
                 <div class="faq-answer-content">
-                    Dr. Arun Saroha specializes in <span class="keyword-highlight">Cervical Spine Surgery in Junagadh</span> with 25+ years experience. Book consultation by contacting his clinic directly. Provide medical reports and imaging studies. International patients can arrange online consultations. His team assists with treatment planning, cost estimates, and complete care from consultation to recovery.
+                    Dr. Arun Saroha specializes in <span class="keyword-highlight">Cervical Spine Surgery in Junagadh</span> with 26+ years experience. Book consultation by contacting his clinic directly. Provide medical reports and imaging studies. International patients can arrange online consultations. His team assists with treatment planning, cost estimates, and complete care from consultation to recovery.
                 </div>
             </div>
         </div>

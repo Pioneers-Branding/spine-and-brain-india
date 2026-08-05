@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -212,7 +212,7 @@
                                         <h2>Anterior or posterior? How the surgeon chooses the approach</h2>
                                         <p>Cervical spine surgery can be performed from the <strong>front of the neck (anterior)</strong> or the <strong>back of the neck (posterior)</strong>. Neither is automatically "better" — the choice is tailored to your particular spine, and a good surgeon weighs several factors before deciding.</p>
                                         <p>An <strong>anterior approach</strong> (used for ACDF and artificial disc replacement) is often preferred when the pressure is coming mainly from a disc or bone spur at the front, or when only one or two levels are involved. Working from the front gives direct, gentle access to the disc without having to move the spinal cord. A <strong>posterior approach</strong> (laminectomy, laminoplasty or foraminotomy) is frequently chosen when several levels are compressed, when the pressure is mostly at the back of the canal, or when the natural curve of the neck allows the cord to drift backwards once space is created.</p>
-                                        <p>Factors such as the number of levels affected, the direction of the compression, the alignment of your neck, your bone quality and any previous surgery all feed into this decision. This is exactly why a careful assessment by a specialist such as <strong>Dr. Arun Saroha</strong>, who has over 20 years of experience in neuro and spine surgery at Max Hospital, Gurugram and Dwarka, matters so much — the right operation, chosen for the right reason, is half the battle won.</p>
+                                        <p>Factors such as the number of levels affected, the direction of the compression, the alignment of your neck, your bone quality and any previous surgery all feed into this decision. This is exactly why a careful assessment by a specialist such as <strong>Dr. Arun Saroha</strong>, who has over 26 years of experience in neuro and spine surgery at Max Hospital, Gurugram and Dwarka, matters so much — the right operation, chosen for the right reason, is half the battle won.</p>
 
                                         <h2>ACDF (Anterior Cervical Discectomy and Fusion): step by step</h2>
                                         <p>ACDF is the most commonly performed cervical spine operation worldwide, and it has a long, reliable track record. The name explains the plan: <em>discectomy</em> means removing the damaged disc, and <em>fusion</em> means joining the two neighbouring vertebrae so that the segment becomes stable. Here is what a typical single-level ACDF looks like from start to finish.</p>
@@ -293,7 +293,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

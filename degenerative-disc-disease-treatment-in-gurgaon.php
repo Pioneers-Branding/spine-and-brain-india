@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="Get degenerative disc disease treatment in Gurgaon by Dr. Arun Saroha. Advanced surgical and non-surgical options. Lasting relief. 7000+ surgeries. Book now!" />
+        <meta name="description" content="Get degenerative disc disease treatment in Gurgaon by Dr. Arun Saroha. Advanced surgical and non-surgical options. Lasting relief. 9000+ surgeries. Book now!" />
         <meta name="keywords" content="" />
        
         <title>Dr. Arun Saroha: Best Neurosurgeon & Spine Surgeon in Gurgaon</title>
@@ -32,7 +32,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -201,7 +201,7 @@ Conservative treatment options are often effective in managing mild to moderate 
                                
                                <p>If surgical treatment is necessary for your degenerative disc disease, you may be wondering where to go for surgery in Gurgaon. One of the best doctors for degenerative disc surgery in Gurgaon is Dr. Arun Saroha, a neurosurgeon practicing at Max Super Specialty Hospital, Saket.</p>
                                
-                            <p>Dr. Saroha has more than 20 years of experience in neurosurgery, and has performed more than 8,000 surgeries successfully. He specializes in treating brain and spine disorders, including degenerative spine disorders, brain tumors, disc replacements, and pediatric neurosurgeries.</p>
+                            <p>Dr. Saroha has more than 26 years of experience in neurosurgery, and has performed more than 9,000 surgeries successfully. He specializes in treating brain and spine disorders, including degenerative spine disorders, brain tumors, disc replacements, and pediatric neurosurgeries.</p>
                             
                             <p>Dr. Saroha is known for his expertise in performing minimally invasive surgeries, which reduce the risk of complications and allow for faster recovery times. He is also associated with many social organizations that provide free treatment to poor patients.
 </p>

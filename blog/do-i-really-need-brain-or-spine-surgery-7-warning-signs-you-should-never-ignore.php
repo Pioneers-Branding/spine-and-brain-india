@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -246,7 +246,7 @@
                                         <h2>Why an Honest Specialist Opinion &mdash; and a Second Opinion &mdash; Matters</h2>
                                         <p>Deciding whether to have brain or spine surgery is one of the most important choices you may ever make, and you deserve to make it with clarity and confidence. A good specialist does not simply read a scan and book a theatre slot. They correlate your MRI or CT with your actual symptoms and physical examination, because it is common to see &ldquo;abnormal&rdquo; findings on scans in people who have no problems at all. The real question is never just &ldquo;what does the scan show?&rdquo; but &ldquo;does this finding explain this patient&rsquo;s symptoms, and will surgery genuinely help?&rdquo;</p>
                                         <p>This is also why I actively encourage patients to seek a <strong>second opinion</strong> for any non-emergency operation. Far from being an insult to your doctor, it is a sign of a thoughtful patient, and any trustworthy surgeon will welcome it. A second review of your scans and reports by another qualified neuro or spine specialist can confirm the plan, offer a less invasive alternative, or reassure you that surgery can safely be avoided for now. You should never feel pressured into an immediate decision for a problem that is not urgent.</p>
-                                        <p>For complex brain and spine concerns, the value of an experienced hand cannot be overstated. <strong>Dr. Arun Saroha</strong>, a neuro and spine surgeon with more than 20 years of experience who practises at Max Hospital, Gurugram &amp; Dwarka, focuses on exactly this balance &mdash; recommending surgery only when it is truly needed, and guiding patients confidently towards conservative care when it is not. An honest opinion is one that is equally willing to tell you that you do <em>not</em> need an operation.</p>
+                                        <p>For complex brain and spine concerns, the value of an experienced hand cannot be overstated. <strong>Dr. Arun Saroha</strong>, a neuro and spine surgeon with more than 26 years of experience who practises at Max Hospital, Gurugram &amp; Dwarka, focuses on exactly this balance &mdash; recommending surgery only when it is truly needed, and guiding patients confidently towards conservative care when it is not. An honest opinion is one that is equally willing to tell you that you do <em>not</em> need an operation.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Still Unsure Whether You Really Need Surgery?</h3>
@@ -261,7 +261,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

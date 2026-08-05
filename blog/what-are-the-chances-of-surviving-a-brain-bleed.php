@@ -85,7 +85,7 @@
             "name": "Dr. Arun Saroha",
             "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
             "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-            "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+            "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
             "medicalSpecialty": "Neurosurgery",
             "aggregateRating": {
                 "@type": "AggregateRating",
@@ -318,7 +318,7 @@
                                         <div class="redflag-box">
                                         <h2>When to See a Doctor</h2>
                                         <p>A suspected brain bleed is never something to watch and wait on. Any sudden, severe headache, weakness, speech or vision change, confusion or loss of consciousness needs <strong>emergency care immediately</strong> — call 108 or 112, or get to the nearest hospital straight away. For acute brain emergencies, minutes genuinely change outcomes.</p>
-                                        <p>Beyond the emergency itself, if you have risk factors such as high blood pressure, a family history of aneurysms, or you are recovering from a previous bleed, it is wise to be under the care of a specialist who can guide prevention and follow-up. If you would like an expert opinion or ongoing neurosurgical care in India, <strong>Dr. Arun Saroha</strong>, a senior neurosurgeon and spine surgeon with over 20 years of experience practising at Max Hospital, Gurugram and Max Super Speciality Hospital, Dwarka, can help you understand your situation and the options available.</p>
+                                        <p>Beyond the emergency itself, if you have risk factors such as high blood pressure, a family history of aneurysms, or you are recovering from a previous bleed, it is wise to be under the care of a specialist who can guide prevention and follow-up. If you would like an expert opinion or ongoing neurosurgical care in India, <strong>Dr. Arun Saroha</strong>, a senior neurosurgeon and spine surgeon with over 26 years of experience practising at Max Hospital, Gurugram and Max Super Speciality Hospital, Dwarka, can help you understand your situation and the options available.</p>
                                         <p>Please remember that this article is for general understanding and reassurance; it cannot replace an in-person assessment. When it comes to the brain, it is always better to ask sooner rather than later.</p>
                                         </div>
 
@@ -335,7 +335,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Consult the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years in neuro and spine surgery. Max Hospital, Gurugram and Dwarka, Delhi.</p>
+                                            <p>Dr. Arun Saroha — 26+ years in neuro and spine surgery. Max Hospital, Gurugram and Dwarka, Delhi.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

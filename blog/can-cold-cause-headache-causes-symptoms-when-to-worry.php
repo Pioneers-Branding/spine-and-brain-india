@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -277,7 +277,7 @@
                                         <h2>When should you see a specialist like Dr. Arun Saroha?</h2>
                                         <p>A headache that appears with a runny nose and mild fever and then settles within a few days rarely needs a specialist - self-care and, if needed, a visit to your family doctor are enough. The picture changes when a headache is persistent, recurrent, unusually severe, or accompanied by any of the red flags above.</p>
                                         <p>You should seek expert assessment if your headaches keep returning without a genuine cold, if they are not responding to simple treatment, if they are steadily getting worse, or if they come with any neurological symptoms such as weakness, vision changes or persistent vomiting. In these situations, a proper evaluation - and sometimes imaging such as an MRI - helps pinpoint the true cause and rule out anything serious.</p>
-                                        <p>For complex, persistent or worrying headaches, the opinion of an experienced neuro and spine specialist is invaluable. <strong>Dr. Arun Saroha</strong>, a leading neurosurgeon in India with over 20 years of experience at Max Hospital, Gurugram &amp; Dwarka, can assess your symptoms carefully, identify whether the cause is a simple sinus issue, a migraine, or something that needs closer attention, and guide you toward the right treatment. The goal is always accurate diagnosis first, so you are neither over-treated nor left worrying unnecessarily.</p>
+                                        <p>For complex, persistent or worrying headaches, the opinion of an experienced neuro and spine specialist is invaluable. <strong>Dr. Arun Saroha</strong>, a leading neurosurgeon in India with over 26 years of experience at Max Hospital, Gurugram &amp; Dwarka, can assess your symptoms carefully, identify whether the cause is a simple sinus issue, a migraine, or something that needs closer attention, and guide you toward the right treatment. The goal is always accurate diagnosis first, so you are neither over-treated nor left worrying unnecessarily.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Struggling with headaches that keep coming back?</h3>
@@ -292,7 +292,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Consult the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Book a Consultation</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

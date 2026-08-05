@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -257,7 +257,7 @@
 
                                         <h2>What Happens After Diagnosis - Treatment and Outlook</h2>
                                         <p>A diagnosis of a brain tumor is frightening to hear, but it is important to know two things. First, <strong>not all brain tumors are cancerous</strong> - many, such as most meningiomas and pituitary tumors, are benign, and some can be cured completely. Second, treatment today is highly individualised and far more precise than it once was. The plan depends on the tumor's type, size, location and how it is affecting you.</p>
-                                        <p>Options may include careful <strong>monitoring</strong> for small, slow, benign tumors; <strong>surgery</strong> to remove the tumor, often using microsurgical and image-guided techniques that protect healthy brain; and, where needed, <strong>radiotherapy, stereotactic radiosurgery or medical therapy</strong>. Complex brain tumor care is best guided by an experienced neurosurgeon. <strong>Dr. Arun Saroha</strong>, a neuro and spine surgeon with more than 20 years of experience who practises at Max Hospital, Gurugram &amp; Dwarka, assesses each case individually to recommend the safest, most effective path. The consistent thread across every option is that <strong>earlier detection means safer, more complete and more successful treatment</strong>.</p>
+                                        <p>Options may include careful <strong>monitoring</strong> for small, slow, benign tumors; <strong>surgery</strong> to remove the tumor, often using microsurgical and image-guided techniques that protect healthy brain; and, where needed, <strong>radiotherapy, stereotactic radiosurgery or medical therapy</strong>. Complex brain tumor care is best guided by an experienced neurosurgeon. <strong>Dr. Arun Saroha</strong>, a neuro and spine surgeon with more than 26 years of experience who practises at Max Hospital, Gurugram &amp; Dwarka, assesses each case individually to recommend the safest, most effective path. The consistent thread across every option is that <strong>earlier detection means safer, more complete and more successful treatment</strong>.</p>
                                         <p>A final, reassuring word: this article is meant for general understanding, not as a substitute for a personal medical opinion. Having one of these symptoms almost never means you have a brain tumor. But if the pattern fits - new, persistent and slowly worsening - do not talk yourself out of getting checked. Trusting that instinct, and asking for the scan, is exactly how these tumors are caught in time.</p>
 
                                         <div class="blog-cta mt-4">
@@ -273,7 +273,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

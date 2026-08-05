@@ -85,7 +85,7 @@
                                         
                                         
                                         
-                                        <p class="mb-0">Meta Description: Dr. Arun Saroha is a famous neurosurgeon who practices in Max Super Specialty Hospital, Saket. With over 20 years of experience, he is an expert in disc replacement surgery and provides comprehensive care for all types of neurological problems in Delhi.</p>
+                                        <p class="mb-0">Meta Description: Dr. Arun Saroha is a famous neurosurgeon who practices in Max Super Specialty Hospital, Saket. With over 26 years of experience, he is an expert in disc replacement surgery and provides comprehensive care for all types of neurological problems in Delhi.</p>
 
                                         
                                         <!--<blockquote class="blockquote text-center thm-bg brd-rd10">-->
@@ -152,7 +152,7 @@
                             
                             <div class="team-detail-wrap">
                                <h3 class="mb-0">Who is the Best Doctor for Disc Replacement Surgery in Delhi?</h3>
-                               <p>When it comes to disc replacement surgery, it is important to choose a skilled and experienced surgeon who has a track record of successful surgeries. <a href="https://spineandbrainindia.com/copy/about.php" title="Know More About Dr. Arun Saroha">Dr. Arun Saroha</a> is a famous neurosurgeon who practices in Max Super Specialty Hospital, Saket. With over 20 years of experience, he is an expert in disc replacement surgery and provides comprehensive care for all types of neurological problems. He has performed more than eight thousand surgeries successfully and is well-respected in the field of neurosurgery.</p>
+                               <p>When it comes to disc replacement surgery, it is important to choose a skilled and experienced surgeon who has a track record of successful surgeries. <a href="https://spineandbrainindia.com/copy/about.php" title="Know More About Dr. Arun Saroha">Dr. Arun Saroha</a> is a famous neurosurgeon who practices in Max Super Specialty Hospital, Saket. With over 26 years of experience, he is an expert in disc replacement surgery and provides comprehensive care for all types of neurological problems. He has performed more than nine thousand surgeries successfully and is well-respected in the field of neurosurgery.</p>
                                
                             </div>
                             

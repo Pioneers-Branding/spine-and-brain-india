@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/about",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -258,7 +258,7 @@
 
                                         <h2>Seeking Timely Treatment: Why Early Action Matters</h2>
                                         <p>Across almost every tumor type, timing matters. Finding a tumor earlier often means it is smaller and better contained, which tends to widen the range of treatment options and support a better outcome. Delay, on the other hand, can allow a tumor to grow, involve more of the brain, or raise pressure inside the skull. In some cases a growing tumor can block the normal flow of brain fluid and cause <a href="/hydrocephalus-treatment-in-india" title="Hydrocephalus Treatment in India">hydrocephalus</a> (a build-up of fluid), which then needs its own treatment. Acting on warning signs promptly is one of the few parts of this process that is genuinely within a patient's control.</p>
-                                        <p>This does not mean panicking over every headache — most headaches are not tumors. It means not ignoring symptoms that are new, persistent or progressive, and getting them assessed. For any concern about a possible brain tumor, an experienced neurosurgeon such as <strong>Dr. Arun Saroha</strong>, with over 20 years of experience, can arrange the right imaging and guide you calmly through what the findings mean and what, if anything, needs to be done.</p>
+                                        <p>This does not mean panicking over every headache — most headaches are not tumors. It means not ignoring symptoms that are new, persistent or progressive, and getting them assessed. For any concern about a possible brain tumor, an experienced neurosurgeon such as <strong>Dr. Arun Saroha</strong>, with over 26 years of experience, can arrange the right imaging and guide you calmly through what the findings mean and what, if anything, needs to be done.</p>
 
                                         <h2>Why an Experienced Neurosurgical Team Matters</h2>
                                         <p>If there is one practical message that runs through all the statistics, it is this: <strong>the experience of the team treating you has a real influence on the outcome.</strong> For many tumors, the amount that can be removed safely — and how well vital functions such as movement, speech and vision are protected — depends significantly on the surgeon's skill and judgement, and on the technology and support available in the operating theatre.</p>
@@ -277,7 +277,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Contact</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

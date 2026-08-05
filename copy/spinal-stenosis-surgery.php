@@ -189,7 +189,7 @@
                             <div class="team-detail-wrap">
                                 <h3 class="mb-0">Spinal Stenosis Treatment Cost in Delhi</h3>
                                 <p class="mb-0">The cost of spinal stenosis corrective surgery in India depends on various conditions and factors. For more information about the cost, consult an expert spinal stenosis doctor, Dr. Arun Saroha</p>
-                                <p class="mb-0">Dr. Arun Saroha, Spinal Stenosis Surgeon in Delhi, uses the latest technologies to provide the best treatment to treat the patient with spinal stenosis and lumbar stenosis problems. He uses the latest technologies to perform the treatment. With more than 25+ years of experience, he provides the best treatment to cure scoliosis condition. He has performed more than 6,000+ successful surgeries for brain and spinal problems. His surgical skills and using cutting-edge technology help him deliver the patients with excellent outcomes and bring more patients from around the world.</p>
+                                <p class="mb-0">Dr. Arun Saroha, Spinal Stenosis Surgeon in Delhi, uses the latest technologies to provide the best treatment to treat the patient with spinal stenosis and lumbar stenosis problems. He uses the latest technologies to perform the treatment. With more than 26+ years of experience, he provides the best treatment to cure scoliosis condition. He has performed more than 9,000+ successful surgeries for brain and spinal problems. His surgical skills and using cutting-edge technology help him deliver the patients with excellent outcomes and bring more patients from around the world.</p>
                                 
                             </div>
                     </div>

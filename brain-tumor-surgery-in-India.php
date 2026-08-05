@@ -274,7 +274,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience specializing in brain tumor surgery, minimally invasive neurosurgery, and neuro-oncology.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience specializing in brain tumor surgery, minimally invasive neurosurgery, and neuro-oncology.",
       "medicalSpecialty": "Neurosurgery",
       "knowsAbout": ["Brain Tumor Surgery", "Craniotomy", "Minimally Invasive Neurosurgery", "Meningioma Removal", "Glioblastoma Treatment", "Pituitary Adenoma Surgery", "Neuronavigation Surgery", "Endoscopic Brain Surgery"],
       "aggregateRating": {
@@ -590,7 +590,7 @@
                                                         <p>When considering <strong>brain tumor surgery in India</strong>, Dr. Arun Saroha stands out as one of the most experienced and trusted neurosurgeons in the country. As Chief Neurosurgeon at Max Super Speciality Hospital, he brings unmatched expertise in diagnosing and surgically treating the most complex brain tumors.</p>
 
                                                         <ul class="mb-0">
-                                                            <li><strong>20+ Years of Neurosurgical Experience</strong> specializing in brain tumor surgery, with expertise across all tumor types including glioblastoma, meningioma, pituitary adenoma, and acoustic neuroma</li>
+                                                            <li><strong>26+ Years of Neurosurgical Experience</strong> specializing in brain tumor surgery, with expertise across all tumor types including glioblastoma, meningioma, pituitary adenoma, and acoustic neuroma</li>
                                                             <li><strong>1,000+ Successful Brain Surgeries</strong> performed with consistently above-average outcomes and minimal complication rates</li>
                                                             <li><strong>Advanced Surgical Techniques:</strong> Proficient in microsurgery, neuronavigation-guided surgery, endoscopic approaches, and awake craniotomy for tumors near eloquent brain areas</li>
                                                             <li><strong>State-of-the-Art Facilities</strong> at Max Hospital (NABH &amp; JCI accredited) with dedicated neuro-ICU, intraoperative imaging, and the latest neurosurgical equipment</li>
@@ -1046,7 +1046,7 @@
             </div>
             <div class="faq-answer">
                 <div class="faq-answer-content">
-                    <span class="keyword-highlight">Dr. Arun Saroha</span> has performed over 1,000 successful brain surgeries, including complex brain tumor cases involving glioblastoma, meningioma, pituitary adenoma, acoustic neuroma, and brain metastases. With more than 20 years of neurosurgical experience, he is one of the most experienced brain tumor surgeons in India. His expertise spans all surgical techniques including open craniotomy, microsurgery, neuronavigation-guided surgery, endoscopic transsphenoidal surgery, and awake craniotomy. He maintains consistently high success rates and low complication rates across all tumor types, making him a trusted choice for patients from across India and abroad.
+                    <span class="keyword-highlight">Dr. Arun Saroha</span> has performed over 1,000 successful brain surgeries, including complex brain tumor cases involving glioblastoma, meningioma, pituitary adenoma, acoustic neuroma, and brain metastases. With more than 26 years of neurosurgical experience, he is one of the most experienced brain tumor surgeons in India. His expertise spans all surgical techniques including open craniotomy, microsurgery, neuronavigation-guided surgery, endoscopic transsphenoidal surgery, and awake craniotomy. He maintains consistently high success rates and low complication rates across all tumor types, making him a trusted choice for patients from across India and abroad.
                 </div>
             </div>
         </div>
@@ -1058,7 +1058,7 @@
             </div>
             <div class="faq-answer">
                 <div class="faq-answer-content">
-                    <span class="keyword-highlight">Dr. Arun Saroha</span> is a highly qualified neurosurgeon with extensive training and credentials. He holds an MBBS degree, MS in General Surgery, and MCh in Neurosurgery from premier medical institutions. He has completed specialized fellowships in advanced neurosurgery and neuro-oncology. Dr. Saroha serves as Chief Neurosurgeon at Max Super Speciality Hospital and has published numerous research papers in national and international neurosurgery journals. He is a member of the Neurological Society of India and regularly participates in national and international neurosurgery conferences. His 20+ years of clinical experience combined with academic excellence make him one of India's leading brain tumor surgeons.
+                    <span class="keyword-highlight">Dr. Arun Saroha</span> is a highly qualified neurosurgeon with extensive training and credentials. He holds an MBBS degree, MS in General Surgery, and MCh in Neurosurgery from premier medical institutions. He has completed specialized fellowships in advanced neurosurgery and neuro-oncology. Dr. Saroha serves as Chief Neurosurgeon at Max Super Speciality Hospital and has published numerous research papers in national and international neurosurgery journals. He is a member of the Neurological Society of India and regularly participates in national and international neurosurgery conferences. His 26+ years of clinical experience combined with academic excellence make him one of India's leading brain tumor surgeons.
                 </div>
             </div>
         </div>

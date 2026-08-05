@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -270,7 +270,7 @@
 
                                         <h2>When and How to See a Specialist</h2>
                                         <p>You do not need to rush to a hospital for every headache. Mild, familiar headaches, occasional tiredness or a stiff neck after a long day rarely need urgent scans. But you <strong>should</strong> arrange a medical review if you have a new symptom that has lasted or worsened over more than a week or two, a headache pattern that has clearly changed, or any of the neurological signs &mdash; weakness, numbness, vision, speech, balance, seizure or personality change &mdash; described above. For any of the red-flag emergencies, seek care the same day, without waiting.</p>
-                                        <p>Start with your family doctor or a neurologist, who can examine you and decide whether a scan is needed. If imaging shows something that requires surgical assessment, a neurosurgeon takes over the plan. Complex brain conditions genuinely benefit from experienced hands: <strong>Dr. Arun Saroha</strong>, a neuro &amp; spine surgeon with over 20 years of experience who practises at Max Hospital, Gurugram &amp; Dwarka, evaluates such cases to determine whether a finding is serious, what it is likely to be, and which path &mdash; observation, medication or surgery &mdash; fits best.</p>
+                                        <p>Start with your family doctor or a neurologist, who can examine you and decide whether a scan is needed. If imaging shows something that requires surgical assessment, a neurosurgeon takes over the plan. Complex brain conditions genuinely benefit from experienced hands: <strong>Dr. Arun Saroha</strong>, a neuro &amp; spine surgeon with over 26 years of experience who practises at Max Hospital, Gurugram &amp; Dwarka, evaluates such cases to determine whether a finding is serious, what it is likely to be, and which path &mdash; observation, medication or surgery &mdash; fits best.</p>
                                         <p>Finally, keep this in perspective. Not all brain tumors are cancerous &mdash; many are benign and slow-growing, and even malignant ones can often be treated effectively when caught early, thanks to modern microsurgery, image guidance and radiation techniques. Early awareness is powerful precisely because it leads to early answers. Watch for the patterns, act on the warning signs, and let a scan &mdash; not your worry &mdash; provide the final word.</p>
 
                                         <div class="blog-cta mt-4">
@@ -286,7 +286,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Consult the Specialist</h4>
-                                            <p>Dr. Arun Saroha &mdash; 20+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha &mdash; 26+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Contact</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

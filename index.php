@@ -4,15 +4,15 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-  <title>Top Neurosurgeon in India – Dr. Arun Saroha | 7000+ Successful Brain &amp; Spine Surgeries | Max Hospital</title>
+  <title>Top Neurosurgeon in India – Dr. Arun Saroha | 9000+ Successful Brain &amp; Spine Surgeries | Max Hospital</title>
   <meta name="description"
-    content="Looking for the #1 neurosurgeon in India? Dr. Arun Saroha offers 25+ years of expertise, 7000+ successful brain &amp; spine surgeries at Max Hospital. Get a free consultation today: +91 78600 00705" />
+    content="Looking for the #1 neurosurgeon in India? Dr. Arun Saroha offers 26+ years of expertise, 9000+ successful brain &amp; spine surgeries at Max Hospital. Get a free consultation today: +91 78600 00705" />
 
   <!-- Open Graph Tags -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://spineandbrainindia.com/" />
-  <meta property="og:title" content="Top Neurosurgeon in India – Dr. Arun Saroha | 7000+ Successful Brain &amp; Spine Surgeries | Max Hospital" />
-  <meta property="og:description" content="Looking for the #1 neurosurgeon in India? Dr. Arun Saroha offers 25+ years of expertise, 7000+ successful brain &amp; spine surgeries at Max Hospital. Get a free consultation today!" />
+  <meta property="og:title" content="Top Neurosurgeon in India – Dr. Arun Saroha | 9000+ Successful Brain &amp; Spine Surgeries | Max Hospital" />
+  <meta property="og:description" content="Looking for the #1 neurosurgeon in India? Dr. Arun Saroha offers 26+ years of expertise, 9000+ successful brain &amp; spine surgeries at Max Hospital. Get a free consultation today!" />
   <meta property="og:image" content="https://spineandbrainindia.com/assets/images/pag-top-bg_11zon.webp" />
 
   <!-- Geo Tags -->
@@ -35,7 +35,7 @@
           "@context": "http://schema.org",
           "@type": "MedicalBusiness",
           "name": "Spine and Brain India",
-          "description": "Best Neurosurgeon in India - Leading neurosurgery services in India by Dr. Arun Saroha. Specializing in spine and brain surgery with over 25 years of experience.",
+          "description": "Best Neurosurgeon in India - Leading neurosurgery services in India by Dr. Arun Saroha. Specializing in spine and brain surgery with over 26 years of experience.",
           "url": "https://www.spineandbrainindia.com/",
           "address": {
             "@type": "PostalAddress",
@@ -63,7 +63,7 @@
         "name": "Who is the No 1 Neurosurgeon in India?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Dr. Arun Saroha is widely recognized as one of the best neurosurgeons in India, with over 25 years of experience and more than 7,000 successful brain and spine surgeries. He serves as Senior Director & Unit Head of Neurosurgery at Max Super Speciality Hospital."
+          "text": "Dr. Arun Saroha is widely recognized as one of the best neurosurgeons in India, with over 26 years of experience and more than 9,000 successful brain and spine surgeries. He serves as Senior Director & Unit Head of Neurosurgery at Max Super Speciality Hospital."
         }
       },
       {
@@ -119,7 +119,7 @@
         "name": "How many surgeries has Dr. Arun Saroha performed?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Dr. Arun Saroha has successfully performed more than 7,000 brain and spine surgeries over his 25+ year career, including brain tumor removal, disc replacements, spinal deformity corrections, endoscopic spine surgeries, and emergency neuro-trauma cases."
+          "text": "Dr. Arun Saroha has successfully performed more than 9,000 brain and spine surgeries over his 26+ year career, including brain tumor removal, disc replacements, spinal deformity corrections, endoscopic spine surgeries, and emergency neuro-trauma cases."
         }
       },
       {
@@ -360,7 +360,7 @@
       <div class="hero-content">
         <span class="hero-badge">Senior Director – Neurosurgery, Max Hospital</span>
         <h1>Best Neurosurgeon in India – <span>Dr. Arun Saroha</span></h1>
-        <p class="hero-subtitle">25+ years of neurosurgical excellence with 7,000+ successful brain & spine surgeries. Fellowship-trained, internationally recognized, trusted by patients from 50+ countries.</p>
+        <p class="hero-subtitle">26+ years of neurosurgical excellence with 9,000+ successful brain & spine surgeries. Fellowship-trained, internationally recognized, trusted by patients from 50+ countries.</p>
         <div class="hero-cta-group">
           <a href="contact.php" class="hero-cta hero-cta-primary">
             <i class="fas fa-calendar-check"></i> Book Consultation
@@ -457,7 +457,7 @@
                   Why Dr. Arun Saroha is the Best Neurosurgeon in India
                 </h2>
 
-                <p class="mb-0" style="text-align: justify;">Dr. Arun Saroha is widely regarded as the best neurosurgeon in India, specializing in complex brain and spine disorders with a focus on delivering effective, long-term treatment outcomes. With over <strong>25 years of neurosurgical excellence</strong> and more than <strong>7,000 successful surgeries</strong>, he is among the most experienced fellowship-trained neurosurgeons in the country.
+                <p class="mb-0" style="text-align: justify;">Dr. Arun Saroha is widely regarded as the best neurosurgeon in India, specializing in complex brain and spine disorders with a focus on delivering effective, long-term treatment outcomes. With over <strong>26 years of neurosurgical excellence</strong> and more than <strong>9,000 successful surgeries</strong>, he is among the most experienced fellowship-trained neurosurgeons in the country.
                 </p>
                 <p class="mb-0" style="text-align: justify;">
                   Dr. Saroha’s patient-centered approach sets him apart from others in the field. He carefully evaluates each case and recommends surgery only when it offers the best long-term benefits. His expertise in <a href="https://spineandbrainindia.com/back-pain-treatment-in-India">minimally invasive spine surgery</a> ensures that patients experience faster recovery times and minimal post-surgical discomfort. This thoughtful care model has earned him the trust of both domestic and international patients.
@@ -804,7 +804,7 @@
                   <i style="font-size: 0px"><img class="icon-img1" loading="lazy" src="assets/img/icons/icon_7.webp"
                       alt="A start Badge Icon Displaying Years of Experience." /></i>
                   <div class="fact-box-inner">
-                    <span style="color: white" class="scndry-clr d-block"><i class="counter">25</i>+</span>
+                    <span style="color: white" class="scndry-clr d-block"><i class="counter">26</i>+</span>
                     <h4 class="mb-0">Years of Experience</h4>
                   </div>
                 </div>
@@ -812,7 +812,7 @@
                   <i style="font-size: 0px"><img class="icon-img1" loading="lazy" src="assets/img/icons/icon_5.webp"
                     alt="A Brain Image Illustrating Successful Surgeries." /></i>
                   <div class="fact-box-inner">
-                    <span style="color: white" class="scndry-clr d-block"><i class="counter">7000</i>+</span>
+                    <span style="color: white" class="scndry-clr d-block"><i class="counter">9000</i>+</span>
                     <h4 class="mb-0">
                       Brain & Spine Surgeries
                     </h4>
@@ -882,7 +882,7 @@
         <!-- Expanded Why Choose Us Content -->
         <div class="row mt-4">
           <div class="col-lg-12">
-            <p style="text-align: justify;">When it comes to neurosurgery, choosing the right surgeon can mean the difference between a successful recovery and prolonged suffering. Dr. Arun Saroha's track record of <strong>7,000+ successful surgeries</strong> with a near-perfect success rate demonstrates why he is consistently rated as the best neurosurgeon in India. His expertise spans the full spectrum of neurosurgical conditions — from routine disc herniations to the most complex brain tumors and spinal deformity corrections.</p>
+            <p style="text-align: justify;">When it comes to neurosurgery, choosing the right surgeon can mean the difference between a successful recovery and prolonged suffering. Dr. Arun Saroha's track record of <strong>9,000+ successful surgeries</strong> with a near-perfect success rate demonstrates why he is consistently rated as the best neurosurgeon in India. His expertise spans the full spectrum of neurosurgical conditions — from routine disc herniations to the most complex brain tumors and spinal deformity corrections.</p>
             <p style="text-align: justify;">What truly distinguishes Dr. Saroha is his conservative-first approach: he exhausts all non-surgical options before recommending an operation. When surgery is necessary, he prioritizes minimally invasive techniques that result in smaller incisions, less blood loss, shorter hospital stays, and faster return to normal life. This philosophy, combined with cutting-edge technology like intraoperative neuromonitoring and navigation-guided surgery, ensures the highest standards of patient safety.</p>
           </div>
         </div>
@@ -1151,7 +1151,7 @@
                       <span class="accordion__icon"><i class="fa fa-plus"></i></span>
                     </button>
                     <div class="accordion__content">
-                      <p>Dr. Arun Saroha is widely recognized as one of the best neurosurgeons in India, with over 25 years of experience and more than 7,000 successful brain and spine surgeries. He serves as Senior Director & Unit Head of Neurosurgery at Max Super Speciality Hospital and specializes in treating complex neurological conditions using advanced, minimally invasive surgical techniques.</p>
+                      <p>Dr. Arun Saroha is widely recognized as one of the best neurosurgeons in India, with over 26 years of experience and more than 9,000 successful brain and spine surgeries. He serves as Senior Director & Unit Head of Neurosurgery at Max Super Speciality Hospital and specializes in treating complex neurological conditions using advanced, minimally invasive surgical techniques.</p>
                     </div>
                   </div>
 
@@ -1231,7 +1231,7 @@
                       <span class="accordion__icon"><i class="fa fa-plus"></i></span>
                     </button>
                     <div class="accordion__content">
-                      <p>Dr. Arun Saroha has successfully performed more than 7,000 brain and spine surgeries over his 25+ year career. This includes complex procedures such as brain tumor removal, disc replacements, spinal deformity corrections, endoscopic spine surgeries, and emergency neuro-trauma cases.</p>
+                      <p>Dr. Arun Saroha has successfully performed more than 9,000 brain and spine surgeries over his 26+ year career. This includes complex procedures such as brain tumor removal, disc replacements, spinal deformity corrections, endoscopic spine surgeries, and emergency neuro-trauma cases.</p>
                     </div>
                   </div>
 
@@ -1336,7 +1336,7 @@ document.getElementById('toggleLocations').addEventListener('click', function() 
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/about",
       "image": "https://spineandbrainindia.com/assets/img/drimg.webp",
-      "description": "Dr. Arun Saroha is the best neurosurgeon in India with 25+ years of experience and 7000+ successful brain and spine surgeries at Max Hospital.",
+      "description": "Dr. Arun Saroha is the best neurosurgeon in India with 26+ years of experience and 9000+ successful brain and spine surgeries at Max Hospital.",
       "medicalSpecialty": ["Neurosurgery", "Spine Surgery"],
       "knowsAbout": ["Brain Tumor Surgery", "Minimally Invasive Spine Surgery", "Disc Replacement", "Spinal Deformity Correction", "Deep Brain Stimulation", "Endoscopic Spine Surgery"],
       "alumniOf": [

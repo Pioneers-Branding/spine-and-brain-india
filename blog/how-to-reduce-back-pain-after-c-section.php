@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -273,7 +273,7 @@
 
                                         <h2>When to see a spine specialist like Dr. Arun Saroha</h2>
                                         <p>Most new mothers never need a spine specialist — their back pain fades as they heal. But it is wise to seek expert assessment when the pain does not follow the usual, improving path. Consider seeing a specialist if your back pain <strong>lasts well beyond the expected recovery</strong> (for example, is no better after six to eight weeks or is worsening), if it keeps you from caring for your baby or sleeping, or if it comes with any of the red-flag symptoms above.</p>
-                                        <p>An experienced neuro and spine surgeon can tell the difference between ordinary postpartum muscle and ligament pain and a genuine nerve or disc problem — such as a herniated disc pressing on a nerve — and arrange the right tests only if they are truly needed. <strong>Dr. Arun Saroha</strong>, with over 20 years of experience in neuro and spine surgery, can assess your situation calmly and reassure you where things are normal, or guide you to the right treatment where they are not. Reassuringly, the vast majority of back problems are managed without surgery, using rest, physiotherapy and simple measures; surgery is reserved for the small number of cases that clearly need it.</p>
+                                        <p>An experienced neuro and spine surgeon can tell the difference between ordinary postpartum muscle and ligament pain and a genuine nerve or disc problem — such as a herniated disc pressing on a nerve — and arrange the right tests only if they are truly needed. <strong>Dr. Arun Saroha</strong>, with over 26 years of experience in neuro and spine surgery, can assess your situation calmly and reassure you where things are normal, or guide you to the right treatment where they are not. Reassuringly, the vast majority of back problems are managed without surgery, using rest, physiotherapy and simple measures; surgery is reserved for the small number of cases that clearly need it.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Back pain not settling after your C-section?</h3>
@@ -288,7 +288,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Consult the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Book a Consultation</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

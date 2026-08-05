@@ -5,9 +5,9 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-        <title>About Dr. Arun Saroha | Best Neurosurgeon & Spine Surgeon in India | 25+ Years Experience</title>
+        <title>About Dr. Arun Saroha | Best Neurosurgeon & Spine Surgeon in India | 26+ Years Experience</title>
 
-        <meta name="description" content="Meet Dr. Arun Saroha — India's leading neurosurgeon with 25+ years of experience, 8000+ successful surgeries at Max Hospital. MBBS, MS, MCh from PGIMER Chandigarh. Book a consultation today." />
+        <meta name="description" content="Meet Dr. Arun Saroha — India's leading neurosurgeon with 26+ years of experience, 9000+ successful surgeries at Max Hospital. MBBS, MS, MCh from PGIMER Chandigarh. Book a consultation today." />
 
         <meta name="keywords" content="Dr Arun Saroha, best neurosurgeon in India, best spine surgeon in India, neurosurgeon Max Hospital, spine surgery India, brain surgery India, neurosurgeon Gurgaon, neurosurgeon Delhi, spine and brain India" />
 
@@ -17,7 +17,7 @@
 <meta property="og:type" content="profile" />
 <meta property="og:url" content="https://spineandbrainindia.com/about" />
 <meta property="og:title" content="About Dr. Arun Saroha | Best Neurosurgeon & Spine Surgeon in India" />
-<meta property="og:description" content="Meet Dr. Arun Saroha — India's leading neurosurgeon with 25+ years of experience, 8000+ successful surgeries at Max Hospital. MBBS, MS, MCh from PGIMER Chandigarh." />
+<meta property="og:description" content="Meet Dr. Arun Saroha — India's leading neurosurgeon with 26+ years of experience, 9000+ successful surgeries at Max Hospital. MBBS, MS, MCh from PGIMER Chandigarh." />
 <meta property="og:image" content="https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp" />
 <meta property="og:site_name" content="Spine and Brain India" />
 <meta property="profile:first_name" content="Arun" />
@@ -26,7 +26,7 @@
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="About Dr. Arun Saroha | Best Neurosurgeon & Spine Surgeon in India" />
-<meta name="twitter:description" content="India's leading neurosurgeon with 25+ years of experience & 8000+ successful surgeries at Max Hospital." />
+<meta name="twitter:description" content="India's leading neurosurgeon with 26+ years of experience & 9000+ successful surgeries at Max Hospital." />
 <meta name="twitter:image" content="https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp" />
 
 <!-- Geo Tags -->
@@ -43,7 +43,7 @@
   "name": "Dr. Arun Saroha",
   "url": "https://spineandbrainindia.com/about",
   "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-  "description": "Dr. Arun Saroha is a Senior Director & Unit Head of Spine and Neurosurgery at Max Hospital with 25+ years of experience and 8000+ successful surgeries.",
+  "description": "Dr. Arun Saroha is a Senior Director & Unit Head of Spine and Neurosurgery at Max Hospital with 26+ years of experience and 9000+ successful surgeries.",
   "jobTitle": "Senior Director & Unit Head - Spine and Neurosurgery",
   "medicalSpecialty": ["Neurosurgery", "Spine Surgery"],
   "knowsAbout": ["Minimally Invasive Spine Surgery", "Brain Tumor Surgery", "Complex Spine Fixations", "Disc Replacement Surgery", "Spinal Stenosis Treatment", "Scoliosis Correction", "Pediatric Neurosurgery", "Endoscopic Spine Surgery", "Microvascular Decompression", "Brachial Plexus Surgery"],
@@ -177,7 +177,7 @@
       "name": "Who is the best neurosurgeon in India?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Dr. Arun Saroha is widely recognized as one of the best neurosurgeons in India. With over 25 years of experience, 8000+ successful surgeries, and advanced training from PGIMER Chandigarh, he serves as Senior Director & Unit Head of Spine and Neurosurgery at Max Hospital."
+        "text": "Dr. Arun Saroha is widely recognized as one of the best neurosurgeons in India. With over 26 years of experience, 9000+ successful surgeries, and advanced training from PGIMER Chandigarh, he serves as Senior Director & Unit Head of Spine and Neurosurgery at Max Hospital."
       }
     },
     {
@@ -209,7 +209,7 @@
       "name": "How many surgeries has Dr. Arun Saroha performed?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Dr. Arun Saroha has successfully performed over 8,000 spine and brain surgeries throughout his 25+ year career, maintaining a 100% patient satisfaction rate."
+        "text": "Dr. Arun Saroha has successfully performed over 9,000 spine and brain surgeries throughout his 26+ year career, maintaining a 100% patient satisfaction rate."
       }
     },
     {
@@ -1008,7 +1008,7 @@
                 <img src="assets/images/resources2/drarundef_11zon.webp" alt="Dr. Arun Saroha - Best Neurosurgeon and Spine Surgeon in India" width="280" height="350" loading="eager">
             </div>
             <div class="hero-doctor-info">
-                <span class="badge-tag">25+ Years of Excellence</span>
+                <span class="badge-tag">26+ Years of Excellence</span>
                 <h1>Dr. Arun Saroha</h1>
                 <p class="designation">Senior Director & Unit Head — Spine and Neurosurgery</p>
                 <p class="hospital"><i class="fas fa-hospital-alt" style="margin-right:6px;"></i> Max Super Speciality Hospital, Gurugram & Delhi</p>
@@ -1032,11 +1032,11 @@
     <div class="container">
         <div class="stats-bar-inner">
             <div class="stat-item">
-                <div class="stat-number"><span class="counter">8000</span>+</div>
+                <div class="stat-number"><span class="counter">9000</span>+</div>
                 <div class="stat-label">Successful Surgeries</div>
             </div>
             <div class="stat-item">
-                <div class="stat-number"><span class="counter">25</span>+</div>
+                <div class="stat-number"><span class="counter">26</span>+</div>
                 <div class="stat-label">Years Experience</div>
             </div>
             <div class="stat-item">
@@ -1061,7 +1061,7 @@
                     <h2>India's Leading Neurosurgeon with a Legacy of Healing Lives</h2>
                 </div>
                 <div class="bio-content">
-                    <p>Dr. Arun Saroha is widely regarded as one of the <strong>best neurosurgeons and spine surgeons in India</strong>. His extraordinary journey in neurosurgery spans over <strong>25 years of dedicated clinical practice</strong>, during which he has performed more than <strong>8,000 successful brain and spine surgeries</strong> — transforming the lives of patients across India and around the world.</p>
+                    <p>Dr. Arun Saroha is widely regarded as one of the <strong>best neurosurgeons and spine surgeons in India</strong>. His extraordinary journey in neurosurgery spans over <strong>26 years of dedicated clinical practice</strong>, during which he has performed more than <strong>9,000 successful brain and spine surgeries</strong> — transforming the lives of patients across India and around the world.</p>
                     <p>After completing his medical education at <strong>Rabindranath Tagore Medical College, Udaipur</strong>, Dr. Saroha pursued advanced surgical training at the prestigious <strong>Postgraduate Institute of Medical Education & Research (PGIMER), Chandigarh</strong>, where he earned both his MS in General Surgery and MCh in Neurosurgery — setting the foundation for a distinguished career built on clinical excellence and compassionate care.</p>
                     <p>As <strong>Senior Director & Unit Head of Spine and Neurosurgery at Max Hospital</strong>, Dr. Saroha leads a multidisciplinary team that provides world-class treatment for the most complex brain and spine conditions. His approach combines cutting-edge surgical techniques — including <strong>minimally invasive surgery, intraoperative neuromonitoring, and navigation-guided procedures</strong> — with a deep commitment to personalized patient care.</p>
                 </div>
@@ -1242,7 +1242,7 @@
             <div class="why-card">
                 <div class="why-icon"><i class="fas fa-user-md"></i></div>
                 <div>
-                    <h4>25+ Years of Surgical Experience</h4>
+                    <h4>26+ Years of Surgical Experience</h4>
                     <p>Over two decades of hands-on neurosurgical experience treating the most complex brain and spine conditions with consistently outstanding outcomes.</p>
                 </div>
             </div>
@@ -1381,7 +1381,7 @@
                     <span class="faq-toggle"><i class="fas fa-plus"></i></span>
                 </button>
                 <div class="faq-answer">
-                    <p>Dr. Arun Saroha is widely recognized as one of the best neurosurgeons in India. With over 25 years of experience, 8,000+ successful surgeries, and advanced training from PGIMER Chandigarh, he serves as Senior Director & Unit Head of Spine and Neurosurgery at Max Hospital, specializing in complex spine and brain surgeries.</p>
+                    <p>Dr. Arun Saroha is widely recognized as one of the best neurosurgeons in India. With over 26 years of experience, 9,000+ successful surgeries, and advanced training from PGIMER Chandigarh, he serves as Senior Director & Unit Head of Spine and Neurosurgery at Max Hospital, specializing in complex spine and brain surgeries.</p>
                 </div>
             </div>
             <div class="faq-item">
@@ -1417,7 +1417,7 @@
                     <span class="faq-toggle"><i class="fas fa-plus"></i></span>
                 </button>
                 <div class="faq-answer">
-                    <p>Dr. Arun Saroha has successfully performed over 8,000 spine and brain surgeries throughout his 25+ year career, maintaining a 100% patient satisfaction rate and a 4.9/5 rating based on 1,045+ patient reviews.</p>
+                    <p>Dr. Arun Saroha has successfully performed over 9,000 spine and brain surgeries throughout his 26+ year career, maintaining a 100% patient satisfaction rate and a 4.9/5 rating based on 1,045+ patient reviews.</p>
                 </div>
             </div>
             <div class="faq-item">

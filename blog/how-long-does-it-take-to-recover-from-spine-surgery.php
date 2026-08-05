@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -128,7 +128,7 @@
         {
           "@type": "Question",
           "name": "When should I see a spine specialist like Dr. Arun Saroha about recovery?",
-          "acceptedAnswer": { "@type": "Answer", "text": "See a specialist before surgery to understand the expected recovery for your specific procedure, and afterwards if your recovery is not going as planned — for example, if pain is not improving over weeks, new symptoms appear, or you are unsure what activities are safe. Dr. Arun Saroha, a neuro and spine surgeon with over 20 years of experience, can assess your condition, tailor a realistic recovery and rehabilitation plan, and flag any warning signs early so complications are caught in time." }
+          "acceptedAnswer": { "@type": "Answer", "text": "See a specialist before surgery to understand the expected recovery for your specific procedure, and afterwards if your recovery is not going as planned — for example, if pain is not improving over weeks, new symptoms appear, or you are unsure what activities are safe. Dr. Arun Saroha, a neuro and spine surgeon with over 26 years of experience, can assess your condition, tailor a realistic recovery and rehabilitation plan, and flag any warning signs early so complications are caught in time." }
         }
       ]
     }
@@ -273,7 +273,7 @@
                                         <h2>When to see a spine specialist like Dr. Arun Saroha</h2>
                                         <p>The best time to understand your recovery is <em>before</em> surgery. A detailed conversation with your surgeon about the specific procedure you need, the expected timeline, and what your rehabilitation will involve removes much of the fear and helps you plan work, family support, and time off realistically.</p>
                                         <p>Afterwards, it is worth seeking review if your recovery is not tracking as expected — for example, if pain is not improving over the weeks, new symptoms appear, progress plateaus, or you are simply unsure which activities are safe to resume. A specialist can tell the difference between normal, slow healing and a problem that needs action.</p>
-                                        <p>For complex neck and back conditions, an experienced neuro and spine surgeon&rsquo;s judgement is invaluable. <strong>Dr. Arun Saroha</strong>, with over 20 years of experience in neuro and spine surgery at Max Hospital, Gurugram &amp; Dwarka, assesses your individual condition and scans to recommend the right approach — and builds a realistic, personalised recovery and rehabilitation plan so you know exactly what to expect at every stage.</p>
+                                        <p>For complex neck and back conditions, an experienced neuro and spine surgeon&rsquo;s judgement is invaluable. <strong>Dr. Arun Saroha</strong>, with over 26 years of experience in neuro and spine surgery at Max Hospital, Gurugram &amp; Dwarka, assesses your individual condition and scans to recommend the right approach — and builds a realistic, personalised recovery and rehabilitation plan so you know exactly what to expect at every stage.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Planning spine surgery, or worried about your recovery?</h3>
@@ -288,7 +288,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Consult the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Book a Consultation</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>
@@ -395,7 +395,7 @@
                                     <span class="accordion__icon"><i class="fa fa-plus"></i></span>
                                 </button>
                                 <div class="accordion__content">
-                                    <p>See a specialist before surgery to understand the expected recovery for your specific procedure, and afterwards if your recovery is not going as planned — for example, if pain is not improving over weeks, new symptoms appear, or you are unsure what activities are safe. Dr. Arun Saroha, a neuro and spine surgeon with over 20 years of experience, can assess your condition, tailor a realistic recovery and rehabilitation plan, and flag any warning signs early so complications are caught in time.</p>
+                                    <p>See a specialist before surgery to understand the expected recovery for your specific procedure, and afterwards if your recovery is not going as planned — for example, if pain is not improving over weeks, new symptoms appear, or you are unsure what activities are safe. Dr. Arun Saroha, a neuro and spine surgeon with over 26 years of experience, can assess your condition, tailor a realistic recovery and rehabilitation plan, and flag any warning signs early so complications are caught in time.</p>
                                 </div>
                             </div>
 

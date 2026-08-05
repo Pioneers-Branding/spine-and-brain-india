@@ -7,9 +7,7 @@
 <head>
         <meta charset="UTF-8">
         <!-- Pages in this /blog/ subfolder reuse the site-wide header.php / footer.php,
-             which use root-relative asset paths. This <base> makes those paths (and the
-             header/footer nav links + AJAX) resolve correctly from inside /blog/.
-             NOTE: because base is the site root, internal links inside THIS page must be
+             whie root, internal links inside THIS page must be
              absolute (start with /). Root-relative base => works on localhost AND prod. -->
         <base href="https://spineandbrainindia.com/">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -77,7 +75,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -263,7 +261,7 @@
 
                                         <h2>When Do You Need an MRI — and Who Should You See?</h2>
                                         <p>A common worry I hear is, "Do I need a scan?" For most short-lived, muscular neck pain, the honest answer is no — an X-ray or MRI adds little, and the pain settles with time and simple care. Scans become genuinely useful when the picture points to the spine. An <strong>MRI</strong> is usually the test of choice, because it shows the discs, nerve roots and spinal cord in fine detail, and it is the clearest way to see whether a nerve or the cord is actually being compressed.</p>
-                                        <p>An MRI is typically advised when there are nerve symptoms such as arm pain, ongoing tingling, numbness or weakness; when there are signs of cord involvement like clumsy hands or an unsteady walk; when pain persists despite several weeks of proper treatment; or when any red-flag features are present. The right person to make that call is a spine surgeon or neurosurgeon, who will first examine your neck movement, muscle power, reflexes and sensation, and then decide whether imaging is needed and what it means. For complex or persistent neck and spine problems, an experienced opinion is invaluable — <strong>Dr. Arun Saroha</strong>, who has over 20 years of experience in neuro and spine surgery and practises at Max Hospital, Gurugram &amp; Dwarka, helps patients understand exactly which structure is involved and whether they need simple conservative care or something more.</p>
+                                        <p>An MRI is typically advised when there are nerve symptoms such as arm pain, ongoing tingling, numbness or weakness; when there are signs of cord involvement like clumsy hands or an unsteady walk; when pain persists despite several weeks of proper treatment; or when any red-flag features are present. The right person to make that call is a spine surgeon or neurosurgeon, who will first examine your neck movement, muscle power, reflexes and sensation, and then decide whether imaging is needed and what it means. For complex or persistent neck and spine problems, an experienced opinion is invaluable — <strong>Dr. Arun Saroha</strong>, who has over 26 years of experience in neuro and spine surgery and practises at Max Hospital, Gurugram &amp; Dwarka, helps patients understand exactly which structure is involved and whether they need simple conservative care or something more.</p>
 
                                         <h2>The Good News: Most Neck Pain Gets Better</h2>
                                         <p>If you have read this far worried, take a breath. The single most important message is that <strong>the vast majority of neck pain is not a dangerous spine problem</strong>, and it improves with straightforward measures — better posture, regular breaks from screens, gentle strengthening and stretching within a pain-free range, short-term pain relief when needed, and physiotherapy. Even true pinched-nerve pain (radiculopathy) most often settles without surgery. Surgery is reserved for the smaller group with progressive weakness, cord compression or pain that refuses to respond to good conservative care.</p>
@@ -282,7 +280,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

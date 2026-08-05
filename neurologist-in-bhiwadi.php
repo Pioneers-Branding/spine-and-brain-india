@@ -7,7 +7,7 @@
         
 <title>Best Neurologist in Bhiwadi | Dr. Arun Saroha</title>
         
-<meta name="description" content="Consult the best neurologist in Bhiwadi - Dr. Arun Saroha at Max Hospital. Expert care for brain, spine and nerve disorders with 25+ years experience. Book appointment now!" />
+<meta name="description" content="Consult the best neurologist in Bhiwadi - Dr. Arun Saroha at Max Hospital. Expert care for brain, spine and nerve disorders with 26+ years experience. Book appointment now!" />
         
 <meta name="keywords" content="Best neurosurgeon in Bhiwadi, neurosurgeon in Bhiwadi, Spine Surgeon in Bhiwadi, Neurologist in Bhiwadi, Best Neurologist in Bhiwadi" />
 <link rel="canonical" href="https://spineandbrainindia.com/neurologist-in-bhiwadi" />
@@ -50,7 +50,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -147,7 +147,7 @@
                       ><h2>About Doctor</h2></span>
                     
                     <!--<strong>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis.</strong>-->
-                    <p class="mb-0">Dr. Arun Saroha is widely regarded as the Best Neurologist in Bhiwadi, offering expert care with over 20 years of experience in the field of neurology and neurosurgery. His exceptional skills cover the diagnosis and treatment of a wide range of complex neurological and spinal conditions, including brain tumors, spine disorders, cerebrovascular diseases, and degenerative spine issues. Dr. Saroha specializes in minimally invasive techniques, ensuring reduced recovery times, minimal pain, and enhanced outcomes for his patients.</p>
+                    <p class="mb-0">Dr. Arun Saroha is widely regarded as the Best Neurologist in Bhiwadi, offering expert care with over 26 years of experience in the field of neurology and neurosurgery. His exceptional skills cover the diagnosis and treatment of a wide range of complex neurological and spinal conditions, including brain tumors, spine disorders, cerebrovascular diseases, and degenerative spine issues. Dr. Saroha specializes in minimally invasive techniques, ensuring reduced recovery times, minimal pain, and enhanced outcomes for his patients.</p>
                      <p class="mb-0">
                      Dr. Saroha is dedicated to providing personalized care with a strong emphasis on precision and safety. His approach involves advanced neurosurgical techniques combined with compassionate treatment plans tailored to meet each patient’s unique needs. Patients highly value his thorough consultations, where he explains their condition in detail, outlines treatment options, and recommends the most effective course of action for recovery. 
                     </p>
@@ -238,7 +238,7 @@
                       /></i>
                       <div class="fact-box-inner">
                         <span style="color: white" class="scndry-clr d-block"
-                          ><i class="counter">25</i>+</span
+                          ><i class="counter">26</i>+</span
                         >
                         <h4 class="mb-0">Years of Experience</h4>
                       </div>
@@ -253,7 +253,7 @@
                       /></i>
                       <div class="fact-box-inner">
                         <span style="color: white" class="scndry-clr d-block"
-                          ><i class="counter">7000</i>+</span
+                          ><i class="counter">9000</i>+</span
                         >
                         <h4 class="mb-0">
                           Brain & Spine Surgeries

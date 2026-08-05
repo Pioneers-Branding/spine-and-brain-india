@@ -186,7 +186,7 @@
                                 <h3 class="mb-0">Cervical spine surgery cost in Delhi</h3>
 
                                 <p class="mb-0"><img class="img-fluid brd-rd10 alignright" src="assets/img/services/Cervical Spine 1.webp" alt="Course Detail Image 2">The cost of cervical spine surgery in Delhi (India) varies with the type of surgery performed and the concern corrected. For more information about treatment, cost consult today with Dr. Arun Saroha, the best cervical spine treatment surgeon in Delhi.</p>
-                                <p>Dr. Arun Saroha, the best cervical spine surgeon in Delhi, with more than 25+ years of experience, he provides the best treatment for neck pain and cervical spine-related concerns. He has performed more than 6,000+ successful surgeries for brain and spinal problems. His surgical skills and using cutting-edge technology help him deliver the patients with excellent outcomes and bring more patients worldwide.</p>
+                                <p>Dr. Arun Saroha, the best cervical spine surgeon in Delhi, with more than 26+ years of experience, he provides the best treatment for neck pain and cervical spine-related concerns. He has performed more than 9,000+ successful surgeries for brain and spinal problems. His surgical skills and using cutting-edge technology help him deliver the patients with excellent outcomes and bring more patients worldwide.</p>
                                 <p class="bol-700">To get the best Cervical Spine Surgery treatment in Delhi, book an appointment today!</p>   
                             
                             </div>

@@ -86,7 +86,7 @@
             "name": "Dr. Arun Saroha",
             "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
             "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-            "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+            "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
             "medicalSpecialty": "Neurosurgery",
             "aggregateRating": {
                 "@type": "AggregateRating",
@@ -107,7 +107,7 @@
                     "name": "Who is the best doctor for a complex brain tumor in Delhi?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "There is no single \"best\" doctor for everyone, because the right choice depends on your specific tumor. For a complex brain tumor, the best surgeon for you is a highly experienced neurosurgeon with a strong focus on brain tumor and skull base surgery, high case volume with tumors like yours, access to modern technology and a multidisciplinary team, and a habit of honest counselling. Dr. Arun Saroha, a neuro and spine surgeon with more than 20 years of experience practising at Max Super Speciality Hospital, Dwarka, Delhi, and in Gurugram, is one example of a surgeon who combines these qualities. The most reliable approach is to judge any specialist against clear criteria and, for major surgery, to seek a second opinion."
+                        "text": "There is no single \"best\" doctor for everyone, because the right choice depends on your specific tumor. For a complex brain tumor, the best surgeon for you is a highly experienced neurosurgeon with a strong focus on brain tumor and skull base surgery, high case volume with tumors like yours, access to modern technology and a multidisciplinary team, and a habit of honest counselling. Dr. Arun Saroha, a neuro and spine surgeon with more than 26 years of experience practising at Max Super Speciality Hospital, Dwarka, Delhi, and in Gurugram, is one example of a surgeon who combines these qualities. The most reliable approach is to judge any specialist against clear criteria and, for major surgery, to seek a second opinion."
                     }
                 },
                 {
@@ -229,7 +229,7 @@
                                         <div class="lead">
                                             <p>Being told that you or someone you love has a <strong>complex brain tumor</strong> is one of the most frightening moments a family can face. In that moment, a single question rises above all others: <em>who is the best doctor to handle this in Delhi?</em> It is a natural and important question, because with a difficult tumor the choice of surgeon and centre can genuinely shape the outcome and the quality of life that follows.</p>
                                             <p>The honest answer is that there is no single name that is automatically "best" for everyone. What matters far more is finding a highly experienced neurosurgeon, working within a well-equipped centre and a strong multidisciplinary team, whose specific expertise matches your specific tumor. A tumor at the base of the skull, wrapped around vital blood vessels or sitting in an area that controls speech, is a very different challenge from a small, easily reachable growth, and it calls for a different depth of experience and technology.</p>
-                                            <p>This guide explains what actually makes a brain tumor "complex", why such cases need more than a talented pair of hands, and the practical criteria you can use to choose the right doctor and hospital in Delhi with confidence. It also covers when to seek a second opinion, the red-flag symptoms that need urgent care, and why many patients choose Dr. Arun Saroha, a neuro and spine surgeon with more than 20 years of experience practising in Delhi and Gurugram. This is educational information and not a substitute for a personal medical consultation.</p>
+                                            <p>This guide explains what actually makes a brain tumor "complex", why such cases need more than a talented pair of hands, and the practical criteria you can use to choose the right doctor and hospital in Delhi with confidence. It also covers when to seek a second opinion, the red-flag symptoms that need urgent care, and why many patients choose Dr. Arun Saroha, a neuro and spine surgeon with more than 26 years of experience practising in Delhi and Gurugram. This is educational information and not a substitute for a personal medical consultation.</p>
                                         </div>
 
                                         <h2>What Makes a Brain Tumor "Complex"?</h2>
@@ -305,7 +305,7 @@
                                         </ul>
                                         </div>
                                         <h2>Why Patients Choose Dr. Arun Saroha in Delhi and Gurugram</h2>
-                                        <p>To see how these principles come together in practice, many patients and families in the region turn to <strong>Dr. Arun Saroha</strong>, a neuro and spine surgeon with more than 20 years of experience who practises at <strong>Max Super Speciality Hospital, Dwarka, Delhi</strong>, and in Gurugram. His work reflects the checklist described in this guide: extensive experience with brain tumor surgery, including complex and delicate cases, and the routine use of modern techniques such as neuronavigation, intraoperative neuromonitoring and awake craniotomy where they benefit the patient.</p>
+                                        <p>To see how these principles come together in practice, many patients and families in the region turn to <strong>Dr. Arun Saroha</strong>, a neuro and spine surgeon with more than 26 years of experience who practises at <strong>Max Super Speciality Hospital, Dwarka, Delhi</strong>, and in Gurugram. His work reflects the checklist described in this guide: extensive experience with brain tumor surgery, including complex and delicate cases, and the routine use of modern techniques such as neuronavigation, intraoperative neuromonitoring and awake craniotomy where they benefit the patient.</p>
                                         <p>Just as important as technical skill is the surrounding support. Operating within a leading hospital means access to advanced imaging, a dedicated neuro intensive care unit, experienced neuro-anaesthetists, and neuro-oncology and radiation support, so that complex cases can be planned and managed by a full multidisciplinary team rather than a single individual.</p>
                                         <p>Patients also value the approach to communication. That means explaining the diagnosis in plain, honest language, laying out all reasonable options, including non-surgical ones, and recommending surgery only when it is genuinely in the patient's best interest. Second opinions are welcomed, not resisted. For a decision as significant as complex brain tumor surgery, this combination of experience, technology, teamwork and transparency is exactly what patients should be looking for.</p>
                                         <p>A gentle reminder: every tumor and every scan is different, so the right plan can only be decided after a proper, in-person evaluation. If you have a diagnosis that worries you, or symptoms that concern you, the wisest step is to consult a qualified specialist directly — you are welcome to book a consultation with Dr. Arun Saroha to have your scans reviewed and your options explained in plain language.</p>
@@ -323,7 +323,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Consult the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years in neuro and spine surgery. Max Hospital, Gurugram and Dwarka, Delhi.</p>
+                                            <p>Dr. Arun Saroha — 26+ years in neuro and spine surgery. Max Hospital, Gurugram and Dwarka, Delhi.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>
@@ -360,7 +360,7 @@
                                     <span class="accordion__icon"><i class="fa fa-plus"></i></span>
                                 </button>
                                 <div class="accordion__content">
-                                    <p>There is no single "best" doctor for everyone, because the right choice depends on your specific tumor. For a complex brain tumor, the best surgeon for you is a highly experienced neurosurgeon with a strong focus on brain tumor and skull base surgery, high case volume with tumors like yours, access to modern technology and a multidisciplinary team, and a habit of honest counselling. Dr. Arun Saroha, a neuro and spine surgeon with more than 20 years of experience practising at Max Super Speciality Hospital, Dwarka, Delhi, and in Gurugram, is one example of a surgeon who combines these qualities. The most reliable approach is to judge any specialist against clear criteria and, for major surgery, to seek a second opinion.</p>
+                                    <p>There is no single "best" doctor for everyone, because the right choice depends on your specific tumor. For a complex brain tumor, the best surgeon for you is a highly experienced neurosurgeon with a strong focus on brain tumor and skull base surgery, high case volume with tumors like yours, access to modern technology and a multidisciplinary team, and a habit of honest counselling. Dr. Arun Saroha, a neuro and spine surgeon with more than 26 years of experience practising at Max Super Speciality Hospital, Dwarka, Delhi, and in Gurugram, is one example of a surgeon who combines these qualities. The most reliable approach is to judge any specialist against clear criteria and, for major surgery, to seek a second opinion.</p>
                                 </div>
                             </div>
 

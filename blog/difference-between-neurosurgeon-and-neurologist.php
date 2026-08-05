@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -223,7 +223,7 @@
                                             <li><strong>Hydrocephalus</strong> — draining excess fluid that builds up pressure inside the brain.</li>
                                             <li><strong>Trapped nerves</strong> such as carpal tunnel syndrome and certain nerve tumours.</li>
                                         </ul>
-                                        <p><strong>Dr. Arun Saroha</strong>, who practises at Max Hospital, Gurugram &amp; Dwarka, is a neuro &amp; spine surgeon with more than 20 years of experience in exactly these areas — from delicate brain tumour surgery to modern, minimally invasive spine procedures.</p>
+                                        <p><strong>Dr. Arun Saroha</strong>, who practises at Max Hospital, Gurugram &amp; Dwarka, is a neuro &amp; spine surgeon with more than 26 years of experience in exactly these areas — from delicate brain tumour surgery to modern, minimally invasive spine procedures.</p>
 
                                         <h2>Training Paths: How Each Specialist Is Made</h2>
                                         <p>Both specialists begin the same way — with a basic medical degree (MBBS) — but their paths then separate, and this is what shapes how they treat you.</p>
@@ -282,7 +282,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

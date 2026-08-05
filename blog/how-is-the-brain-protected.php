@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/about",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -248,7 +248,7 @@
 
                                         <h2>When to See a Specialist</h2>
                                         <p>You do not need a specialist for every knock to the head — the body's natural protection handles the vast majority without any lasting effect. It is wise, however, to seek expert advice when a head injury is more than trivial, when any of the warning signs above appear, or when problems such as persistent headaches, memory changes, balance difficulty or seizures develop, whether after an injury or on their own.</p>
-                                        <p>For anything involving possible bleeding, raised pressure, infection or a lesion inside the skull, the opinion of an experienced neurosurgeon is valuable. A specialist such as <strong>Dr. Arun Saroha</strong>, with over 20 years of experience, can assess the situation, arrange the right scans, and reassure you where the problem is minor while identifying the cases that genuinely need treatment. Where surgery is required, modern <a href="/brain-surgery-in-India" title="Brain Surgery in India">brain surgery</a> techniques are highly precise and safe, and early, accurate care consistently gives the best results.</p>
+                                        <p>For anything involving possible bleeding, raised pressure, infection or a lesion inside the skull, the opinion of an experienced neurosurgeon is valuable. A specialist such as <strong>Dr. Arun Saroha</strong>, with over 26 years of experience, can assess the situation, arrange the right scans, and reassure you where the problem is minor while identifying the cases that genuinely need treatment. Where surgery is required, modern <a href="/brain-surgery-in-India" title="Brain Surgery in India">brain surgery</a> techniques are highly precise and safe, and early, accurate care consistently gives the best results.</p>
 
                                         <h2>Caring for Your Brain's Natural Defenses</h2>
                                         <p>The single most effective thing you can do is help these defenses by avoiding injury in the first place. Simple habits protect the brain far more than any treatment can once damage is done, and they are worth building into daily life:</p>
@@ -276,7 +276,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Contact</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

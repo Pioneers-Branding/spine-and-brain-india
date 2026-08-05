@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <title>Best Neurosurgeon in Madurai Dr. Arun Saroha | Top Spine Expert</title>
   <meta name="description"
-    content="Looking for the best neurosurgeon in Madurai? Dr. Arun Saroha at Max Hospital has 25+ years experience & 7000+ successful brain and spine surgeries. Book your appointment now!" />
+    content="Looking for the best neurosurgeon in Madurai? Dr. Arun Saroha at Max Hospital has 26+ years experience & 9000+ successful brain and spine surgeries. Book your appointment now!" />
   <meta name="keywords"
     content="best neurosurgeon in madurai, top brain specialist in Madurai, leading spine surgeon in Madurai, neurosurgery expert Madurai, neurology hospital, top neuro doctor in Madurai, best neurologists in madurai" />
 
@@ -39,7 +39,7 @@
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Best Neurosurgeon in Madurai – Dr. Arun Saroha | Top Spine Expert" />
   <meta name="twitter:description"
-    content="Consult Dr. Arun Saroha, one of the best neurosurgeons in Madurai with 20+ years of expertise in brain & spine surgery. Book your appointment today!" />
+    content="Consult Dr. Arun Saroha, one of the best neurosurgeons in Madurai with 26+ years of expertise in brain & spine surgery. Book your appointment today!" />
 
   <script type="application/ld+json">
 {
@@ -47,7 +47,7 @@
   "@type": "Product",
   "name": "Best Neurosurgeon in Madurai – Dr. Arun Saroha | Top Spine Expert",
   "image": "https://spineandbrainindia.com/assets/img/logo/logoSSB%207777777_11zon.webp",
-  "description": "Consult Dr. Arun Saroha, one of the best neurosurgeons in Madurai with 20+ years of expertise in brain & spine surgery. Book your appointment today!",
+  "description": "Consult Dr. Arun Saroha, one of the best neurosurgeons in Madurai with 26+ years of expertise in brain & spine surgery. Book your appointment today!",
   "brand": "Dr. Arun Saroha",
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -65,7 +65,7 @@
           "@context": "http://schema.org",
           "@type": "MedicalBusiness",
           "name": "Spine and Brain India",
-          "description": "Best Neurosurgeon in Madurai - Leading neurosurgery services in Madurai by Dr. Arun Saroha. Specializing in spine and brain surgery with over 25 years of experience.",
+          "description": "Best Neurosurgeon in Madurai - Leading neurosurgery services in Madurai by Dr. Arun Saroha. Specializing in spine and brain surgery with over 26 years of experience.",
           "url": "https://spineandbrainindia.com/best-neurosurgeon-in-uttar-pradesh.php",
           "address": {
             "@type": "PostalAddress",
@@ -483,7 +483,7 @@
 
                 <p class="mb-0" style="text-align: justify;">Dr. Arun Saroha is the best neurosurgeon in Madurai and
                   specializes in treating complex brain and spine disorders, with a focus on delivering effective and
-                  long-term treatment outcomes for his patients. Dr. Saroha has successfully performed more than 7,000
+                  long-term treatment outcomes for his patients. Dr. Saroha has successfully performed more than 9,000
                   surgeries on patients with various neurological conditions, including degenerative spine disorders,
                   brain tumors, disc replacements, and complex spine fixations.
                 </p>
@@ -652,7 +652,7 @@
                   <i style="font-size: 0px"><img class="icon-img1" loading="lazy" src="assets/img/icons/icon_7.webp"
                       alt="A start Badge Icon Displaying Years of Experience." /></i>
                   <div class="fact-box-inner">
-                    <span style="color: white" class="scndry-clr d-block"><i class="counter">25</i>+</span>
+                    <span style="color: white" class="scndry-clr d-block"><i class="counter">26</i>+</span>
                     <h4 class="mb-0">Years of Experience</h4>
                   </div>
                 </div>
@@ -660,7 +660,7 @@
                   <i style="font-size: 0px" <img class="icon-img1" loading="lazy" src="assets/img/icons/icon_5.webp"
                     alt="A Brain Image Illustrating Successful Surgeries." /></i>
                   <div class="fact-box-inner">
-                    <span style="color: white" class="scndry-clr d-block"><i class="counter">7000</i>+</span>
+                    <span style="color: white" class="scndry-clr d-block"><i class="counter">9000</i>+</span>
                     <h4 class="mb-0">
                       Brain & Spine Surgeries
                     </h4>
@@ -789,8 +789,8 @@
                       <span class="accordion__icon"><i class="fa fa-plus"></i></span>
                     </button>
                     <div class="accordion__content">
-                      <p>Dr. Arun Saroha is one of the top neurosurgeons in Madurai, with over 25 years of experience and
-                        more than 7,000 successful surgeries to his credit. Renowned for his expertise in neurosurgery
+                      <p>Dr. Arun Saroha is one of the top neurosurgeons in Madurai, with over 26 years of experience and
+                        more than 9,000 successful surgeries to his credit. Renowned for his expertise in neurosurgery
                         and spine surgery, he specializes in treating complex brain and spine conditions using advanced
                         surgical techniques.</p>
                     </div>
@@ -1175,7 +1175,7 @@ document.getElementById("toggleLocationsState").addEventListener("click", functi
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://spineandbrainindia.com/best-neurosurgeon-in-tamil-nadu" />
 <meta property="og:title" content="Best Neurosurgeon in Madurai Dr. Arun Saroha | Top Spine Expert" />
-<meta property="og:description" content="Consult Dr. Arun Saroha, one of the best neurosurgeons in Madurai with 20+ years of expertise in brain &amp; spine surgery. Book your appointment today!" />
+<meta property="og:description" content="Consult Dr. Arun Saroha, one of the best neurosurgeons in Madurai with 26+ years of expertise in brain &amp; spine surgery. Book your appointment today!" />
 <meta property="og:image" content="https://spineandbrainindia.com/assets/images/pag-top-bg_11zon.webp" />
 
 <script type="application/ld+json">
@@ -1187,7 +1187,7 @@ document.getElementById("toggleLocationsState").addEventListener("click", functi
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",

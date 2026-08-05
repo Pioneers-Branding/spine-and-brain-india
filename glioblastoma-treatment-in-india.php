@@ -7,7 +7,7 @@
 
 <title>Glioblastoma Treatment in India | GBM Surgery by Dr. Arun Saroha</title>
 
-<meta name="description" content="Advanced glioblastoma (GBM) treatment in India by Dr. Arun Saroha. Multimodal therapy: surgery + radiation + chemotherapy. Stupp protocol. 20+ years experience. Book consultation." />
+<meta name="description" content="Advanced glioblastoma (GBM) treatment in India by Dr. Arun Saroha. Multimodal therapy: surgery + radiation + chemotherapy. Stupp protocol. 26+ years experience. Book consultation." />
 
 <meta name="keywords" content="glioblastoma treatment India, GBM surgery India, glioblastoma surgery cost, brain cancer treatment India, glioblastoma survival rate, Dr Arun Saroha glioblastoma" />
 <link rel="canonical" href="https://spineandbrainindia.com/glioblastoma-treatment-in-india" />
@@ -244,7 +244,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://spineandbrainindia.com/glioblastoma-treatment-in-india" />
 <meta property="og:title" content="Glioblastoma Treatment in India | GBM Surgery by Dr. Arun Saroha" />
-<meta property="og:description" content="Advanced glioblastoma (GBM) treatment in India by Dr. Arun Saroha. Multimodal therapy including surgery, radiation, and chemotherapy. Stupp protocol. 20+ years experience." />
+<meta property="og:description" content="Advanced glioblastoma (GBM) treatment in India by Dr. Arun Saroha. Multimodal therapy including surgery, radiation, and chemotherapy. Stupp protocol. 26+ years experience." />
 <meta property="og:image" content="https://spineandbrainindia.com/assets/images/pag-top-bg_11zon.webp" />
 <meta property="og:site_name" content="Spine and Brain India" />
 
@@ -278,7 +278,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience specializing in glioblastoma surgery, complex brain tumor removal, and neuro-oncology.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience specializing in glioblastoma surgery, complex brain tumor removal, and neuro-oncology.",
       "medicalSpecialty": "Neurosurgery",
       "knowsAbout": ["Glioblastoma Surgery", "Brain Tumor Surgery", "Craniotomy", "Fluorescence-Guided Surgery", "Awake Craniotomy", "Neuronavigation Surgery", "Neuro-Oncology", "Stupp Protocol"],
       "aggregateRating": {
@@ -482,7 +482,7 @@
 
                                         <p class="mb-0" style="margin-top:15px;">Glioblastoma predominantly affects adults between the ages of 45 and 70, with a slightly higher incidence in men than women. While the exact causes remain largely unknown, established risk factors include prior exposure to ionizing radiation, certain genetic syndromes (such as Li-Fraumeni syndrome and neurofibromatosis type 1), and advancing age. Unlike many cancers, there is no proven link between lifestyle factors and glioblastoma development.</p>
 
-                                        <p class="mb-0">At Spine and Brain India, <strong>Dr. Arun Saroha</strong> brings over 20 years of neurosurgical expertise to the treatment of glioblastoma, combining advanced surgical techniques with a comprehensive multimodal approach that offers patients the best possible outcomes within the current understanding of this disease.</p>
+                                        <p class="mb-0">At Spine and Brain India, <strong>Dr. Arun Saroha</strong> brings over 26 years of neurosurgical expertise to the treatment of glioblastoma, combining advanced surgical techniques with a comprehensive multimodal approach that offers patients the best possible outcomes within the current understanding of this disease.</p>
 
                                         <!-- SYMPTOMS AND DIAGNOSIS -->
                                         <h2 class="mb-0" style="margin-top:30px;">Glioblastoma Symptoms &amp; Diagnosis</h2>
@@ -690,7 +690,7 @@
                                         <h2 class="mb-0" style="margin-top:30px;">Why Choose Dr. Arun Saroha for Glioblastoma Surgery?</h2>
                                         <p class="mb-0">Glioblastoma surgery demands the highest level of neurosurgical skill, and the choice of surgeon directly impacts the extent of resection achievable &mdash; which is one of the most important modifiable prognostic factors. Dr. Arun Saroha brings a unique combination of experience, technology, and patient-centered care to every glioblastoma case:</p>
                                         <ul class="mb-0">
-                                            <li><strong>20+ years of neurosurgical experience</strong> with extensive expertise in complex brain tumor resection, including tumors in challenging locations such as the motor strip, speech areas, basal ganglia, and brainstem.</li>
+                                            <li><strong>26+ years of neurosurgical experience</strong> with extensive expertise in complex brain tumor resection, including tumors in challenging locations such as the motor strip, speech areas, basal ganglia, and brainstem.</li>
                                             <li><strong>Advanced surgical technology:</strong> Routine use of fluorescence-guided surgery (5-ALA), intraoperative neuronavigation, awake craniotomy techniques, and intraoperative neurophysiological monitoring to maximize resection while preserving function.</li>
                                             <li><strong>Integrated multidisciplinary team:</strong> Seamless coordination with radiation oncologists, medical oncologists, neuro-radiologists, pathologists, and rehabilitation specialists at Max Super Speciality Hospital, ensuring comprehensive care from diagnosis through long-term follow-up.</li>
                                             <li><strong>Commitment to maximal safe resection:</strong> Dr. Saroha's surgical philosophy prioritizes achieving the greatest extent of resection that can be performed without causing new neurological deficits, as research consistently shows this approach optimizes survival outcomes.</li>

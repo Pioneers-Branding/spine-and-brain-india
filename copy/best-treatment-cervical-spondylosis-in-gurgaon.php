@@ -83,7 +83,7 @@ Currently, Dr. Saroha provides his services at Max Hospital in Gurgaon and Saket
                                        
                                        <h3>Cervical Spondylosis Surgery in Gurgaon: Cost and Procedure</h3>
                                        <p>Cervical spondylosis surgery may be required in cases where non-surgical treatments have failed to provide relief or in cases where the condition is severe. The cost of cervical spondylosis surgery in Gurgaon can vary depending on a number of factors, including the type of surgery required, the hospital where it is performed, and the experience and expertise of the surgeon.
-Dr. Saroha has performed more than 8,000 surgeries successfully, and he has the experience and expertise required to perform cervical spondylosis surgery with a high success rate. The cost of the surgery will depend on the specific case, and Dr. Saroha will be able to provide a detailed cost estimate after examining the patient.
+Dr. Saroha has performed more than 9,000 surgeries successfully, and he has the experience and expertise required to perform cervical spondylosis surgery with a high success rate. The cost of the surgery will depend on the specific case, and Dr. Saroha will be able to provide a detailed cost estimate after examining the patient.
 </p>
 
                                        

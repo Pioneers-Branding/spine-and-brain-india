@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="Need herniated disc surgery in India? Dr. Arun Saroha offers advanced minimally invasive spine surgery. 7000+ successful surgeries. Get lasting relief. Consult today!" />
+        <meta name="description" content="Need herniated disc surgery in India? Dr. Arun Saroha offers advanced minimally invasive spine surgery. 9000+ successful surgeries. Get lasting relief. Consult today!" />
         <meta name="keywords" content="" />
        
         <title>Herniated Disc Surgery in India | Dr. Arun Saroha</title>
@@ -32,7 +32,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -161,7 +161,7 @@
                                        
                                        <h3> Herniated Disc Surgery in India</h3>
                             <p>Herniated disc surgery is a serious medical procedure that requires an experienced neurosurgeon. In India, Dr. Arun Saroha is a renowned neurosurgeon who provides comprehensive care for all types of neurological problems, including herniated disc surgery.
-Dr. Saroha has over 20 years of experience in neurosurgery and has performed over eight thousand surgeries successfully. He has expertise in various domains of neurosurgery and spine surgery, including degenerative spine disorders, brain tumors, disc replacements, and complex spine fixation. Dr. Saroha provides consultation and treatment services at Max Hospital, Gurgaon, and Saket.
+Dr. Saroha has over 26 years of experience in neurosurgery and has performed over nine thousand surgeries successfully. He has expertise in various domains of neurosurgery and spine surgery, including degenerative spine disorders, brain tumors, disc replacements, and complex spine fixation. Dr. Saroha provides consultation and treatment services at Max Hospital, Gurgaon, and Saket.
 
 
 </p>

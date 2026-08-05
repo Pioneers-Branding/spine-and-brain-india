@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/about",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -267,7 +267,7 @@
 
                                         <h2>When to See a Specialist</h2>
                                         <p>Most day-to-day lapses in memory or focus are harmless and relate to tiredness, stress or simply having too much on your mind — there is no need to rush to a specialist for every forgotten name or misplaced key. What matters is the <strong>pattern</strong>: a change that is new, progressive, out of character, or accompanied by physical symptoms deserves proper evaluation rather than reassurance from an internet search.</p>
-                                        <p>A neurologist or neurosurgeon can take a careful history, perform an examination and, where appropriate, arrange brain imaging such as an MRI or CT scan to look at the structures and connections we have described. Timely assessment matters because many causes of cognitive change — from a treatable brain tumor to a bleed or pressure on the brain — respond far better when found early. An experienced specialist such as <strong>Dr. Arun Saroha</strong>, a neuro and spine surgeon with over 20 years of experience, can help distinguish ordinary, harmless changes from those that need investigation, and guide the right next steps with clarity and reassurance.</p>
+                                        <p>A neurologist or neurosurgeon can take a careful history, perform an examination and, where appropriate, arrange brain imaging such as an MRI or CT scan to look at the structures and connections we have described. Timely assessment matters because many causes of cognitive change — from a treatable brain tumor to a bleed or pressure on the brain — respond far better when found early. An experienced specialist such as <strong>Dr. Arun Saroha</strong>, a neuro and spine surgeon with over 26 years of experience, can help distinguish ordinary, harmless changes from those that need investigation, and guide the right next steps with clarity and reassurance.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Concerned about memory, thinking or a persistent headache?</h3>
@@ -282,7 +282,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Contact</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

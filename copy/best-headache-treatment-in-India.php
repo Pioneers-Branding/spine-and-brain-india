@@ -235,7 +235,7 @@
                             
                             <div class="team-detail-wrap">
                                 <!--<h3 class="mb-0">Chemotherapy</h3>-->
-                                <p class="mb-0">Dr. Arun Saroha is an expert headache and migraine treatment doctor in India with more than 25+ years of experience and provides the best treatment for different types of headache concerns. He has performed more than 6,000+ successful surgeries for brain and spinal problems. His surgical skills and using cutting-edge technology help him deliver the patients with excellent outcomes and bring more patients from around the world.</p>
+                                <p class="mb-0">Dr. Arun Saroha is an expert headache and migraine treatment doctor in India with more than 26+ years of experience and provides the best treatment for different types of headache concerns. He has performed more than 9,000+ successful surgeries for brain and spinal problems. His surgical skills and using cutting-edge technology help him deliver the patients with excellent outcomes and bring more patients from around the world.</p>
 
                             </div>
                             <div class="team-detail-wrap">

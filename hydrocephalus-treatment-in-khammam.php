@@ -4,7 +4,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="Expert hydrocephalus treatment in Khammam by Dr. Arun Saroha. Advanced VP shunt surgery and endoscopic procedures with 7000+ successful surgeries. Consult today!" />
+        <meta name="description" content="Expert hydrocephalus treatment in Khammam by Dr. Arun Saroha. Advanced VP shunt surgery and endoscopic procedures with 9000+ successful surgeries. Consult today!" />
         <meta name="keywords" content="" />
        
         <title>Dr. Arun Saroha: Best Neurosurgeon & Spine Surgeon in Khammam</title>
@@ -223,7 +223,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in Khammam with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in Khammam with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",

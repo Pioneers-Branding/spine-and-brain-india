@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -258,7 +258,7 @@
                                         <h2>Why Surgeon Experience and Case Selection Decide Safety</h2>
                                         <p>If you take one message from this article, let it be this: with endoscopic spine surgery, the <strong>surgeon matters more than the machine</strong>. Working through a narrow tube, on a magnified screen, right beside delicate nerves, is a demanding skill that takes years to master. There is a genuine learning curve, and outcomes improve markedly with experience. The same operation can be very safe in trained hands and more risky in untrained ones.</p>
                                         <p>Just as important is <strong>choosing the right patient for the right procedure</strong>. A skilled surgeon spends real effort correlating your symptoms with your MRI, confirming that the structure seen on the scan is truly the one causing your pain, and deciding honestly whether a keyhole approach will fully solve the problem. Rushing an unsuitable case into endoscopic surgery is where avoidable complications creep in.</p>
-                                        <p>This is why it is worth seeking out an experienced neuro &amp; spine specialist and asking direct questions: How many of these procedures have you done? Am I a good candidate? What happens if the whole fragment cannot be removed? A surgeon such as <strong>Dr. Arun Saroha</strong>, who brings over 20 years of experience in neuro &amp; spine surgery and practises at Max Hospital, Gurugram &amp; Dwarka, evaluates each case individually to judge whether endoscopic surgery is the safest, most effective option for that particular patient — or whether another route would serve them better.</p>
+                                        <p>This is why it is worth seeking out an experienced neuro &amp; spine specialist and asking direct questions: How many of these procedures have you done? Am I a good candidate? What happens if the whole fragment cannot be removed? A surgeon such as <strong>Dr. Arun Saroha</strong>, who brings over 26 years of experience in neuro &amp; spine surgery and practises at Max Hospital, Gurugram &amp; Dwarka, evaluates each case individually to judge whether endoscopic surgery is the safest, most effective option for that particular patient — or whether another route would serve them better.</p>
 
                                         <h2>What Recovery Looks Like After Endoscopic Spine Surgery</h2>
                                         <p>One of the biggest attractions of this technique is how quick and gentle the recovery usually is. While every person heals at their own pace, a typical journey looks something like this:</p>
@@ -287,7 +287,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

@@ -8,7 +8,7 @@
 <title>Microvascular Decompression Surgery in Gaya | Cost of MVD Surgery
 </title>
 
-<meta name="description" content="Expert microvascular decompression surgery in Gaya by Dr. Arun Saroha. Advanced treatment for trigeminal neuralgia and nerve compression. 7000+ surgeries. Consult now!" />
+<meta name="description" content="Expert microvascular decompression surgery in Gaya by Dr. Arun Saroha. Advanced treatment for trigeminal neuralgia and nerve compression. 9000+ surgeries. Consult now!" />
         
 <meta name="keywords" content="" />
 <link rel="canonical" href="https://spineandbrainindia.com/microvascular-decompression-surgery-in-gaya" />
@@ -302,7 +302,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",

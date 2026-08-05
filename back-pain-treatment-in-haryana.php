@@ -7,7 +7,7 @@
         
 <title>Back Pain Treatment in Haryana | Dr. Arun Saroha </title>
         
-<meta name="description" content="Suffering from back pain in Haryana? Dr. Arun Saroha offers advanced minimally invasive spine surgery with 7000+ successful surgeries. Get lasting relief. Book consultation today!" />
+<meta name="description" content="Suffering from back pain in Haryana? Dr. Arun Saroha offers advanced minimally invasive spine surgery with 9000+ successful surgeries. Get lasting relief. Book consultation today!" />
         
 <meta name="keywords" content="best back pain treatment in haryana, Back Pain Specialist in Haryana" />
 <link rel="canonical" href="https://spineandbrainindia.com/back-pain-treatment-in-haryana" />
@@ -525,7 +525,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -760,7 +760,7 @@
                 <div class="col-lg-7 col-md-12 mb-4 mb-lg-0">
                     
                     <p class="lead mt-3 fs-6 fs-md-5">
-                        Dr. Arun Saroha is widely recognized as the Best Doctor for Back Pain Treatment in Haryana, offering unparalleled expertise and compassionate care for patients suffering from various spine-related conditions. With over 29 years of experience in neurosurgery and spine surgery, Dr. Saroha has successfully treated thousands of patients with chronic back pain, providing them with long-lasting relief and improved quality of life.
+                        Dr. Arun Saroha is widely recognized as the Best Doctor for Back Pain Treatment in Haryana, offering unparalleled expertise and compassionate care for patients suffering from various spine-related conditions. With over 26 years of experience in neurosurgery and spine surgery, Dr. Saroha has successfully treated thousands of patients with chronic back pain, providing them with long-lasting relief and improved quality of life.
                     </p>    
                     <p class="lead fs-6 fs-md-5">
                         Dr. Saroha's approach to back pain treatment is comprehensive, addressing both medical and surgical options. He specializes in treating complex spine conditions such as degenerative spine disorders, herniated discs, and spinal stenosis. His expertise in minimally invasive spine surgery ensures faster recovery times, less post-operative pain, and reduced scarring, making him a top choice for patients looking for advanced back pain treatment.
@@ -818,7 +818,7 @@
             </div>
             <div class="faq-answer">
                 <div class="faq-answer-content">
-                    Dr. Arun Saroha specializes in <span class="keyword-highlight">Back Pain in Haryana</span> with 25+ years experience. Book consultation by contacting his clinic directly. Provide medical reports and imaging studies. International patients can arrange online consultations. His team assists with treatment planning, cost estimates, and complete care from consultation to recovery.
+                    Dr. Arun Saroha specializes in <span class="keyword-highlight">Back Pain in Haryana</span> with 26+ years experience. Book consultation by contacting his clinic directly. Provide medical reports and imaging studies. International patients can arrange online consultations. His team assists with treatment planning, cost estimates, and complete care from consultation to recovery.
                 </div>
             </div>
         </div>

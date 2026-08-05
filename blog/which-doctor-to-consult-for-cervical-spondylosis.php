@@ -85,7 +85,7 @@
             "name": "Dr. Arun Saroha",
             "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
             "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-            "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+            "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
             "medicalSpecialty": "Neurosurgery",
             "aggregateRating": {
                 "@type": "AggregateRating",
@@ -317,7 +317,7 @@
                                             <li>Remember, surgery is not step one. Care almost always begins with conservative measures, and an operation is considered only when those fail or when there is progressive weakness or spinal-cord compression.</li>
                                         </ul>
                                         <h2>Consulting Dr. Arun Saroha, neuro and spine specialist</h2>
-                                        <p>When cervical spondylosis involves the nerves or spinal cord, it helps to be seen by a specialist who works with these delicate structures every day. Dr. Arun Saroha is a neurosurgeon and spine specialist with over 20 years of experience, practising at Max Hospital, Gurugram and Max Super Speciality Hospital, Dwarka, Delhi. His focus on the brain, spinal cord and nerves makes him well suited to situations involving cervical radiculopathy or myelopathy, where precision around neural tissue is essential.</p>
+                                        <p>When cervical spondylosis involves the nerves or spinal cord, it helps to be seen by a specialist who works with these delicate structures every day. Dr. Arun Saroha is a neurosurgeon and spine specialist with over 26 years of experience, practising at Max Hospital, Gurugram and Max Super Speciality Hospital, Dwarka, Delhi. His focus on the brain, spinal cord and nerves makes him well suited to situations involving cervical radiculopathy or myelopathy, where precision around neural tissue is essential.</p>
                                         <p>A good spine specialist will never rush you into surgery. The role of a consultation is to confirm exactly what is causing your symptoms, explain your MRI in plain language, exhaust sensible non-surgical options first, and reserve surgery for the specific situations where it genuinely protects your nerves and function.</p>
                                         <p>If you have persistent neck and arm symptoms, an MRI report you do not fully understand, or any of the red-flag warning signs described above, it is wise to seek an expert opinion rather than wait. Early, accurate advice offers the best chance of lasting relief and of protecting your long-term nerve function.</p>
 
@@ -334,7 +334,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Consult the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years in neuro and spine surgery. Max Hospital, Gurugram and Dwarka, Delhi.</p>
+                                            <p>Dr. Arun Saroha — 26+ years in neuro and spine surgery. Max Hospital, Gurugram and Dwarka, Delhi.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

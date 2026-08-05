@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/about",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -263,7 +263,7 @@
                                         <h2>When to See a Spine Specialist</h2>
                                         <p>You do not need to rush to a specialist for every ache — most post-cesarean back pain improves with the measures above. However, it is wise to seek expert help if the pain is severe, is not improving after a few weeks of home care, keeps returning, or is interfering with your ability to care for your baby.</p>
                                         <p>You should see a doctor <strong>promptly</strong> if the pain spreads into the legs, or comes with numbness, tingling or weakness, or with any of the red-flag symptoms above. A timely evaluation can tell whether the problem is simply muscular or whether a nerve or disc is involved, so the right treatment can begin early and serious complications can be avoided.</p>
-                                        <p>For persistent or complex back pain, the opinion of an experienced neuro and spine specialist is valuable. A specialist such as <strong>Dr. Arun Saroha</strong>, with over 20 years of experience, can assess your situation carefully and reassure you where the pain is simple, while identifying and treating the rare cases where something more needs attention. You can read more about non-surgical and surgical options on the <a href="/back-pain-treatment-in-India" title="Back Pain Treatment in India">back pain treatment</a> page.</p>
+                                        <p>For persistent or complex back pain, the opinion of an experienced neuro and spine specialist is valuable. A specialist such as <strong>Dr. Arun Saroha</strong>, with over 26 years of experience, can assess your situation carefully and reassure you where the pain is simple, while identifying and treating the rare cases where something more needs attention. You can read more about non-surgical and surgical options on the <a href="/back-pain-treatment-in-India" title="Back Pain Treatment in India">back pain treatment</a> page.</p>
 
                                         <h2>Prevention: Protecting Your Back as a New Mother</h2>
                                         <p>Preventing back pain is far easier than curing it, and a few mindful habits can protect your spine through the demanding early months of motherhood. Small, consistent changes make the biggest difference over time.</p>
@@ -291,7 +291,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Contact</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

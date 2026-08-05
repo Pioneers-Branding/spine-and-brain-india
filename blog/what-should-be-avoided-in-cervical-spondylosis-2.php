@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/about",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -282,7 +282,7 @@
                                         <h2>When to See a Specialist</h2>
                                         <p>You do not need a specialist for every stiff, achy day. Ordinary cervical spondylosis usually improves with posture correction, gentle exercise and the avoidances described here. It is wise, however, to seek expert advice if your pain is severe, keeps returning, is not improving after a few weeks of sensible self-care, or is starting to limit your daily activities and sleep.</p>
                                         <p>You should see a doctor <strong>promptly</strong> if the pain spreads into the arm with tingling, numbness or weakness, or if any of the red-flag symptoms above appear. A timely assessment — including a clinical examination and, where needed, an MRI — tells whether the problem is simple joint and muscle wear or whether a nerve root or the spinal cord is being compressed, which changes the treatment entirely.</p>
-                                        <p>For persistent or complex neck problems, the opinion of an experienced neuro and spine specialist is genuinely valuable. A specialist such as <strong>Dr. Arun Saroha</strong>, with over 20 years of experience, can confirm what is safe to manage conservatively and identify the smaller number of cases where a nerve or the cord needs closer attention. The great majority are handled without surgery; where <a href="/cervical-spine-surgery-in-India" title="Cervical Spine Surgery in India">cervical spine surgery</a> is ever required, it is reserved for clear nerve or cord compression that has not responded to other measures.</p>
+                                        <p>For persistent or complex neck problems, the opinion of an experienced neuro and spine specialist is genuinely valuable. A specialist such as <strong>Dr. Arun Saroha</strong>, with over 26 years of experience, can confirm what is safe to manage conservatively and identify the smaller number of cases where a nerve or the cord needs closer attention. The great majority are handled without surgery; where <a href="/cervical-spine-surgery-in-India" title="Cervical Spine Surgery in India">cervical spine surgery</a> is ever required, it is reserved for clear nerve or cord compression that has not responded to other measures.</p>
 
                                         <h2>What to Do Instead: A Neck-Friendly Approach</h2>
                                         <p>Reading a long list of "don'ts" can feel discouraging, so it helps to flip it around. Avoiding the wrong things simply makes room for the right ones. Keep your head balanced over your shoulders, raise screens to eye level, and break up long spells of sitting with brief movement. Sleep on your back or side with one supportive pillow. Do gentle, regular neck and shoulder exercises within a comfortable range, and let arm symptoms — not ambition — set your limit.</p>
@@ -301,7 +301,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Contact</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

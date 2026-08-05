@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/about",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -256,7 +256,7 @@
 
                                         <h2>When to See a Doctor</h2>
                                         <p>Short-lived, mild unsteadiness that comes and goes with a stiff neck, and settles with rest and better posture, can often be watched for a little while. However, it is wise to see a doctor if the dizziness is <strong>frequent, persistent, or interfering with daily life, driving or work</strong>, keeps returning, or causes near-falls or is steadily worsening.</p>
-                                        <p>Seek help <strong>promptly</strong> if the dizziness comes with new hearing loss or ringing in one ear, with numbness or weakness in an arm, or with severe or unusual headaches — and <strong>immediately</strong> if any of the stroke-like red flags above appear. Because the neck, the inner ear and the brain's circulation sit close together, an accurate diagnosis often needs an experienced eye. A specialist such as <strong>Dr. Arun Saroha</strong>, with over 20 years of experience, can assess whether your neck is truly the source, coordinate ear and balance testing where needed, and guide treatment. You can read more about related neck problems on the <a href="/cervical-spine-surgery-in-India" title="Cervical Spine Surgery in India">cervical spine surgery</a> and <a href="/headache-treatment-in-India" title="Headache Treatment in India">headache treatment</a> pages.</p>
+                                        <p>Seek help <strong>promptly</strong> if the dizziness comes with new hearing loss or ringing in one ear, with numbness or weakness in an arm, or with severe or unusual headaches — and <strong>immediately</strong> if any of the stroke-like red flags above appear. Because the neck, the inner ear and the brain's circulation sit close together, an accurate diagnosis often needs an experienced eye. A specialist such as <strong>Dr. Arun Saroha</strong>, with over 26 years of experience, can assess whether your neck is truly the source, coordinate ear and balance testing where needed, and guide treatment. You can read more about related neck problems on the <a href="/cervical-spine-surgery-in-India" title="Cervical Spine Surgery in India">cervical spine surgery</a> and <a href="/headache-treatment-in-India" title="Headache Treatment in India">headache treatment</a> pages.</p>
 
                                         <h2>How Cervicogenic Dizziness Is Diagnosed</h2>
                                         <p>Since no single test confirms cervicogenic dizziness, the diagnosis is built up by combining the history, examination and, where needed, targeted investigations — ruling out other causes while checking how closely the dizziness follows the neck.</p>
@@ -294,7 +294,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Contact</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

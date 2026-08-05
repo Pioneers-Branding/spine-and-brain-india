@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -93,7 +93,7 @@
         {
           "@type": "Question",
           "name": "Who is the best neurosurgeon in Gurgaon?",
-          "acceptedAnswer": { "@type": "Answer", "text": "There is no single \"best\" neurosurgeon for everyone, because the right surgeon depends on your specific condition. The best neurosurgeon for you is a board-certified specialist with strong experience in your exact problem (brain or spine), a good surgical volume with proven outcomes, access to modern technology and a good hospital, and a habit of honest, clear communication. Dr. Arun Saroha, a neuro &amp; spine surgeon with 20+ years of experience practising at Max Hospital, Gurugram &amp; Dwarka, is one example of a surgeon who combines these qualities." }
+          "acceptedAnswer": { "@type": "Answer", "text": "There is no single \"best\" neurosurgeon for everyone, because the right surgeon depends on your specific condition. The best neurosurgeon for you is a board-certified specialist with strong experience in your exact problem (brain or spine), a good surgical volume with proven outcomes, access to modern technology and a good hospital, and a habit of honest, clear communication. Dr. Arun Saroha, a neuro &amp; spine surgeon with 26+ years of experience practising at Max Hospital, Gurugram &amp; Dwarka, is one example of a surgeon who combines these qualities." }
         },
         {
           "@type": "Question",
@@ -266,13 +266,13 @@
                                         </div>
 
                                         <h2>Dr. Arun Saroha: An Example of These Qualities</h2>
-                                        <p>To see how these principles come together in practice, consider <strong>Dr. Arun Saroha</strong>, a neuro &amp; spine surgeon with more than 20 years of experience who practises at <strong>Max Hospital, Gurugram &amp; Dwarka</strong>. His work illustrates the checklist described above: extensive experience across both brain and spine surgery, thousands of procedures performed over his career, and the use of modern techniques such as minimally invasive spine surgery, neuronavigation and intraoperative neuromonitoring where they benefit the patient.</p>
+                                        <p>To see how these principles come together in practice, consider <strong>Dr. Arun Saroha</strong>, a neuro &amp; spine surgeon with more than 26 years of experience who practises at <strong>Max Hospital, Gurugram &amp; Dwarka</strong>. His work illustrates the checklist described above: extensive experience across both brain and spine surgery, thousands of procedures performed over his career, and the use of modern techniques such as minimally invasive spine surgery, neuronavigation and intraoperative neuromonitoring where they benefit the patient.</p>
                                         <p>Just as importantly, the approach reflects the value of honest, patient-centred communication &mdash; taking time to explain the diagnosis clearly, exploring non-surgical options wherever they are appropriate, and recommending surgery only when it is genuinely in the patient's best interest. Backed by the infrastructure and specialist team of a leading hospital, this combination of qualifications, experience, technology and transparency is exactly what patients should be looking for when they ask who the best neurosurgeon in Gurgaon might be for them.</p>
                                         <p>A final, gentle reminder: this article is intended for general information and awareness, not as a substitute for personal medical advice. Every patient and every scan is different, so the right decision can only be made after a proper evaluation. If you have concerning symptoms or a diagnosis that worries you, the wisest step is always to consult a qualified specialist in person.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Looking for the Right Neuro &amp; Spine Specialist in Gurgaon?</h3>
-                                            <p>If you are living with a brain or spine problem and are unsure of your options, an expert opinion can bring clarity and peace of mind. Consult Dr. Arun Saroha, a neuro &amp; spine surgeon with 20+ years of experience at Max Hospital, Gurugram &amp; Dwarka, to understand your diagnosis and the right path forward &mdash; surgical or not.</p>
+                                            <p>If you are living with a brain or spine problem and are unsure of your options, an expert opinion can bring clarity and peace of mind. Consult Dr. Arun Saroha, a neuro &amp; spine surgeon with 26+ years of experience at Max Hospital, Gurugram &amp; Dwarka, to understand your diagnosis and the right path forward &mdash; surgical or not.</p>
                                             <a class="thm-btn scndry-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Book a Consultation">Book a Consultation</a>
                                         </div>
 
@@ -283,7 +283,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha &mdash; 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha &mdash; 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>
@@ -318,7 +318,7 @@
                                     <span class="accordion__icon"><i class="fa fa-plus"></i></span>
                                 </button>
                                 <div class="accordion__content">
-                                    <p>There is no single &quot;best&quot; neurosurgeon for everyone, because the right surgeon depends on your specific condition. The best neurosurgeon for you is a board-certified specialist with strong experience in your exact problem (brain or spine), a good surgical volume with proven outcomes, access to modern technology and a good hospital, and a habit of honest, clear communication. Dr. Arun Saroha, a neuro &amp; spine surgeon with 20+ years of experience practising at Max Hospital, Gurugram &amp; Dwarka, is one example of a surgeon who combines these qualities.</p>
+                                    <p>There is no single &quot;best&quot; neurosurgeon for everyone, because the right surgeon depends on your specific condition. The best neurosurgeon for you is a board-certified specialist with strong experience in your exact problem (brain or spine), a good surgical volume with proven outcomes, access to modern technology and a good hospital, and a habit of honest, clear communication. Dr. Arun Saroha, a neuro &amp; spine surgeon with 26+ years of experience practising at Max Hospital, Gurugram &amp; Dwarka, is one example of a surgeon who combines these qualities.</p>
                                 </div>
                             </div>
 

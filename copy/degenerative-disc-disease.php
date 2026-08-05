@@ -160,7 +160,7 @@
                             <!--        <li>Perform low-impact, age-appropriate exercises regularly to keep muscles strong and flexible.</li>-->
                             <!--     </ul>-->
                                  
-                            <!--    <p class="mb-0">Dr. Arun Saroha is an expert back pain doctor in Delhi, India with more than 25 + years of experience and has provided the best results to the patient suffering from back pain concerns. He has performed more than 6,000+ successful surgeries for brain and spinal problems. His surgical skills and using cutting-edge technology help him deliver the patients with excellent outcomes and bring more patients worldwide.</p>-->
+                            <!--    <p class="mb-0">Dr. Arun Saroha is an expert back pain doctor in Delhi, India with more than 26 + years of experience and has provided the best results to the patient suffering from back pain concerns. He has performed more than 9,000+ successful surgeries for brain and spinal problems. His surgical skills and using cutting-edge technology help him deliver the patients with excellent outcomes and bring more patients worldwide.</p>-->
                             <!--</div>-->
                         </div>
                         
@@ -273,7 +273,7 @@
                             <div class="team-detail-wrap">
                                 <h3 class="mb-0">Cost of Degenerative Disc Disease Treatment in Delhi</h3>
                                 <p class="mb-0">The cost of degenerative is disease surgery for minor surgery is between Rs.2 lakhs to 4 lakhs. It can cost between Rs. 4 lakhs to 7 lakhs for complicated surgeries that involve fusion or vertebral body removal. For more information about cost, consult today with a degenerative disc corrective doctor in Delhi.</p>
-                                <p class="mb-0">Dr. Arun Saroha, the best degenerative disc replacement surgeon in India, provides the best suitable treatment to effectively cure the condition. With more than 25+ years of experience, he provides the best treatment to cure the degeneration of the inverted discs. He has performed more than 6,000+ successful surgeries for brain and spinal problems. His surgical skills and using cutting-edge technology help him deliver the patients with excellent outcomes and bring more patients from around the world.</p>
+                                <p class="mb-0">Dr. Arun Saroha, the best degenerative disc replacement surgeon in India, provides the best suitable treatment to effectively cure the condition. With more than 26+ years of experience, he provides the best treatment to cure the degeneration of the inverted discs. He has performed more than 9,000+ successful surgeries for brain and spinal problems. His surgical skills and using cutting-edge technology help him deliver the patients with excellent outcomes and bring more patients from around the world.</p>
                         </div>
                         </div>
                         

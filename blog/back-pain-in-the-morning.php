@@ -85,7 +85,7 @@
             "name": "Dr. Arun Saroha",
             "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
             "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-            "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+            "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
             "medicalSpecialty": "Neurosurgery",
             "aggregateRating": {
                 "@type": "AggregateRating",
@@ -289,7 +289,7 @@
                                         <div class="redflag-box">
                                         <h2>When to See a Doctor: Red Flags</h2>
                                         <p>Most morning back pain is mechanical and settles with the measures above. But some patterns need a professional opinion rather than self-care, both to catch inflammatory arthritis early and to rule out anything more serious. If your symptoms are not improving after a few weeks of sensible changes, or if any of the warning signs below apply, arrange a review.</p>
-                                        <p>A spine specialist can examine you, ask the right questions about the pattern of your pain, and arrange imaging or blood tests only where they are genuinely needed. <strong>Dr. Arun Saroha</strong>, a Neuro and Spine Surgeon with over 20 years of experience, helps patients work out whether morning back pain is a simple mechanical issue or something that needs closer attention, and then guides them towards the least invasive effective treatment.</p>
+                                        <p>A spine specialist can examine you, ask the right questions about the pattern of your pain, and arrange imaging or blood tests only where they are genuinely needed. <strong>Dr. Arun Saroha</strong>, a Neuro and Spine Surgeon with over 26 years of experience, helps patients work out whether morning back pain is a simple mechanical issue or something that needs closer attention, and then guides them towards the least invasive effective treatment.</p>
                                         <ul class="blog-list">
                                             <li><strong>Morning stiffness lasting longer than 30 minutes (often much longer) that improves with exercise</strong>, especially if your back pain began <strong>before age 40</strong>. This inflammatory pattern may point to ankylosing spondylitis or axial spondyloarthritis and needs a rheumatology or spine review.</li>
                                             <li><strong>Night pain that repeatedly wakes you</strong> from sleep, particularly in the second half of the night.</li>
@@ -313,7 +313,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Consult the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years in neuro and spine surgery. Max Hospital, Gurugram and Dwarka, Delhi.</p>
+                                            <p>Dr. Arun Saroha — 26+ years in neuro and spine surgery. Max Hospital, Gurugram and Dwarka, Delhi.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

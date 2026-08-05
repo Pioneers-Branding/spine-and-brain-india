@@ -302,7 +302,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience specializing in endoscopic pituitary surgery, brain tumor surgery, and minimally invasive neurosurgery.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience specializing in endoscopic pituitary surgery, brain tumor surgery, and minimally invasive neurosurgery.",
       "medicalSpecialty": "Neurosurgery",
       "knowsAbout": ["Pituitary Adenoma Surgery", "Endoscopic Transsphenoidal Surgery", "Brain Tumor Surgery", "Minimally Invasive Neurosurgery", "Neuro-Oncology", "Skull Base Surgery"],
       "aggregateRating": {
@@ -636,7 +636,7 @@
                                         <h2 class="mb-0" style="margin-top:30px;">Why Choose Dr. Arun Saroha for Pituitary Surgery?</h2>
                                         <p class="mb-0">Choosing the right neurosurgeon is the single most important factor in determining the outcome of pituitary adenoma surgery. <strong>Dr. Arun Saroha</strong> is one of India&rsquo;s most experienced neurosurgeons in endoscopic pituitary and skull base surgery, practising at <strong>Max Super Speciality Hospital, Gurgaon</strong>. Here is why patients trust him with their care:</p>
                                         <ul class="mb-0">
-                                            <li><strong>20+ years of neurosurgical experience</strong> with a particular focus on endoscopic and minimally invasive techniques</li>
+                                            <li><strong>26+ years of neurosurgical experience</strong> with a particular focus on endoscopic and minimally invasive techniques</li>
                                             <li><strong>Extensive pituitary surgery caseload</strong> covering all adenoma subtypes including complex giant and invasive tumors</li>
                                             <li><strong>Advanced endoscopic expertise</strong> &mdash; uses the latest HD endoscopic systems with neuronavigation for precise tumor removal</li>
                                             <li><strong>High success rates</strong> with excellent hormone normalization and low complication rates</li>

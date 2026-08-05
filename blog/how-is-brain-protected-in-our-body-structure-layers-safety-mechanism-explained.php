@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/about",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -260,7 +260,7 @@
                                         <h2>When to Seek Medical Help</h2>
                                         <p>Most bumps to the head are harmless, cushioned exactly as nature intended by scalp, skull and fluid, and you do not need a hospital visit for every knock. What matters is recognising when the defences may have been breached — some problems, particularly a slowly spreading blood clot, can develop over hours even when a person looked completely well at first.</p>
                                         <p>Seek prompt medical attention after any head injury involving significant force, a fall from height or a road accident, or one followed by the red-flag signs above. Outside of trauma, a sudden very severe headache, a stiff neck with fever, or new problems with walking, memory or alertness also deserve urgent evaluation. When in doubt it is always safer to be checked, ideally with a <a href="/head-injury" title="Head Injury Treatment">head injury</a> assessment and, where needed, a scan.</p>
-                                        <p>For complex or worrying problems involving the brain, the judgement of an experienced neurosurgeon is invaluable. A specialist such as <strong>Dr. Arun Saroha</strong>, with over 20 years of experience in neuro and spine surgery, can determine whether a symptom is minor or points to something that needs treatment, and guide the right next step. You can learn more about surgical and non-surgical care on the <a href="/brain-surgery-in-India" title="Brain Surgery in India">brain surgery</a> page.</p>
+                                        <p>For complex or worrying problems involving the brain, the judgement of an experienced neurosurgeon is invaluable. A specialist such as <strong>Dr. Arun Saroha</strong>, with over 26 years of experience in neuro and spine surgery, can determine whether a symptom is minor or points to something that needs treatment, and guide the right next step. You can learn more about surgical and non-surgical care on the <a href="/brain-surgery-in-India" title="Brain Surgery in India">brain surgery</a> page.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Worried about a head injury or a persistent neurological symptom?</h3>
@@ -275,7 +275,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Contact</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

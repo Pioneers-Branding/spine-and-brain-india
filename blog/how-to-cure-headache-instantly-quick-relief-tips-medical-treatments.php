@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -253,7 +253,7 @@
 
                                         <h2>When Should You See a Doctor?</h2>
                                         <p>You do not need to rush to a clinic for every headache. An occasional headache that settles with water, rest and the simple steps above is rarely a cause for concern. But it is wise to see a doctor if your headaches are becoming more frequent or severe, if they are not responding to the usual measures, if they are disrupting your sleep, work or daily life, or if you are relying on painkillers more and more often.</p>
-                                        <p>And of course, any of the red-flag symptoms described earlier means you should seek help straight away rather than waiting. Timely assessment allows a specialist to work out whether your headache is a simple primary headache or a sign of an underlying problem, and to guide you towards the right treatment. For complex, persistent or neurological headaches, the opinion of an experienced neuro and spine specialist is especially valuable. <strong>Dr. Arun Saroha</strong>, a senior neurosurgeon with more than 20 years of experience who practises at Max Hospital, Gurugram and Dwarka, helps patients find the true cause of their headaches and the safest path to lasting relief.</p>
+                                        <p>And of course, any of the red-flag symptoms described earlier means you should seek help straight away rather than waiting. Timely assessment allows a specialist to work out whether your headache is a simple primary headache or a sign of an underlying problem, and to guide you towards the right treatment. For complex, persistent or neurological headaches, the opinion of an experienced neuro and spine specialist is especially valuable. <strong>Dr. Arun Saroha</strong>, a senior neurosurgeon with more than 26 years of experience who practises at Max Hospital, Gurugram and Dwarka, helps patients find the true cause of their headaches and the safest path to lasting relief.</p>
 
                                         <h2>How to Prevent Headaches: Everyday Habits That Help</h2>
                                         <p>Preventing headaches is almost always easier than curing them, and small, consistent habits make the biggest difference. Many people can cut down their headaches significantly just by removing the everyday triggers that quietly build up. Try to weave these simple measures into your routine.</p>
@@ -282,7 +282,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha &mdash; 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha &mdash; 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

@@ -276,7 +276,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience specializing in both open and minimally invasive brain tumor surgery.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience specializing in both open and minimally invasive brain tumor surgery.",
       "medicalSpecialty": "Neurosurgery",
       "knowsAbout": ["Open Brain Surgery", "Craniotomy", "Minimally Invasive Neurosurgery", "Endoscopic Brain Surgery", "Keyhole Craniotomy", "Transsphenoidal Surgery", "Neuronavigation Surgery"],
       "address": {
@@ -646,7 +646,7 @@
 
                                         <!-- DR. ARUN SAROHA'S EXPERTISE -->
                                         <h2 class="mb-0" style="margin-top:30px;">Dr. Arun Saroha's Expertise in Both Approaches</h2>
-                                        <p class="mb-0"><strong>Dr. Arun Saroha</strong> is one of India's most experienced neurosurgeons in both conventional and minimally invasive brain tumor surgery. With over 20 years of neurosurgical experience and more than 1,000 successful brain tumor surgeries, he brings a depth of expertise that allows him to select and execute the optimal surgical approach for each patient.</p>
+                                        <p class="mb-0"><strong>Dr. Arun Saroha</strong> is one of India's most experienced neurosurgeons in both conventional and minimally invasive brain tumor surgery. With over 26 years of neurosurgical experience and more than 1,000 successful brain tumor surgeries, he brings a depth of expertise that allows him to select and execute the optimal surgical approach for each patient.</p>
 
                                         <p class="mb-0">His qualifications and capabilities include:</p>
                                         <ul class="mb-0">

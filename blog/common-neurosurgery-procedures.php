@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/about",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -238,7 +238,7 @@
                                         <h2>How the Right Procedure Is Chosen</h2>
                                         <p>No two patients are identical, and choosing the correct procedure is a careful, individualised decision rather than a fixed formula. It begins with an accurate diagnosis, built from your <strong>symptoms and history</strong>, a thorough <strong>clinical and neurological examination</strong>, and high-quality imaging such as an MRI or CT scan (and sometimes an angiogram or nerve studies).</p>
                                         <p>From there, the surgeon weighs several factors together: exactly which structure is affected and where, how severe and how progressive the problem is, your age and general health, and your own goals and preferences. The same diagnosis can sometimes be treated in more than one valid way — for example, a neck disc problem might be suited to a fusion or to an artificial disc, and an aneurysm to clipping or coiling. The best choice balances effectiveness, safety and the realities of your particular situation.</p>
-                                        <p>This is exactly why the experience of the surgeon matters so much. A specialist such as <strong>Dr. Arun Saroha</strong>, with over 20 years of experience in neuro and spine surgery, focuses first on getting the diagnosis right and then on selecting the least invasive, most effective option for each patient — recommending surgery only when it is truly in the patient's best interest.</p>
+                                        <p>This is exactly why the experience of the surgeon matters so much. A specialist such as <strong>Dr. Arun Saroha</strong>, with over 26 years of experience in neuro and spine surgery, focuses first on getting the diagnosis right and then on selecting the least invasive, most effective option for each patient — recommending surgery only when it is truly in the patient's best interest.</p>
 
                                         <h2>Recovery After Neurosurgery: What to Expect</h2>
                                         <p>Recovery is one of the first things patients want to understand, and it varies widely depending on the procedure and the condition being treated. As a general guide, smaller and minimally invasive operations tend to have short, straightforward recoveries, while larger operations naturally take longer and often involve a period of rehabilitation.</p>
@@ -263,7 +263,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Contact</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

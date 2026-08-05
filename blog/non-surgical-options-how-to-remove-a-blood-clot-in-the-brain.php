@@ -85,7 +85,7 @@
             "name": "Dr. Arun Saroha",
             "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
             "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-            "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+            "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
             "medicalSpecialty": "Neurosurgery",
             "aggregateRating": {
                 "@type": "AggregateRating",
@@ -291,7 +291,7 @@
                                         <div class="redflag-box">
                                         <h2>Red flags and when to seek a neurosurgeon like Dr. Arun Saroha</h2>
                                         <p>A brain clot rarely gives you time to wait and see. For any <strong>sudden</strong> stroke symptom, the first call is to emergency services, not to a clinic, because the treatments that work best are the ones started fastest. Call your local emergency number immediately if you notice any of the warning signs below.</p>
-                                        <p>Once the emergency is stabilised, or when a clot or bleed has been found on a scan, the guidance of an experienced neurosurgeon becomes invaluable in choosing the safest path forward. <strong>Dr. Arun Saroha</strong>, a leading neuro and spine surgeon with over 20 years of experience at Max Hospital, Gurugram and Max Super Speciality Hospital, Dwarka, can review your scans and condition and help you understand which option is right for you or your loved one: conservative care, medication, a minimally invasive procedure or surgery.</p>
+                                        <p>Once the emergency is stabilised, or when a clot or bleed has been found on a scan, the guidance of an experienced neurosurgeon becomes invaluable in choosing the safest path forward. <strong>Dr. Arun Saroha</strong>, a leading neuro and spine surgeon with over 26 years of experience at Max Hospital, Gurugram and Max Super Speciality Hospital, Dwarka, can review your scans and condition and help you understand which option is right for you or your loved one: conservative care, medication, a minimally invasive procedure or surgery.</p>
                                         <ul class="blog-list">
                                             <li><strong>Face drooping</strong> on one side or a sudden uneven smile.</li>
                                             <li><strong>Sudden weakness or numbness</strong> of the arm, leg or face, especially on one side.</li>
@@ -315,7 +315,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Consult the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years in neuro and spine surgery. Max Hospital, Gurugram and Dwarka, Delhi.</p>
+                                            <p>Dr. Arun Saroha — 26+ years in neuro and spine surgery. Max Hospital, Gurugram and Dwarka, Delhi.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

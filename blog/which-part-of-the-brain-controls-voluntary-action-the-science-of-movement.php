@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -263,7 +263,7 @@
                                         <h2>When to consult a neurosurgeon like Dr. Arun Saroha</h2>
                                         <p>Not every ache or wobble needs a brain specialist. But movement problems that are <strong>new, worsening, one-sided or accompanied by other neurological symptoms</strong> &mdash; such as seizures, persistent headaches, vision changes or difficulty speaking &mdash; should be assessed properly rather than ignored.</p>
                                         <p>A neurosurgeon becomes especially important when imaging reveals a <strong>brain tumour, an aneurysm, the aftermath of a stroke, or pressure on the brain</strong> near the movement or speech areas. In these situations, the decision of whether to operate, and exactly how, calls for deep experience with the brain's eloquent regions.</p>
-                                        <p><strong>Dr. Arun Saroha</strong>, a leading neuro &amp; spine surgeon in India with over 20 years of experience, evaluates each case carefully &mdash; combining a detailed neurological examination with advanced imaging and brain-mapping techniques &mdash; to protect the very pathways that let you move. Getting the right opinion early can make a real difference to both safety and recovery.</p>
+                                        <p><strong>Dr. Arun Saroha</strong>, a leading neuro &amp; spine surgeon in India with over 26 years of experience, evaluates each case carefully &mdash; combining a detailed neurological examination with advanced imaging and brain-mapping techniques &mdash; to protect the very pathways that let you move. Getting the right opinion early can make a real difference to both safety and recovery.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Concerned about weakness, tremor or a movement problem?</h3>
@@ -278,7 +278,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Consult the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Book a Consultation</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

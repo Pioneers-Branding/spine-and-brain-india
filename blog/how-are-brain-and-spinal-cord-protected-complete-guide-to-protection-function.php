@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -272,7 +272,7 @@
 
                                         <h2>When to see a neuro and spine specialist</h2>
                                         <p>Beyond the emergencies listed above, there are quieter situations where an expert opinion is wise. Persistent or worsening headaches, ongoing neck or back pain, numbness or weakness that does not settle, unexplained unsteadiness, or lingering symptoms after an old head or spine injury all deserve proper assessment. A specialist can examine you, arrange the right scans if needed, and tell you whether you need reassurance, simple treatment, or a closer look.</p>
-                                        <p>For complex problems of the brain and spine, the guidance of an experienced surgeon is invaluable. <strong>Dr. Arun Saroha</strong> is a leading neuro &amp; spine surgeon in India with more than 20 years of experience at Max Hospital, Gurugram &amp; Dwarka. He and his team can assess your symptoms accurately and explain your options clearly, so you understand both the problem and the path forward.</p>
+                                        <p>For complex problems of the brain and spine, the guidance of an experienced surgeon is invaluable. <strong>Dr. Arun Saroha</strong> is a leading neuro &amp; spine surgeon in India with more than 26 years of experience at Max Hospital, Gurugram &amp; Dwarka. He and his team can assess your symptoms accurately and explain your options clearly, so you understand both the problem and the path forward.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Concerned about a head, spine or nervous system problem?</h3>
@@ -287,7 +287,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Consult the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Book a Consultation</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

@@ -53,7 +53,7 @@
                                         
                                         
                                         <h3 class="mb-0">Expertise and Experience</h3>
-                                        <p class="mb-0"> Dr. Saroha is a highly qualified neurosurgeon who has been practicing for over 20 years. He graduated and post-graduated from Rabindranath Tagore Medical College in Udaipur and obtained his M.Ch in Neurosurgery from the Postgraduate Institute of Medical Education & Research (PGIMER) in Chandigarh. Over the years, he has honed his skills and expertise in various domains of neurosurgery and spine surgery. He has worked with some of the most reputed neurosurgical hospitals in India, including VIMHANS, Paras Hospital, and Artemis Hospitals. At present, he provides his services at Max Hospital in Gurgaon and Saket.<p>
+                                        <p class="mb-0"> Dr. Saroha is a highly qualified neurosurgeon who has been practicing for over 26 years. He graduated and post-graduated from Rabindranath Tagore Medical College in Udaipur and obtained his M.Ch in Neurosurgery from the Postgraduate Institute of Medical Education & Research (PGIMER) in Chandigarh. Over the years, he has honed his skills and expertise in various domains of neurosurgery and spine surgery. He has worked with some of the most reputed neurosurgical hospitals in India, including VIMHANS, Paras Hospital, and Artemis Hospitals. At present, he provides his services at Max Hospital in Gurgaon and Saket.<p>
 
 </p>
             
@@ -79,7 +79,7 @@
                                          <p class="mb-0">Dr. Saroha is a member of many prestigious organizations in the field of neurology and spine surgery in India and the USA. He has been honored with many prestigious awards in the field of neurosurgery, including the Spine Surgeon Award by Big Research Awards. He has participated in various symposiums and workshops and has attended numerous national and international conferences.</p>
                                        
                                        <h3>Degenerative Disc Surgery in India</h3>
-                                         <p>Degenerative disc surgery is a treatment option for patients with severe symptoms of degenerative disc disease that have not responded to non-surgical treatments. Dr. Saroha has performed more than eight thousand surgeries successfully over the years and is an expert in the field of degenerative disc surgery.</p>
+                                         <p>Degenerative disc surgery is a treatment option for patients with severe symptoms of degenerative disc disease that have not responded to non-surgical treatments. Dr. Saroha has performed more than nine thousand surgeries successfully over the years and is an expert in the field of degenerative disc surgery.</p>
                                        
                                        <h4>Cost of Degenerative Disc Surgery in India</h4>
                                         <p>The cost of degenerative disc surgery in India is significantly lower than that in developed countries like the USA and the UK. The cost may vary depending on the type of surgery, the hospital, and the surgeon's fees. However, patients can expect to save up to 60-70% of the cost of surgery compared to developed countries.</p>
@@ -94,7 +94,7 @@
                                     
                                     <p>Here are some reasons why Dr. Arun Saroha may be the best choice for your treatment:</p>
                                     
-                                    <p><ol><li>Vast Experience: Dr. Saroha has over 20 years of experience in the field of neurosurgery, having worked with some of the top neurosurgical hospitals in India, including VIMHANS, Paras Hospital, Artemis Hospital, and Max Hospital. He has performed over eight thousand successful surgeries, making him a highly skilled and experienced surgeon.</li></p>
+                                    <p><ol><li>Vast Experience: Dr. Saroha has over 26 years of experience in the field of neurosurgery, having worked with some of the top neurosurgical hospitals in India, including VIMHANS, Paras Hospital, Artemis Hospital, and Max Hospital. He has performed over nine thousand successful surgeries, making him a highly skilled and experienced surgeon.</li></p>
                                     
                                         <li>Specialization in Spine Disorders: Dr. Saroha has a particular interest in treating spine disorders and is an expert in degenerative spine disorders, disc replacements, and complex spine fixation. He offers comprehensive care for all types of neurological problems, and his team provides the best possible treatment options for patients.</li></p>
                                     

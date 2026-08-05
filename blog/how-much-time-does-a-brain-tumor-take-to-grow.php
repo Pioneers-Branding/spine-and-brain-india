@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/about",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -266,7 +266,7 @@
                                         <h2>When to See a Doctor and How a Brain Tumor Is Diagnosed</h2>
                                         <p>You should see a doctor if you have a new, persistent or progressive headache that is different from your usual pattern, any of the red-flag symptoms above, or unexplained neurological changes that do not settle. A sudden, severe &ldquo;worst-ever&rdquo; headache, a first seizure, or the rapid onset of weakness, confusion or speech difficulty should be treated as an emergency and assessed straight away.</p>
                                         <p>The single most important test is an <strong>MRI of the brain</strong>, usually with a contrast dye, which shows the size, location and characteristics of a tumour in fine detail. A <strong>CT scan</strong> is often used first in an emergency or when an MRI is not possible. To confirm the exact type and grade, a <strong>biopsy</strong> &mdash; or examination of tissue removed during surgery &mdash; is usually needed, increasingly supported by molecular tests that fine-tune both the diagnosis and the treatment plan. When a tumour is identified, an experienced surgeon weighs these findings together to decide on the safest approach, whether that means watchful monitoring, <a href="/brain-tumor-surgery-in-India" title="Brain Tumor Surgery in India">brain tumor surgery</a>, or a combination of treatments.</p>
-                                        <p>Because brain conditions are complex, the opinion of an experienced neurosurgeon is invaluable. A specialist such as <strong>Dr. Arun Saroha</strong>, with over 20 years of experience, can interpret your scans, explain what the growth rate means for you specifically, and guide you calmly through the options rather than leaving you to worry over an uncertain timeline.</p>
+                                        <p>Because brain conditions are complex, the opinion of an experienced neurosurgeon is invaluable. A specialist such as <strong>Dr. Arun Saroha</strong>, with over 26 years of experience, can interpret your scans, explain what the growth rate means for you specifically, and guide you calmly through the options rather than leaving you to worry over an uncertain timeline.</p>
 
                                         <h2>Why Early Detection Matters</h2>
                                         <p>Whatever the growth rate, catching a brain tumour earlier generally opens up more and better options. A smaller tumour is often easier and safer to remove and gives treatment the best chance of working. For slow-growing tumours, early detection may simply mean careful monitoring; for fast-growing ones, it means treatment can begin without losing valuable weeks. None of this means you should panic over every headache &mdash; the vast majority are harmless. It simply means that persistent, unusual or progressive symptoms deserve to be taken seriously and assessed properly, because early, accurate diagnosis followed by expert care is the most powerful tool we have against a brain tumour of any speed.</p>
@@ -284,7 +284,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha — 20+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha — 26+ years of experience in Neuro &amp; Spine Surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact">Contact</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

@@ -74,7 +74,7 @@
       "name": "Dr. Arun Saroha",
       "url": "https://spineandbrainindia.com/dr-arun-saroha.php",
       "image": "https://spineandbrainindia.com/assets/images/resources2/drarundef_11zon.webp",
-      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 20+ years of experience.",
+      "description": "Dr. Arun Saroha is a leading neurosurgeon in India with over 26+ years of experience.",
       "medicalSpecialty": "Neurosurgery",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -265,7 +265,7 @@
                                         <h2>When surgery still cannot be avoided</h2>
                                         <p>As a neurosurgeon, I would be dishonest if I suggested surgery can always be sidestepped. For many tumors, an operation remains the safest, fastest and most effective first step &mdash; and it is important to know when. Surgery is often necessary when a tumor is large and pressing dangerously on the brain, when that pressure must be relieved quickly, or when we need a proper tissue sample to make an exact diagnosis so that any later non-surgical treatment can be chosen correctly.</p>
                                         <p>Even then, surgery and non-surgical treatment are not rivals; they are partners. Very often the best outcome comes from a <strong>combination</strong> &mdash; for example, removing as much of a tumor as is safe, then using radiotherapy or medicines to treat what remains. Today&rsquo;s techniques, including image-guided and minimally invasive approaches, have made brain surgery far safer and recovery quicker than many people fear. The goal is always the same: the greatest benefit with the least harm.</p>
-                                        <p>This is why the most important step is not choosing surgery or radiation in advance, but getting a careful assessment from an experienced team. A senior neuro and spine surgeon such as <strong>Dr. Arun Saroha</strong>, who has over 20 years of experience and practises at Max Hospital, Gurugram &amp; Dwarka, can review your scans, arrange the right tests, and honestly tell you whether your tumor can be managed without surgery, needs an operation, or is best treated with a combination of methods. Please remember that this article is for general information and awareness only, and is not a substitute for a personal medical consultation.</p>
+                                        <p>This is why the most important step is not choosing surgery or radiation in advance, but getting a careful assessment from an experienced team. A senior neuro and spine surgeon such as <strong>Dr. Arun Saroha</strong>, who has over 26 years of experience and practises at Max Hospital, Gurugram &amp; Dwarka, can review your scans, arrange the right tests, and honestly tell you whether your tumor can be managed without surgery, needs an operation, or is best treated with a combination of methods. Please remember that this article is for general information and awareness only, and is not a substitute for a personal medical consultation.</p>
 
                                         <div class="blog-cta mt-4">
                                             <h3>Worried about a brain tumor diagnosis?</h3>
@@ -280,7 +280,7 @@
                                     <aside class="sidebar blog-sidebar w-100">
                                         <div class="widget-box2 consult-card">
                                             <h4>Meet the Specialist</h4>
-                                            <p>Dr. Arun Saroha &mdash; 20+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
+                                            <p>Dr. Arun Saroha &mdash; 26+ years of experience in neuro &amp; spine surgery. Max Hospital, Gurugram &amp; Dwarka.</p>
                                             <a class="thm-btn thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/contact" title="Contact Us">Contact Us</a>
                                             <p style="margin-top:16px; margin-bottom:0;"><a href="tel:+917860000705" style="color:#fff;"><i class="fas fa-phone-alt"></i> +91 78600 00705</a></p>
                                         </div>

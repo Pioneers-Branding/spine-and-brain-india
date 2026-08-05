@@ -196,7 +196,7 @@
                                     <li>Experience of the surgeon</li>
                                 </ul>
                                 <p class="mb-0">To know more about brain tumor removal surgery in Delhi, consult today with Dr. Arun Saroha, the best brain tumor surgeon in India.</p>
-                                <p class="mb-0">Dr. Arun Saroha, an expert neurosurgeon who specializes in the treatment of brain tumors and other central nervous system tumors in Delhi. He employs advanced imaging techniques and microsurgery to ensure maximal tumor removal and achieve the safest possible surgical outcomes. With more than 25+ years of experience, he provides the best treatment to cure brain tumor conditions. He has performed more than 6,000+ successful surgeries for brain and spinal problems. His surgical skills and using cutting-edge technology help him deliver the patients with excellent outcomes and bring more patients from around the world.</p>
+                                <p class="mb-0">Dr. Arun Saroha, an expert neurosurgeon who specializes in the treatment of brain tumors and other central nervous system tumors in Delhi. He employs advanced imaging techniques and microsurgery to ensure maximal tumor removal and achieve the safest possible surgical outcomes. With more than 26+ years of experience, he provides the best treatment to cure brain tumor conditions. He has performed more than 9,000+ successful surgeries for brain and spinal problems. His surgical skills and using cutting-edge technology help him deliver the patients with excellent outcomes and bring more patients from around the world.</p>
                             </div>
                             
                     </div>

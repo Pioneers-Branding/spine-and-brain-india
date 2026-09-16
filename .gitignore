@@ -1,3 +1,6 @@
 
 *.zip
 copy/analytics.zip
+generate_lead_magnets.py
+lead_magnets.json
+scratch/

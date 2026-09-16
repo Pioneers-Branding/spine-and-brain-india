@@ -18,149 +18,53 @@ RewriteRule ^about-us/docto(.*)$ /about [R=301,L]
 RewriteRule ^about-us/?$ /about [R=301,L]
 RewriteRule ^about/doctors-profile/?$ / [R=301,L]
 RewriteRule ^about/$ /about [R=301,L]
-Redirect 301 '/blog/how-long-does-it-take-to-recover-from-cervical-spine-surgery/' 'https://spineandbrainindia.com//blog/en/how-long-does-it-take-to-recover-from-cervical-spine-surgery/'
-Redirect 301 '/best-treatment-cervical-spondylosis-in-India' 'https://spineandbrainindia.com'
 
+# Redirects for old/deprecated standalone pages to homepage
+RedirectMatch 301 ^/best-treatment-cervical-spondylosis-in-India(\.php)?/?$ /
+RedirectMatch 301 ^/brain-haemorrhage/?$ /
+RedirectMatch 301 ^/brain-tumor-type-cancer/?$ /
+RedirectMatch 301 ^/best-spine-surgeon-in-delhi/?$ /
+RedirectMatch 301 ^/portfolio/brain-tumor/?$ /
+RedirectMatch 301 ^/portfolio/disc-herniation/?$ /
+RedirectMatch 301 ^/services\.html$ /
+RedirectMatch 301 ^/course-detail\.html$ /
+RedirectMatch 301 ^/contact-us/?$ /contact
+RedirectMatch 301 ^/spondylosis/?$ /
+RedirectMatch 301 ^/slipped-disc-surgery/?$ /
+RedirectMatch 301 ^/make-an-appointment/?$ /contact
+RedirectMatch 301 ^/ind/?$ /
+RedirectMatch 301 ^/new-service/?$ /
+RedirectMatch 301 ^/new-location-page/?$ /
 
-Redirect 301 '/best-treatment-cervical-spondylosis-in-India' 'https://spineandbrainindia.com/'
-Redirect 301 '/blog/2024/12/' 'https://spineandbrainindia.com/'
-Redirect 301 '/blog/how-is-neurosurgery-done/' 'https://spineandbrainindia.com/blog/en/how-is-neurosurgery-done/'
-# Redirect 301 '/best-hospital-' 'https://spineandbrainindia.com/'  # DISABLED - was redirecting all best-* pages to homepage
-# Redirect 301 '/best-' 'https://spineandbrainindia.com/'  # DISABLED - was redirecting all best-* pages to homepage
-
-Redirect 301 '/best-treatment-cervical-spondylosis-in-India.php' 'https://spineandbrainindia.com/'
-Redirect 301 'https://spineandbrainindia.com/degenerative-disc-disease-treatment-in-India/' 'https://spineandbrainindia.com/degenerative-disc-disease-treatment-in-India'
-
-
-Redirect 301 '/brain-haemorrhage/' 'https://spineandbrainindia.com/'
-Redirect 301 '/blog/what-is-the-best-treatment-for-lower-back-pain/' 'https://spineandbrainindia.com//blog/en/what-is-the-best-treatment-for-lower-back-pain/'
-Redirect 301 '/blog/how-i-cured-my-degenerative-disc-disease/feed/' 'https://spineandbrainindia.com/en/blog/how-i-cured-my-degenerative-disc-disease/'
-Redirect 301 '/blog/does-brain-tumor-surgery-work/' 'https://spineandbrainindia.com/en/blog/does-brain-tumor-surgery-work/'
-Redirect 301 '/blog/is-disc-replacement-surgery-worth-it/' 'https://spineandbrainindia.com/en//blog/is-disc-replacement-surgery-worth-it/'
-Redirect 301 '/blog/is-scoliosis-surgery-safe/' 'https://spineandbrainindia.com/en/blog/is-scoliosis-surgery-safe/'
-Redirect 301 '/blog/how-is-cervical-spine-surgery-done/' 'https://spineandbrainindia.com/en/blog/how-is-cervical-spine-surgery-done/'
-Redirect 301 '/scoliosis-treatment-in-india' 'https://spineandbrainindia.com/'
-Redirect 301 '/best-hospital-doctor-' 'https://spineandbrainindia.com/'
-# about redirects handled via RewriteRule above to avoid mod_alias conflicts
-Redirect 301 '/best-spine-surgeon-in-delhi/' 'https://spineandbrainindia.com/'
-Redirect 301 '/portfolio/brain-tumor/' 'https://spineandbrainindia.com/'
-# Redirect 301 '/best' 'https://spineandbrainindia.com/'  # DISABLED - was redirecting all best-* pages to homepage
-Redirect 301 '/services.html' 'https://spineandbrainindia.com/'
-Redirect 301 '/portfolio/disc-herniation/' 'https://spineandbrainindia.com/'
-Redirect 301 '/contact-us/' 'https://spineandbrainindia.com/'
-Redirect 301 '/spondylosis/' 'https://spineandbrainindia.com/'
-Redirect 301 '/slipped-disc-surgery/' 'https://spineandbrainindia.com/'
-Redirect 301 '/course-detail.html' 'https://spineandbrainindia.com/'
-Redirect 301 '/best-spine-surgeon-in-delhi' 'https://spineandbrainindia.com/'
-Redirect 301 '/scoliosis-treatment-' 'https://spineandbrainindia.com/'
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Redirect 301 "/blood-clot-brain-treatment-in-India-1" "https://spineandbrainindia.com/blood-clot-brain-treatment-in-India"
-Redirect 301 "/brain-tumor-surgery-in-india1" "https://spineandbrainindia.com/brain-tumor-surgery-in-India"
-Redirect 301 "/brain-surgery-in-India1" "https://spineandbrainindia.com/brain-surgery-in-India"
-Redirect 301 "/brain-aneurysm-treatment-in-India1" "https://spineandbrainindia.com/brain-aneurysm-treatment-in-India"
-Redirect 301 "/best-headache-treatment-in-India1" "https://spineandbrainindia.com/headache-treatment-in-India"
-Redirect 301 "/scoliosis-treatment-in-India1" "https://spineandbrainindia.com/scoliosis-treatment-in-India"
-Redirect 301 "/brachial-plexus-treatment-in-india" "https://spineandbrainindia.com/brachial-plexus-treatment-in-india"
-Redirect 301 "/blood-clot-brain-treatment-in-India-old" "/blood-clot-brain-treatment-in-India"
-Redirect 301 "/cervical-spine-surgery" "/cervical-spine-surgery-in-India"
-Redirect 301 "/disc-replacement-surgery-in-india-old" "/disc-replacement-surgery-in-india"
-Redirect 301 "/scoliosis-treatment-in-India-old" "/scoliosis-treatment-in-India"
-Redirect 301 "/back-pain-treatment" "/back-pain-treatment-in-India"
-Redirect 301 "/spinal-stenosis-surgery" "/spinal-stenosis-surgery-in-India"
-Redirect 301 "/endoscopic-removal-of-spinal-tumors-treatment-in-india" "/endoscopic-spine-tumor-surgery-in-india"
-Redirect 301 "/brachial-plexus-injury" "/brachial-plexus-treatment-in-india"
-Redirect 301 "/back-pain-treatment-in-delhi" "/back-pain-treatment-in-India"
-Redirect 301 "/back-pain-treatment-in-gurgaon" "/back-pain-treatment-in-India"
-Redirect 301 "/brain-aneurysm-treatment-in-India-old" "/brain-aneurysm-treatment-in-India"
-Redirect 301 "/brain-tumor-surgery-in-india-old" "/brain-tumor-surgery-in-India"
-Redirect 301 "/brain-tumor" "/brain-tumor-surgery-in-India"
-Redirect 301 "/brain-surgery-in-India" "/brain-tumor-surgery-in-India"
-Redirect 301 "/brain-surgery-in-India-old" "/brain-tumor-surgery-in-India"
-Redirect 301 "/best-headache-treatment-in-India-old" "/headache-treatment-in-India"
-Redirect 301 "/migraine-headache" "/headache-treatment-in-India"
-Redirect 301 "/degenerative-disc-disease" "/degenerative-disc-disease-treatment-in-India"
-Redirect 301 "/disc-replacement-surgery" "/disc-replacement-surgery-in-india"
-Redirect 301 "/hydrocephalus-treatment-in-india" "/hydrocephalus"
-Redirect 301 "/ind" "/"
-Redirect 301 "/new-service" "/"
-Redirect 301 "/new-location-page" "/"
-Redirect 301 "/scoliosis" "/scoliosis-treatment-in-India"
-
-
-
-
-
-Redirect 301 '/brain-tumor-type-cancer/' 'https://spineandbrainindia.com/'
-Redirect 301 'https://spineandbrainindia.com/blog/how-long-does-it-take-to-recover-from-cervical-spine-surgery/' 'https://spineandbrainindia.com/'
-Redirect 301 'https://spineandbrainindia.com/best-treatment-cervical-spondylosis-in-India' 'https://spineandbrainindia.com/'
-Redirect 301 'https://spineandbrainindia.com/blog/2024/12/' 'https://spineandbrainindia.com/'
-Redirect 301 'https://spineandbrainindia.com/blog/how-is-neurosurgery-done/' 'https://spineandbrainindia.com/'
-# Redirect 301 'https://spineandbrainindia.com/best-hospital-' 'https://spineandbrainindia.com/'  # DISABLED
-# Redirect 301 'https://spineandbrainindia.com/best-' 'https://spineandbrainindia.com/'  # DISABLED
-Redirect 301 'https://spineandbrainindia.com/best-treatment-cervical-spondylosis-in-India.php' 'https://spineandbrainindia.com/'
-Redirect 301 'https://spineandbrainindia.com/brain-haemorrhage/' 'https://spineandbrainindia.com/'
-Redirect 301 'https://spineandbrainindia.com/blog/how-i-cured-my-degenerative-disc-disease/feed/' 'https://spineandbrainindia.com/'
-Redirect 301 'https://spineandbrainindia.com/scoliosis-treatment-in-india' 'https://spineandbrainindia.com/'
-Redirect 301 'https://spineandbrainindia.com/best-hospital-doctor-' 'https://spineandbrainindia.com/'
-Redirect 301 'https://spineandbrainindia.com/about-us/doctors-profile/' 'https://spineandbrainindia.com/'
-Redirect 301 'https://spineandbrainindia.com/best-spine-surgeon-in-delhi/' 'https://spineandbrainindia.com/'
-Redirect 301 'https://spineandbrainindia.com/portfolio/brain-tumor/' 'https://spineandbrainindia.com/'
-# Redirect 301 'https://spineandbrainindia.com/best' 'https://spineandbrainindia.com/'  # DISABLED
-Redirect 301 'https://spineandbrainindia.com/services.html' 'https://spineandbrainindia.com/'
-Redirect 301 'https://spineandbrainindia.com/portfolio/disc-herniation/' 'https://spineandbrainindia.com/'
-Redirect 301 'https://spineandbrainindia.com/contact-us/' 'https://spineandbrainindia.com/'
-Redirect 301 'https://spineandbrainindia.com/spondylosis/' 'https://spineandbrainindia.com/'
-Redirect 301 'https://spineandbrainindia.com/slipped-disc-surgery/' 'https://spineandbrainindia.com/'
-Redirect 301 'https://spineandbrainindia.com/course-detail.html' 'https://spineandbrainindia.com/'
-Redirect 301 'https://spineandbrainindia.com/best-spine-surgeon-in-delhi' 'https://spineandbrainindia.com/'
-Redirect 301 'https://spineandbrainindia.com/scoliosis-treatment-' 'https://spineandbrainindia.com/'
-Redirect 301 'https://spineandbrainindia.com/make-an-appointment/' 'https://spineandbrainindia.com/'
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Specific exact redirects to treatment pages (Using RedirectMatch so regional city pages are NOT hijacked)
+RedirectMatch 301 ^/blood-clot-brain-treatment-in-India-1/?$ /blood-clot-brain-treatment-in-India
+RedirectMatch 301 ^/blood-clot-brain-treatment-in-India-old/?$ /blood-clot-brain-treatment-in-India
+RedirectMatch 301 ^/brain-tumor-surgery-in-india1/?$ /brain-tumor-surgery-in-India
+RedirectMatch 301 ^/brain-tumor-surgery-in-india-old/?$ /brain-tumor-surgery-in-India
+RedirectMatch 301 ^/brain-tumor/?$ /brain-tumor-surgery-in-India
+RedirectMatch 301 ^/brain-surgery-in-India1/?$ /brain-surgery-in-India
+RedirectMatch 301 ^/brain-surgery-in-India/?$ /brain-tumor-surgery-in-India
+RedirectMatch 301 ^/brain-surgery-in-India-old/?$ /brain-tumor-surgery-in-India
+RedirectMatch 301 ^/brain-aneurysm-treatment-in-India1/?$ /brain-aneurysm-treatment-in-India
+RedirectMatch 301 ^/brain-aneurysm-treatment-in-India-old/?$ /brain-aneurysm-treatment-in-India
+RedirectMatch 301 ^/best-headache-treatment-in-India1/?$ /headache-treatment-in-India
+RedirectMatch 301 ^/best-headache-treatment-in-India-old/?$ /headache-treatment-in-India
+RedirectMatch 301 ^/migraine-headache/?$ /headache-treatment-in-India
+RedirectMatch 301 ^/scoliosis/?$ /scoliosis-treatment-in-India
+RedirectMatch 301 ^/scoliosis-treatment-in-India1/?$ /scoliosis-treatment-in-India
+RedirectMatch 301 ^/scoliosis-treatment-in-India-old/?$ /scoliosis-treatment-in-India
+RedirectMatch 301 ^/cervical-spine-surgery/?$ /cervical-spine-surgery-in-India
+RedirectMatch 301 ^/back-pain-treatment/?$ /back-pain-treatment-in-India
+RedirectMatch 301 ^/back-pain-treatment-in-delhi/?$ /back-pain-treatment-in-India
+RedirectMatch 301 ^/back-pain-treatment-in-gurgaon/?$ /back-pain-treatment-in-India
+RedirectMatch 301 ^/spinal-stenosis-surgery/?$ /spinal-stenosis-surgery-in-India
+RedirectMatch 301 ^/degenerative-disc-disease/?$ /degenerative-disc-disease-treatment-in-India
+RedirectMatch 301 ^/disc-replacement-surgery/?$ /disc-replacement-surgery-in-india
+RedirectMatch 301 ^/disc-replacement-surgery-in-india-old/?$ /disc-replacement-surgery-in-india
+RedirectMatch 301 ^/endoscopic-removal-of-spinal-tumors-treatment-in-india/?$ /endoscopic-spine-tumor-surgery-in-india
+RedirectMatch 301 ^/brachial-plexus-injury/?$ /brachial-plexus-treatment-in-india
+RedirectMatch 301 ^/hydrocephalus-treatment-in-india/?$ /hydrocephalus
 
 # php -- BEGIN cPanel-generated handler, do not edit
 # This domain inherits the “PHP” package.
 # php -- END cPanel-generated handler, do not edit
-
-
-

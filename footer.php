@@ -225,14 +225,6 @@ function googleTranslateElementInit() {
     </script>
 
 
-        <script src="https://t.usermaven.com/lib.js"
-    data-key="UMxFxpQnWy"
-    data-tracking-host="https://events.usermaven.com"
-    data-autocapture="true"
-    defer>
-</script>
-<script>window.usermaven = window.usermaven || (function(){(window.usermavenQ = window.usermavenQ || []).push(arguments);})</script>
-      
         <!--- Popupular JS Tag --->
 <!--<script type="text/javascript">
     window.Popupular || function (w, d, s, u, p) {

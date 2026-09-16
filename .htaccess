@@ -1,69 +1,77 @@
-RewriteEngine on
+﻿RewriteEngine On
 
-RewriteCond %{HTTP_HOST} ^www.spineandbrainindia.com$ [NC]
+# Canonical: www to non-www
+RewriteCond %{HTTP_HOST} ^www\.spineandbrainindia\.com$ [NC]
 RewriteRule ^(.*)$ https://spineandbrainindia.com/$1 [L,R=301]
 
-# To externally redirect /dir/foo.php to /dir/foo
-RewriteCond %{REQUEST_METHOD} !POST
-RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /(.+)\.php\ HTTP/ [NC]
-RewriteRule ^(.+)\.php$ /$1 [R=301,L]
+# 1. External redirect: /index.php to /
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.php\ HTTP/ [NC]
+RewriteRule ^index\.php$ / [R=301,L]
 
-# Internally add .php extension for clean URLs
+# 2. External redirect: /page.php to /page (direct browser requests with .php)
+RewriteCond %{REQUEST_METHOD} !POST
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /([^.]+)\.php [NC]
+RewriteRule ^([^.]+)\.php$ /$1 [R=301,L]
+
+# 3. Internally add .php extension for clean URLs (serves /page from page.php)
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php [L]
 
-# Old about-us redirects (using RewriteRule to avoid mod_alias conflicts)
-RewriteRule ^about-us/docto(.*)$ /about [R=301,L]
-RewriteRule ^about-us/?$ /about [R=301,L]
-RewriteRule ^about/doctors-profile/?$ / [R=301,L]
-RewriteRule ^about/$ /about [R=301,L]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{DOCUMENT_ROOT}/$1.php -f
+RewriteRule ^(.*)$ $1.php [L]
 
-# Redirects for old/deprecated standalone pages to homepage
-RedirectMatch 301 ^/best-treatment-cervical-spondylosis-in-India(\.php)?/?$ /
-RedirectMatch 301 ^/brain-haemorrhage/?$ /
-RedirectMatch 301 ^/brain-tumor-type-cancer/?$ /
-RedirectMatch 301 ^/best-spine-surgeon-in-delhi/?$ /
-RedirectMatch 301 ^/portfolio/brain-tumor/?$ /
-RedirectMatch 301 ^/portfolio/disc-herniation/?$ /
-RedirectMatch 301 ^/services\.html$ /
-RedirectMatch 301 ^/course-detail\.html$ /
-RedirectMatch 301 ^/contact-us/?$ /contact
-RedirectMatch 301 ^/spondylosis/?$ /
-RedirectMatch 301 ^/slipped-disc-surgery/?$ /
-RedirectMatch 301 ^/make-an-appointment/?$ /contact
-RedirectMatch 301 ^/ind/?$ /
-RedirectMatch 301 ^/new-service/?$ /
-RedirectMatch 301 ^/new-location-page/?$ /
+# 4. Old about-us redirects
+RewriteRule ^about-us/docto(.*)$ /about [R=301,L,NC]
+RewriteRule ^about-us/?$ /about [R=301,L,NC]
+RewriteRule ^about/doctors-profile/?$ / [R=301,L,NC]
+RewriteRule ^about/$ /about [R=301,L,NC]
 
-# Specific exact redirects to treatment pages (Using RedirectMatch so regional city pages are NOT hijacked)
-RedirectMatch 301 ^/blood-clot-brain-treatment-in-India-1/?$ /blood-clot-brain-treatment-in-India
-RedirectMatch 301 ^/blood-clot-brain-treatment-in-India-old/?$ /blood-clot-brain-treatment-in-India
-RedirectMatch 301 ^/brain-tumor-surgery-in-india1/?$ /brain-tumor-surgery-in-India
-RedirectMatch 301 ^/brain-tumor-surgery-in-india-old/?$ /brain-tumor-surgery-in-India
-RedirectMatch 301 ^/brain-tumor/?$ /brain-tumor-surgery-in-India
-RedirectMatch 301 ^/brain-surgery-in-India1/?$ /brain-surgery-in-India
-RedirectMatch 301 ^/brain-surgery-in-India/?$ /brain-tumor-surgery-in-India
-RedirectMatch 301 ^/brain-surgery-in-India-old/?$ /brain-tumor-surgery-in-India
-RedirectMatch 301 ^/brain-aneurysm-treatment-in-India1/?$ /brain-aneurysm-treatment-in-India
-RedirectMatch 301 ^/brain-aneurysm-treatment-in-India-old/?$ /brain-aneurysm-treatment-in-India
-RedirectMatch 301 ^/best-headache-treatment-in-India1/?$ /headache-treatment-in-India
-RedirectMatch 301 ^/best-headache-treatment-in-India-old/?$ /headache-treatment-in-India
-RedirectMatch 301 ^/migraine-headache/?$ /headache-treatment-in-India
-RedirectMatch 301 ^/scoliosis/?$ /scoliosis-treatment-in-India
-RedirectMatch 301 ^/scoliosis-treatment-in-India1/?$ /scoliosis-treatment-in-India
-RedirectMatch 301 ^/scoliosis-treatment-in-India-old/?$ /scoliosis-treatment-in-India
-RedirectMatch 301 ^/cervical-spine-surgery/?$ /cervical-spine-surgery-in-India
-RedirectMatch 301 ^/back-pain-treatment/?$ /back-pain-treatment-in-India
-RedirectMatch 301 ^/back-pain-treatment-in-delhi/?$ /back-pain-treatment-in-India
-RedirectMatch 301 ^/back-pain-treatment-in-gurgaon/?$ /back-pain-treatment-in-India
-RedirectMatch 301 ^/spinal-stenosis-surgery/?$ /spinal-stenosis-surgery-in-India
-RedirectMatch 301 ^/degenerative-disc-disease/?$ /degenerative-disc-disease-treatment-in-India
-RedirectMatch 301 ^/disc-replacement-surgery/?$ /disc-replacement-surgery-in-india
-RedirectMatch 301 ^/disc-replacement-surgery-in-india-old/?$ /disc-replacement-surgery-in-india
-RedirectMatch 301 ^/endoscopic-removal-of-spinal-tumors-treatment-in-india/?$ /endoscopic-spine-tumor-surgery-in-india
-RedirectMatch 301 ^/brachial-plexus-injury/?$ /brachial-plexus-treatment-in-india
-RedirectMatch 301 ^/hydrocephalus-treatment-in-india/?$ /hydrocephalus
+# 5. Redirects for old/deprecated standalone pages to homepage
+RewriteRule ^best-treatment-cervical-spondylosis-in-India(\.php)?/?$ / [R=301,L,NC]
+RewriteRule ^brain-haemorrhage/?$ / [R=301,L,NC]
+RewriteRule ^brain-tumor-type-cancer/?$ / [R=301,L,NC]
+RewriteRule ^best-spine-surgeon-in-delhi/?$ / [R=301,L,NC]
+RewriteRule ^portfolio/brain-tumor/?$ / [R=301,L,NC]
+RewriteRule ^portfolio/disc-herniation/?$ / [R=301,L,NC]
+RewriteRule ^services\.html$ / [R=301,L,NC]
+RewriteRule ^course-detail\.html$ / [R=301,L,NC]
+RewriteRule ^contact-us/?$ /contact [R=301,L,NC]
+RewriteRule ^spondylosis/?$ / [R=301,L,NC]
+RewriteRule ^slipped-disc-surgery/?$ / [R=301,L,NC]
+RewriteRule ^make-an-appointment/?$ /contact [R=301,L,NC]
+RewriteRule ^ind/?$ / [R=301,L,NC]
+RewriteRule ^new-service/?$ / [R=301,L,NC]
+RewriteRule ^new-location-page/?$ / [R=301,L,NC]
+
+# 6. Specific exact redirects to treatment pages (Ensures regional city pages are NOT hijacked)
+RewriteRule ^blood-clot-brain-treatment-in-India-1/?$ /blood-clot-brain-treatment-in-India [R=301,L,NC]
+RewriteRule ^blood-clot-brain-treatment-in-India-old/?$ /blood-clot-brain-treatment-in-India [R=301,L,NC]
+RewriteRule ^brain-tumor-surgery-in-india1/?$ /brain-tumor-surgery-in-India [R=301,L,NC]
+RewriteRule ^brain-tumor-surgery-in-india-old/?$ /brain-tumor-surgery-in-India [R=301,L,NC]
+RewriteRule ^brain-tumor/?$ /brain-tumor-surgery-in-India [R=301,L,NC]
+RewriteRule ^brain-surgery-in-India1/?$ /brain-surgery-in-India [R=301,L,NC]
+RewriteRule ^brain-surgery-in-India/?$ /brain-tumor-surgery-in-India [R=301,L,NC]
+RewriteRule ^brain-surgery-in-India-old/?$ /brain-tumor-surgery-in-India [R=301,L,NC]
+RewriteRule ^brain-aneurysm-treatment-in-India1/?$ /brain-aneurysm-treatment-in-India [R=301,L,NC]
+RewriteRule ^brain-aneurysm-treatment-in-India-old/?$ /brain-aneurysm-treatment-in-India [R=301,L,NC]
+RewriteRule ^best-headache-treatment-in-India1/?$ /headache-treatment-in-India [R=301,L,NC]
+RewriteRule ^best-headache-treatment-in-India-old/?$ /headache-treatment-in-India [R=301,L,NC]
+RewriteRule ^migraine-headache/?$ /headache-treatment-in-India [R=301,L,NC]
+RewriteRule ^scoliosis/?$ /scoliosis-treatment-in-India [R=301,L,NC]
+RewriteRule ^scoliosis-treatment-in-India1/?$ /scoliosis-treatment-in-India [R=301,L,NC]
+RewriteRule ^scoliosis-treatment-in-India-old/?$ /scoliosis-treatment-in-India [R=301,L,NC]
+RewriteRule ^cervical-spine-surgery/?$ /cervical-spine-surgery-in-India [R=301,L,NC]
+RewriteRule ^back-pain-treatment/?$ /back-pain-treatment-in-India [R=301,L,NC]
+RewriteRule ^back-pain-treatment-in-gurgaon/?$ /back-pain-treatment-in-India [R=301,L,NC]
+RewriteRule ^spinal-stenosis-surgery/?$ /spinal-stenosis-surgery-in-India [R=301,L,NC]
+RewriteRule ^degenerative-disc-disease/?$ /degenerative-disc-disease-treatment-in-India [R=301,L,NC]
+RewriteRule ^disc-replacement-surgery/?$ /disc-replacement-surgery-in-india [R=301,L,NC]
+RewriteRule ^disc-replacement-surgery-in-india-old/?$ /disc-replacement-surgery-in-india [R=301,L,NC]
+RewriteRule ^endoscopic-removal-of-spinal-tumors-treatment-in-india/?$ /endoscopic-spine-tumor-surgery-in-india [R=301,L,NC]
+RewriteRule ^brachial-plexus-injury/?$ /brachial-plexus-treatment-in-india [R=301,L,NC]
+RewriteRule ^hydrocephalus-treatment-in-india/?$ /hydrocephalus [R=301,L,NC]
 
 # php -- BEGIN cPanel-generated handler, do not edit
 # This domain inherits the “PHP” package.

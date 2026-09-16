@@ -1,4 +1,6 @@
-﻿RewriteEngine On
+﻿Options -MultiViews
+RewriteEngine On
+RewriteBase /
 
 # Canonical: www to non-www
 RewriteCond %{HTTP_HOST} ^www\.spineandbrainindia\.com$ [NC]
@@ -9,18 +11,13 @@ RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.php\ HTTP/ [NC]
 RewriteRule ^index\.php$ / [R=301,L]
 
 # 2. External redirect: /page.php to /page (direct browser requests with .php)
-RewriteCond %{REQUEST_METHOD} !POST
-RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /([^.]+)\.php [NC]
-RewriteRule ^([^.]+)\.php$ /$1 [R=301,L]
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.php[\s?] [NC]
+RewriteRule ^ %1 [R=301,L]
 
-# 3. Internally add .php extension for clean URLs (serves /page from page.php)
+# 3. Internally add .php extension for clean URLs
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}\.php -f
-RewriteRule ^(.*)$ $1.php [L]
-
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{DOCUMENT_ROOT}/$1.php -f
-RewriteRule ^(.*)$ $1.php [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^.]+?)/?$ $1.php [L]
 
 # 4. Old about-us redirects
 RewriteRule ^about-us/docto(.*)$ /about [R=301,L,NC]

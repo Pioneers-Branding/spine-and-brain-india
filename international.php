@@ -434,7 +434,7 @@
                         </div>
                     </div>
                     <div class="ps-top">
-                        <p><b>Interpreter Facility </b> <br>Free provision of interpreters familiar with medical terminologies and patients needs.</p>
+                        <p><b>Interpreter Facility </b> <br>Provision of interpreters familiar with medical terminologies and patients needs.</p>
                     </div>
                     <span class="ps-sp-bot">04</span>
                 </li>

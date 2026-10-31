@@ -620,7 +620,7 @@
 
                                         <p class="mb-0" style="margin-top:15px;">Whether your condition calls for <a href="brain-tumor-surgery-in-India.php"><strong>traditional brain surgery</strong></a>, CyberKnife, Gamma Knife, or a combination approach, Dr. Saroha ensures that you receive transparent, evidence-based guidance. His extensive experience with complex brain tumors, combined with access to state-of-the-art technology at Max Hospital, enables him to offer the full spectrum of <a href="brain-surgery-in-India.php"><strong>brain surgery options in India</strong></a>.</p>
 
-                                        <p class="mb-0" style="margin-top:15px;">To discuss your specific case and determine the most appropriate treatment, contact Dr. Arun Saroha's team at <strong>+91-7860000705</strong> or request a free consultation through this page.</p>
+                                        <p class="mb-0" style="margin-top:15px;">To discuss your specific case and determine the most appropriate treatment, contact Dr. Arun Saroha's team at <strong>+91-7860000705</strong> or request a consultation through this page.</p>
 
                                     </div>
 

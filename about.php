@@ -225,7 +225,7 @@
       "name": "How can I book a consultation with Dr. Arun Saroha?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "You can book a consultation by calling +91 78600 00705, emailing drarunsaroha@gmail.com, or filling out the consultation request form on the website. Free consultations are available for new patients."
+        "text": "You can book a consultation by calling +91 78600 00705, emailing drarunsaroha@gmail.com, or filling out the consultation request form on the website."
       }
     }
   ]
@@ -1019,7 +1019,7 @@
                     <span><i class="fas fa-star" style="margin-right:5px; color:#e3ca94;"></i> 4.9/5 Rating</span>
                 </div>
                 <div class="hero-cta-group">
-                    <a href="contact" class="btn-primary-cta"><i class="fas fa-calendar-check"></i> Book Free Consultation</a>
+                    <a href="contact" class="btn-primary-cta"><i class="fas fa-calendar-check"></i> Book Consultation</a>
                     <a href="assets/images/resources/Dr-Arun-Saroha-Ebook .pdf" class="btn-outline-cta" download><i class="fas fa-download"></i> Download Profile</a>
                 </div>
             </div>
@@ -1081,7 +1081,7 @@
                     </div>
                     <div class="bio-highlight-item">
                         <i class="fas fa-check-circle"></i>
-                        <span>Free Treatment for Underprivileged Patients</span>
+                        <span>Charitable Care for Underprivileged Patients</span>
                     </div>
                     <div class="bio-highlight-item">
                         <i class="fas fa-check-circle"></i>
@@ -1093,7 +1093,7 @@
         <div class="row" style="margin-top: 30px;">
             <div class="col-12">
                 <div class="bio-content">
-                    <p>Beyond his professional achievements, Dr. Saroha is deeply committed to serving society. He actively associates with social organizations, providing <strong>free treatment to underprivileged patients</strong> who cannot afford surgical care. His dedication to healthcare extends to mentoring the next generation of neurosurgeons, participating in national and international conferences, and contributing to research that advances the field of neurosurgery.</p>
+                    <p>Beyond his professional achievements, Dr. Saroha is deeply committed to serving society. He actively associates with social organizations, providing <strong>charitable treatment to underprivileged patients</strong> who cannot afford surgical care. His dedication to healthcare extends to mentoring the next generation of neurosurgeons, participating in national and international conferences, and contributing to research that advances the field of neurosurgery.</p>
                     <p>Choosing Dr. Arun Saroha means embracing a journey toward recovery — guided by <strong>unwavering expertise, compassion, and dedication</strong>. Whether you are dealing with a complex spine condition, <a href="brain-tumor-surgery-in-India" title="Brain Tumor Surgery in India">a brain tumor</a>, or any other neurological challenge, Dr. Saroha and his team at Spine and Brain India offer comprehensive care, personalized treatment plans, and a commitment to restoring your quality of life.</p>
                 </div>
             </div>
@@ -1271,7 +1271,7 @@
                 <div class="why-icon"><i class="fas fa-hand-holding-heart"></i></div>
                 <div>
                     <h4>Compassionate Patient-First Approach</h4>
-                    <p>Every patient receives personalized attention with customized treatment plans. Dr. Saroha also provides free treatment to underprivileged patients through social organizations.</p>
+                    <p>Every patient receives personalized attention with customized treatment plans. Dr. Saroha also provides charitable treatment to underprivileged patients through social organizations.</p>
                 </div>
             </div>
             <div class="why-card">
@@ -1307,7 +1307,7 @@
             </div>
             <div class="trust-item">
                 <i class="fas fa-handshake"></i>
-                <span>Free Consultations</span>
+                <span>Expert Consultations</span>
             </div>
         </div>
     </div>
@@ -1435,7 +1435,7 @@
                     <span class="faq-toggle"><i class="fas fa-plus"></i></span>
                 </button>
                 <div class="faq-answer">
-                    <p>You can book a free consultation by calling +91 78600 00705, emailing drarunsaroha@gmail.com, or filling out the consultation request form on this page. Dr. Saroha's team will respond promptly to schedule your appointment.</p>
+                    <p>You can book a consultation by calling +91 78600 00705, emailing drarunsaroha@gmail.com, or filling out the consultation request form on this page. Dr. Saroha's team will respond promptly to schedule your appointment.</p>
                 </div>
             </div>
         </div>
@@ -1448,18 +1448,18 @@
         <div class="cta-inner">
             <div class="cta-text">
                 <h2>Ready to Take the First Step Toward Recovery?</h2>
-                <p>Schedule a free consultation with Dr. Arun Saroha and get expert guidance on your brain or spine condition. Our team is here to help you every step of the way.</p>
+                <p>Schedule a consultation with Dr. Arun Saroha and get expert guidance on your brain or spine condition. Our team is here to help you every step of the way.</p>
                 <div style="margin-top:25px;">
                     <a href="tel:+917860000705" class="btn-primary-cta" style="margin-bottom:10px;"><i class="fas fa-phone-alt"></i> Call +91 78600 00705</a>
                 </div>
             </div>
             <div class="cta-form">
-                <h4>Request a Free Consultation</h4>
+                <h4>Request a Consultation</h4>
                 <form accept-charset="UTF-8" action="https://app.formester.com/forms/8b968eed-e587-4ac1-9b4a-0c508b75c1cc/submissions" method="POST">
                     <input type="text" name="name" placeholder="Your Full Name *" required>
                     <input type="email" name="email" placeholder="Email Address *" required>
                     <input type="tel" name="phone" placeholder="Phone Number *" required>
-                    <button type="submit">Book Free Consultation</button>
+                    <button type="submit">Book Consultation</button>
                 </form>
             </div>
         </div>

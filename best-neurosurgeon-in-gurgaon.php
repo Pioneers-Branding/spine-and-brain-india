@@ -33,7 +33,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://spineandbrainindia.com/best-neurosurgeon-in-gurgaon.php" />
   <meta property="og:title" content="Dr. Arun Saroha – Best Neurosurgeon in Gurgaon | 9000+ Surgeries | Max Hospital" />
-  <meta property="og:description" content="Meet Dr. Arun Saroha — Gurgaon's leading neurosurgeon at Max Hospital with 26+ years & 9,000+ successful brain & spine surgeries. Book free consultation today." />
+  <meta property="og:description" content="Meet Dr. Arun Saroha — Gurgaon's leading neurosurgeon at Max Hospital with 26+ years & 9,000+ successful brain & spine surgeries. Book consultation today." />
   <meta property="og:image" content="https://spineandbrainindia.com/assets/img/drimg.webp" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
@@ -527,7 +527,7 @@
         <p class="hero-subtitle">26+ years of neurosurgical excellence with 9,000+ successful brain &amp; spine surgeries at Max Hospital Gurugram. Fellowship-trained, internationally recognized, trusted by patients from 50+ countries.</p>
         <div class="hero-cta-group">
           <a href="contact.php" class="hero-cta hero-cta-primary">
-            <i class="fas fa-calendar-check"></i> Book Free Consultation
+            <i class="fas fa-calendar-check"></i> Book Consultation
           </a>
           <a href="about.php" class="hero-cta hero-cta-secondary">
             <i class="fas fa-user-md"></i> Meet Dr. Saroha
@@ -1279,7 +1279,7 @@
         <div class="text-center mt-4 p-5" style="background: linear-gradient(135deg, #0d2137, #1a3a5c); border-radius: 12px;">
           <h3 class="mb-2" style="color: #fff; font-size: 26px; font-weight: 800;">Ready to Consult Gurgaon's Best Neurosurgeon?</h3>
           <p class="mb-4" style="color: rgba(255,255,255,0.8);">Dr. Arun Saroha — Director of Neurosurgery, Max Hospital | 26+ Years | 9,000+ Surgeries | In-Person &amp; Teleconsultation Available</p>
-          <a href="tel:+917860000705" class="thm-btn thm-bg d-inline-block position-relative overflow-hidden" title="Book Consultation">Book Free Consultation — Call +91 78600 00705</a>
+          <a href="tel:+917860000705" class="thm-btn thm-bg d-inline-block position-relative overflow-hidden" title="Book Consultation">Book Consultation — Call +91 78600 00705</a>
         </div>
       </div>
     </div>
@@ -1314,7 +1314,7 @@
                 class="request-consult-wrap2 z1 brd-rd10 position-relative overflow-hidden scndry-layer opc98 text-center w-100"
                 style="background-image: url(assets/images/pattern-bg1_11zon.webp)">
                 <div class="request-consult-title2 w-100">
-                  <h3 class="mb-0">Request a Free Consultation</h3>
+                  <h3 class="mb-0">Request a Consultation</h3>
                   <p class="mb-0">Fill out the form below and we'll get back shortly.</p>
                 </div>
                 <form class="w-100 d-inline-block" accept-charset='UTF-8'

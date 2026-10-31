@@ -7,7 +7,7 @@
 
 <title>Meningioma Surgery in India | Expert Removal by Dr. Arun Saroha</title>
 
-<meta name="description" content="Expert meningioma surgery in India by Dr. Arun Saroha. 90-95% success rate. Benign brain tumor removal at Max Hospital. &#8377;2.4L-4.8L cost. Book free consultation." />
+<meta name="description" content="Expert meningioma surgery in India by Dr. Arun Saroha. 90-95% success rate. Benign brain tumor removal at Max Hospital. &#8377;2.4L-4.8L cost. Book consultation." />
 
 <meta name="keywords" content="meningioma surgery India, meningioma removal, benign brain tumor surgery India, meningioma treatment cost, meningioma surgeon India, Dr Arun Saroha meningioma" />
 <link rel="canonical" href="https://spineandbrainindia.com/meningioma-surgery-in-india" />

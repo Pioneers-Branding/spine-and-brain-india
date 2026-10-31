@@ -278,7 +278,7 @@
   "name": "How to Get Epilepsy Treatment in India with Dr. Arun Saroha",
   "description": "Step-by-step guide to receiving world-class epilepsy treatment at Max Hospital, India.",
   "step": [
-    {"@type": "HowToStep", "position": 1, "name": "Book a Consultation", "text": "Call +91 78600 00705 or fill out the online form to schedule a free consultation with Dr. Arun Saroha."},
+    {"@type": "HowToStep", "position": 1, "name": "Book a Consultation", "text": "Call +91 78600 00705 or fill out the online form to schedule a consultation with Dr. Arun Saroha."},
     {"@type": "HowToStep", "position": 2, "name": "Diagnostic Evaluation", "text": "Undergo comprehensive testing including EEG, MRI, and video-EEG monitoring to determine the type and focus of epilepsy."},
     {"@type": "HowToStep", "position": 3, "name": "Personalized Treatment Plan", "text": "Receive a customized treatment plan — medication optimization, surgical evaluation, or advanced therapy options."},
     {"@type": "HowToStep", "position": 4, "name": "Treatment & Recovery", "text": "Begin treatment with ongoing monitoring, follow-up consultations, and medication adjustments for optimal seizure control."}
@@ -1036,7 +1036,7 @@
                     </div>
                 </div>
                 <div class="hero-cta-row">
-                    <a href="contact" class="btn-cta-primary"><i class="fas fa-calendar-check"></i> Book Free Consultation</a>
+                    <a href="contact" class="btn-cta-primary"><i class="fas fa-calendar-check"></i> Book Consultation</a>
                     <a href="tel:+917860000705" class="btn-cta-outline"><i class="fas fa-phone-alt"></i> +91 78600 00705</a>
                 </div>
             </div>
@@ -1518,7 +1518,7 @@
             <div class="why-card">
                 <div class="w-icon"><i class="fas fa-hand-holding-heart"></i></div>
                 <h4>Compassionate Patient Care</h4>
-                <p>Personalized treatment plans with thorough counseling. Also provides free treatment to underprivileged patients through social organizations.</p>
+                <p>Personalized treatment plans with thorough counseling. Also provides charitable treatment to underprivileged patients through social organizations.</p>
             </div>
             <div class="why-card">
                 <div class="w-icon"><i class="fas fa-globe-asia"></i></div>
@@ -1582,7 +1582,7 @@
                         <td>Monthly Medication (AEDs)</td>
                         <td>500-5,000</td>
                         <td>$200-800</td>
-                        <td>Free (NHS)</td>
+                        <td>Government-funded (NHS)</td>
                     </tr>
                 </tbody>
             </table>
@@ -1613,7 +1613,7 @@
             </div>
             <div class="trust-item">
                 <i class="fas fa-handshake"></i>
-                <span>Free Consultations</span>
+                <span>Expert Consultations</span>
             </div>
         </div>
     </div>
@@ -1824,19 +1824,19 @@
         <div class="cta-flex">
             <div class="cta-text">
                 <h2>Take the First Step Toward a Seizure-Free Life</h2>
-                <p>Schedule a free consultation with Dr. Arun Saroha. Get expert evaluation of your epilepsy condition and a personalized treatment plan from one of India's leading neurosurgeons.</p>
+                <p>Schedule a consultation with Dr. Arun Saroha. Get expert evaluation of your epilepsy condition and a personalized treatment plan from one of India's leading neurosurgeons.</p>
                 <div style="margin-top:20px;">
                     <a href="tel:+917860000705" class="btn-cta-primary"><i class="fas fa-phone-alt"></i> Call +91 78600 00705</a>
                 </div>
             </div>
             <div class="cta-form-box">
-                <h4>Book Free Epilepsy Consultation</h4>
+                <h4>Book Epilepsy Consultation</h4>
                 <form accept-charset="UTF-8" action="https://app.formester.com/forms/8b968eed-e587-4ac1-9b4a-0c508b75c1cc/submissions" method="POST">
                     <input type="text" name="name" placeholder="Your Full Name *" required>
                     <input type="email" name="email" placeholder="Email Address *" required>
                     <input type="tel" name="phone" placeholder="Phone Number *" required>
                     <input type="hidden" name="page" value="Epilepsy Treatment Page">
-                    <button type="submit">Book Free Consultation</button>
+                    <button type="submit">Book Consultation</button>
                 </form>
             </div>
         </div>

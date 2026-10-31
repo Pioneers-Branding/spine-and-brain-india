@@ -6,13 +6,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <title>Top Neurosurgeon in India – Dr. Arun Saroha | 9000+ Successful Brain &amp; Spine Surgeries | Max Hospital</title>
   <meta name="description"
-    content="Dr. Arun Saroha, a leading neurosurgeon in India with 26+ years' experience &amp; 9000+ successful brain &amp; spine surgeries at Max Hospital. Book a free consultation." />
+    content="Dr. Arun Saroha, a leading neurosurgeon in India with 26+ years' experience &amp; 9000+ successful brain &amp; spine surgeries at Max Hospital. Book a consultation." />
 
   <!-- Open Graph Tags -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://spineandbrainindia.com/" />
   <meta property="og:title" content="Top Neurosurgeon in India – Dr. Arun Saroha | 9000+ Successful Brain &amp; Spine Surgeries | Max Hospital" />
-  <meta property="og:description" content="Looking for the #1 neurosurgeon in India? Dr. Arun Saroha offers 26+ years of expertise, 9000+ successful brain &amp; spine surgeries at Max Hospital. Get a free consultation today!" />
+  <meta property="og:description" content="Looking for the #1 neurosurgeon in India? Dr. Arun Saroha offers 26+ years of expertise, 9000+ successful brain &amp; spine surgeries at Max Hospital. Get a consultation today!" />
   <meta property="og:image" content="https://spineandbrainindia.com/assets/images/pag-top-bg_11zon.webp" />
 
   <!-- Geo Tags -->
@@ -1124,7 +1124,7 @@
                 class="request-consult-wrap2 z1 brd-rd10 position-relative overflow-hidden scndry-layer opc98 text-center w-100"
                 style="background-image: url(assets/images/pattern-bg1_11zon.webp)">
                 <div class="request-consult-title2 w-100">
-                  <h3 class="mb-0">Request a Free Consultation</h3>
+                  <h3 class="mb-0">Request a Consultation</h3>
                   <p class="mb-0">Fill out the form below and we'll get back shortly.</p>
                 </div>
                 <form class="w-100 d-inline-block" accept-charset='UTF-8'

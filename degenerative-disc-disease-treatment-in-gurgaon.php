@@ -203,7 +203,7 @@ Conservative treatment options are often effective in managing mild to moderate 
                                
                             <p>Dr. Saroha has more than 26 years of experience in neurosurgery, and has performed more than 9,000 surgeries successfully. He specializes in treating brain and spine disorders, including degenerative spine disorders, brain tumors, disc replacements, and pediatric neurosurgeries.</p>
                             
-                            <p>Dr. Saroha is known for his expertise in performing minimally invasive surgeries, which reduce the risk of complications and allow for faster recovery times. He is also associated with many social organizations that provide free treatment to poor patients.
+                            <p>Dr. Saroha is known for his expertise in performing minimally invasive surgeries, which reduce the risk of complications and allow for faster recovery times. He is also associated with many social organizations that provide charitable treatment to poor patients.
 </p>
                             
                             

@@ -101,7 +101,7 @@ Dr. Saroha has over 26 years of experience in neurosurgery and has performed ove
                                        
                                        
                                        
-                                       <p>If you are looking for the best doctor for herniated disc surgery in India, Dr. Arun Saroha is an excellent choice. He is a highly qualified and experienced neurosurgeon who has received numerous prestigious awards in the field of neurosurgery. Dr. Saroha is a member of many prestigious organizations in the field of neurology and spine surgery across India and the USA. He is also associated with many social organizations for providing free treatment to poor patients.</p>
+                                       <p>If you are looking for the best doctor for herniated disc surgery in India, Dr. Arun Saroha is an excellent choice. He is a highly qualified and experienced neurosurgeon who has received numerous prestigious awards in the field of neurosurgery. Dr. Saroha is a member of many prestigious organizations in the field of neurology and spine surgery across India and the USA. He is also associated with many social organizations for providing charitable treatment to poor patients.</p>
                                       
                                       
                                       

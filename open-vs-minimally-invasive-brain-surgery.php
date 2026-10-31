@@ -659,7 +659,7 @@
 
                                         <blockquote class="blockquote text-center thm-bg brd-rd10" style="margin-top:20px;">
                                             <i class="flaticon-quote d-block"></i>
-                                            <p class="mb-0"><strong>Need help deciding between open and minimally invasive brain surgery?</strong> Dr. Arun Saroha offers free initial consultations to evaluate your case and recommend the best surgical approach. Call <strong>+91-7860000705</strong> or request a callback using the form on this page.</p>
+                                            <p class="mb-0"><strong>Need help deciding between open and minimally invasive brain surgery?</strong> Dr. Arun Saroha offers initial consultations to evaluate your case and recommend the best surgical approach. Call <strong>+91-7860000705</strong> or request a callback using the form on this page.</p>
                                         </blockquote>
 
                                         <p class="mb-0" style="margin-top:20px;"><strong>Related pages:</strong></p>
@@ -780,7 +780,7 @@
             </div>
             <div class="faq-answer">
                 <div class="faq-answer-content">
-                    The right surgical approach depends on multiple factors: your tumor's type, size, location, and grade; whether it is benign or malignant; its relationship to critical blood vessels and brain structures; and your overall health and personal preferences. A thorough evaluation including <span class="keyword-highlight">MRI with contrast, CT scans, and neurological assessment</span> is essential. Dr. Arun Saroha personally reviews all imaging and clinical data to develop a customized surgical plan. During your consultation, he will explain why a particular approach is recommended and what outcomes you can expect. Schedule a free consultation at +91-7860000705 to get a personalized recommendation.
+                    The right surgical approach depends on multiple factors: your tumor's type, size, location, and grade; whether it is benign or malignant; its relationship to critical blood vessels and brain structures; and your overall health and personal preferences. A thorough evaluation including <span class="keyword-highlight">MRI with contrast, CT scans, and neurological assessment</span> is essential. Dr. Arun Saroha personally reviews all imaging and clinical data to develop a customized surgical plan. During your consultation, he will explain why a particular approach is recommended and what outcomes you can expect. Schedule a consultation at +91-7860000705 to get a personalized recommendation.
                 </div>
             </div>
         </div>

@@ -278,7 +278,7 @@ h4 {
                         <!--        <div class="col-md-6 col-sm-6 col-lg-4">-->
                         <!--            <div class="banner-box text-center position-relative overflow-hidden w-100">-->
                         <!--                <img class="img-fluid w-100" src="assets/images/resources/banner-img1-2.jpg" alt="Banner Image 2">-->
-                        <!--                <div class="banner-info z1 position-absolute"><h3 class="mb-0"><a href="about.html" title="">Schedule Your Free Discovery Call</a></h3></div>-->
+                        <!--                <div class="banner-info z1 position-absolute"><h3 class="mb-0"><a href="about.html" title="">Schedule Your Discovery Call</a></h3></div>-->
                         <!--            </div>-->
                         <!--        </div>-->
                         <!--        <div class="col-md-6 col-sm-6 col-lg-4">-->

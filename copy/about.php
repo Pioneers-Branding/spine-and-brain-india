@@ -107,7 +107,7 @@
                             <div class="row mrg30">
                                 <div class="col-md-12 col-sm-12 col-lg-12">
                                     <div class="about-desc v2 w-100">
-                                        <p class="mb-0">Beyond his professional accomplishments, Dr. Saroha is deeply committed to serving society. He actively associates with social organizations, providing free treatment to underprivileged patients.
+                                        <p class="mb-0">Beyond his professional accomplishments, Dr. Saroha is deeply committed to serving society. He actively associates with social organizations, providing charitable treatment to underprivileged patients.
                                         Choosing Dr. Arun Saroha as your neurosurgeon means embracing a journey toward recovery, guided by unwavering expertise, compassion, and dedication. Driven by a passion to improve the quality of life for patients facing brain and spine challenges, he offers comprehensive care, personalized treatment plans, and a commitment to excellence.</p>
                                     </div>
                                 </div>
@@ -269,7 +269,7 @@
                                 <div class="col-md-12 col-sm-12 col-lg-6">
                                     <div class="request-consult-wrap2 z1 brd-rd10 position-relative overflow-hidden scndry-layer opc98 text-center w-100" style="background-image: url(assets/images/pattern-bg1_11zon.webp)">
                                         <div class="request-consult-title2 w-100">
-                                            <h3 class="mb-0">Request a Free Consultation</h3>
+                                            <h3 class="mb-0">Request a Consultation</h3>
                                             <p class="mb-0">Fill out the form below and we'll get back shortly.</p>
                                         </div>
                                        <form class="w-100 d-inline-block" accept-charset='UTF-8' action='https://app.formester.com/forms/8b968eed-e587-4ac1-9b4a-0c508b75c1cc/submissions' method='POST'>

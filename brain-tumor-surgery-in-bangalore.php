@@ -242,7 +242,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://spineandbrainindia.com/brain-tumor-surgery-in-bangalore" />
 <meta property="og:title" content="Brain Tumor Surgery in Bangalore | Expert Neurosurgeon Dr. Arun Saroha" />
-<meta property="og:description" content="Expert brain tumor surgery for Bangalore patients by Dr. Arun Saroha at Max Hospital Delhi NCR. 1000+ surgeries. 85-95% success rate. Book free consultation today." />
+<meta property="og:description" content="Expert brain tumor surgery for Bangalore patients by Dr. Arun Saroha at Max Hospital Delhi NCR. 1000+ surgeries. 85-95% success rate. Book consultation today." />
 <meta property="og:image" content="https://spineandbrainindia.com/assets/images/pag-top-bg_11zon.webp" />
 <meta property="og:site_name" content="Spine and Brain India" />
 
@@ -576,7 +576,7 @@
 
                                         <blockquote class="blockquote text-center thm-bg brd-rd10" style="margin-top:20px;">
                                             <i class="flaticon-quote d-block"></i>
-                                            <p class="mb-0"><strong>Bangalore patients: </strong> Get a free preliminary assessment of your brain tumor case. Share your MRI scans and medical reports via WhatsApp at <strong>+91-7860000705</strong> or email at <strong>drarunsaroha@gmail.com</strong>. Dr. Saroha's team will review your case within 24-48 hours and provide treatment recommendations and a cost estimate at no charge.</p>
+                                            <p class="mb-0"><strong>Bangalore patients: </strong> Get a preliminary assessment of your brain tumor case. Share your MRI scans and medical reports via WhatsApp at <strong>+91-7860000705</strong> or email at <strong>drarunsaroha@gmail.com</strong>. Dr. Saroha's team will review your case within 24-48 hours and provide treatment recommendations and a cost estimate at no charge.</p>
                                         </blockquote>
 
                                     </div>
@@ -618,7 +618,7 @@
             </div>
             <div class="faq-answer">
                 <div class="faq-answer-content">
-                    Yes, <span class="keyword-highlight">teleconsultation with Dr. Arun Saroha</span> is available for all Bangalore patients. The process is simple: first, share your MRI scans (DICOM CD or high-quality photos of films) and medical reports via WhatsApp at +91-7860000705 or email at drarunsaroha@gmail.com. Dr. Saroha's team reviews the scans within 24-48 hours. A video consultation is then scheduled at a convenient time to discuss your diagnosis, recommended treatment approach, expected outcomes, estimated costs, and travel planning. This preliminary assessment is provided free of charge, allowing you to make an informed decision before committing to travel from Bangalore.
+                    Yes, <span class="keyword-highlight">teleconsultation with Dr. Arun Saroha</span> is available for all Bangalore patients. The process is simple: first, share your MRI scans (DICOM CD or high-quality photos of films) and medical reports via WhatsApp at +91-7860000705 or email at drarunsaroha@gmail.com. Dr. Saroha's team reviews the scans within 24-48 hours. A video consultation is then scheduled at a convenient time to discuss your diagnosis, recommended treatment approach, expected outcomes, estimated costs, and travel planning. This preliminary assessment allows you to make an informed decision before committing to travel from Bangalore.
                 </div>
             </div>
         </div>

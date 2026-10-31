@@ -242,7 +242,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://spineandbrainindia.com/brain-tumor-surgery-in-mumbai" />
 <meta property="og:title" content="Brain Tumor Surgery in Mumbai | Expert Neurosurgeon Dr. Arun Saroha" />
-<meta property="og:description" content="Affordable brain tumor surgery for Mumbai patients by Dr. Arun Saroha at Max Hospital Delhi NCR. 1000+ successful surgeries. 85-95% success rate. Free consultation." />
+<meta property="og:description" content="Affordable brain tumor surgery for Mumbai patients by Dr. Arun Saroha at Max Hospital Delhi NCR. 1000+ successful surgeries. 85-95% success rate. Book a consultation." />
 <meta property="og:image" content="https://spineandbrainindia.com/assets/images/pag-top-bg_11zon.webp" />
 <meta property="og:site_name" content="Spine and Brain India" />
 
@@ -569,7 +569,7 @@
 
                                         <blockquote class="blockquote text-center thm-bg brd-rd10" style="margin-top:20px;">
                                             <i class="flaticon-quote d-block"></i>
-                                            <p class="mb-0"><strong>Mumbai patients:</strong> Do not let distance stand between you and the best neurosurgical care. A short 2-hour flight can connect you to world-class brain tumor surgery by Dr. Arun Saroha. Call <strong>+91-7860000705</strong> or WhatsApp your MRI reports for a free consultation and personalized treatment plan.</p>
+                                            <p class="mb-0"><strong>Mumbai patients:</strong> Do not let distance stand between you and the best neurosurgical care. A short 2-hour flight can connect you to world-class brain tumor surgery by Dr. Arun Saroha. Call <strong>+91-7860000705</strong> or WhatsApp your MRI reports for a consultation and personalized treatment plan.</p>
                                         </blockquote>
 
                                         <!-- INTERNAL LINKS -->
